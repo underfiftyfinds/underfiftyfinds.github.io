@@ -1,0 +1,34 @@
+:root{
+  --bg:#F4EDE4; --card:#FFFDF9; --ink:#2B2420; --muted:#6E625A; --acc:#B5634B; --acc-dk:#954C37; --line:#E4D8CB;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 "Inter",system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+a{color:var(--acc-dk)}
+.wrap{max-width:760px;margin:0 auto;padding:0 18px}
+header.site{border-bottom:1px solid var(--line);background:var(--card)}
+header.site .wrap{display:flex;align-items:center;justify-content:space-between;padding-top:14px;padding-bottom:14px;gap:12px}
+.logo{font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:22px;text-decoration:none;color:var(--ink);letter-spacing:-.01em}
+.logo span{color:var(--acc)}
+nav a{text-decoration:none;color:var(--muted);font-size:15px;margin-left:14px}
+.disclosure{font-size:13.5px;color:var(--muted);background:#EFE5D9;border-radius:10px;padding:10px 14px;margin:22px 0}
+h1,h2,h3{font-family:"Fraunces",Georgia,serif;line-height:1.15;letter-spacing:-.015em}
+h1{font-size:clamp(32px,7vw,48px);margin:26px 0 10px}
+h2{font-size:26px;margin:40px 0 6px}
+.lede{font-size:19px;color:var(--muted);margin:0 0 6px}
+.section-note{color:var(--muted);margin:0 0 14px;font-size:15.5px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px 20px 18px;margin:14px 0}
+.num{font-family:"Fraunces",Georgia,serif;font-size:22px;color:var(--acc);line-height:1;margin-bottom:8px}
+.card h3{font-size:20px;margin:0}
+.tier{display:block;font:600 12px/1 "Inter",sans-serif;letter-spacing:.06em;text-transform:uppercase;color:var(--acc-dk);background:#F6E3DB;border-radius:99px;padding:6px 10px;margin:6px 0 2px;width:max-content}
+.card p{margin:6px 0 12px}
+.btn{display:inline-block;background:var(--acc);color:#fff;text-decoration:none;font-weight:600;font-size:15px;padding:11px 18px;border-radius:10px;width:max-content}
+.btn:hover{background:var(--acc-dk)}
+.guides{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:18px 0 30px}
+.guide{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px;text-decoration:none;color:var(--ink)}
+.guide h3{margin:0 0 6px;font-size:21px}
+.guide p{margin:0;color:var(--muted);font-size:15px}
+.guide.soon{opacity:.6}
+.guide .tag{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--acc-dk);font-weight:600}
+footer{border-top:1px solid var(--line);margin-top:50px;padding:24px 0 40px;font-size:13.5px;color:var(--muted)}
+@media (max-width:480px){nav a{margin-left:10px;font-size:14px}.card{padding:18px 16px}}

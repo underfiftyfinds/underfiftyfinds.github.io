@@ -1,0 +1,33 @@
+[
+ {
+  "slug": "gifts-for-him-under-50",
+  "tag": "underfifty-gifts-20",
+  "title": "Gifts for Him Under $50 (He'll Actually Use)",
+  "desc": "Useful, thoughtful gifts for him under $50: boyfriend, husband, dad and brother gift ideas for the griller, the gadget guy and the guy who has everything.",
+  "h1": "Gifts for Him Under $50",
+  "lede": "Useful gifts for the boyfriend, husband, dad or brother who says he doesn't want anything. Every pick here is usually under $50.",
+  "card": "Grilling, tech, everyday carry and cozy picks for the guy who says he doesn't want anything.",
+  "sections": [
+   {"name": "For the grill guy", "note": "Practical upgrades he'll use every weekend.", "items": [
+     {"name": "Instant-read meat thermometer", "tier": "Under $25", "search": "ThermoPro instant read meat thermometer", "why": "Reads in about 2 to 3 seconds, so no more cutting into the steak to check. The most-used gift a griller can get, and it costs less than dinner out."},
+     {"name": "Heavy-duty BBQ tool set", "tier": "Under $50", "search": "heavy duty stainless steel BBQ grill tool set with case", "why": "Stainless spatula, tongs and fork in a carry case. Looks great unwrapped and replaces the mismatched tools he's been using for years."},
+     {"name": "Wireless meat probe (budget pick)", "tier": "Under $50", "search": "wireless meat thermometer bluetooth under 50", "why": "Leave it in the meat and check the temperature from his phone. Feels like a splurge gift without the splurge price."}
+   ]},
+   {"name": "For his everyday carry", "note": "Small things he'll use every single day.", "items": [
+     {"name": "Slim RFID leather wallet", "tier": "Under $25", "search": "RUNBOX slim RFID leather bifold wallet men", "why": "Trades the overstuffed wallet for something slim that still holds cards and cash. A classic gift that never misses."},
+     {"name": "Ratchet leather belt", "tier": "Under $25", "search": "mens leather ratchet belt no holes", "why": "No holes, so it adjusts to a perfect fit. Clean buckle that works with jeans or a suit."},
+     {"name": "Magnetic tool wristband", "tier": "Under $25", "search": "magnetic wristband for holding screws tools", "why": "Holds screws, nails and bits on his wrist while he works. Weirdly fun to give, and every DIY guy ends up using it."}
+   ]},
+   {"name": "For the tech guy", "note": "Gadgets that feel more expensive than they are.", "items": [
+     {"name": "Wood phone docking station", "tier": "Under $50", "search": "wood phone docking station nightstand organizer men", "why": "Keeps his phone, keys, wallet and watch in one place on the nightstand. Looks handsome and can be personalized."},
+     {"name": "Solar power bank", "tier": "Under $50", "search": "solar power bank 10000mAh fast charging", "why": "Rugged backup battery for hikes, camping, travel or game day. One of those gifts he won't think about until it saves him."},
+     {"name": "Over-ear headphones", "tier": "Under $50", "search": "Sennheiser HD 206 headphones", "why": "Comfortable wired headphones from a trusted audio brand, great for gaming, music or the office."}
+   ]},
+   {"name": "For the guy who needs to relax", "note": "Cozy, recovery and self-care picks.", "items": [
+     {"name": "Shiatsu neck and back massager", "tier": "Under $50", "search": "shiatsu neck back massager pillow with heat", "why": "Heated massage pillow for his neck or lower back after work or the gym. Usually a hit with dads too."},
+     {"name": "Beard balm", "tier": "Under $15", "search": "Bulldog original beard balm", "why": "Softens and tames the beard without feeling greasy. An easy add-on or stocking stuffer."},
+     {"name": "Moon lamp", "tier": "Under $25", "search": "3D moon lamp color changing", "why": "A glowing, realistic moon for his desk or nightstand. Looks cool in a dorm, office or game room."}
+   ]}
+  ]
+ }
+]
