@@ -1,0 +1,138 @@
+{
+ "history": [
+  {
+   "date": "2026-11-05",
+   "mode": "exploring (not enough data yet)",
+   "plan": [
+    {
+     "style": "numbered list",
+     "guide": "stocking-stuffers-under-15"
+    },
+    {
+     "style": "numbered list",
+     "guide": "gifts-for-him-under-50"
+    },
+    {
+     "style": "dark quote",
+     "guide": "stocking-stuffers-under-15"
+    }
+   ],
+   "style_share": {
+    "numbered list": 0.198,
+    "dark quote": 0.199,
+    "3-item callout": 0.206,
+    "headline (X under $Y)": 0.195,
+    "single-product spotlight": 0.202
+   },
+   "guide_share": {
+    "gifts-for-him-under-50": 0.444,
+    "stocking-stuffers-under-15": 0.556
+   }
+  }
+ ],
+ "updated": "2026-11-05",
+ "mode": "exploring (not enough data yet)",
+ "total_pins": 6,
+ "total_impressions": 0,
+ "total_clicks": 0,
+ "styles": {
+  "numbered list": {
+   "pins": 2,
+   "impressions": 0,
+   "clicks": 0,
+   "saves": 0,
+   "post_mean": 0.00498,
+   "post_lo": 0,
+   "post_hi": 0.01312
+  },
+  "dark quote": {
+   "pins": 1,
+   "impressions": 0,
+   "clicks": 0,
+   "saves": 0,
+   "post_mean": 0.00498,
+   "post_lo": 0,
+   "post_hi": 0.01312
+  },
+  "3-item callout": {
+   "pins": 1,
+   "impressions": 0,
+   "clicks": 0,
+   "saves": 0,
+   "post_mean": 0.00498,
+   "post_lo": 0,
+   "post_hi": 0.01312
+  },
+  "headline (X under $Y)": {
+   "pins": 1,
+   "impressions": 0,
+   "clicks": 0,
+   "saves": 0,
+   "post_mean": 0.00498,
+   "post_lo": 0,
+   "post_hi": 0.01312
+  },
+  "single-product spotlight": {
+   "pins": 1,
+   "impressions": 0,
+   "clicks": 0,
+   "saves": 0,
+   "post_mean": 0.00498,
+   "post_lo": 0,
+   "post_hi": 0.01312
+  }
+ },
+ "guides": {
+  "gifts-for-him-under-50": {
+   "pins": 4,
+   "impressions": 0,
+   "clicks": 0,
+   "saves": 0,
+   "post_mean": 0.00498,
+   "post_lo": 0,
+   "post_hi": 0.01312
+  },
+  "stocking-stuffers-under-15": {
+   "pins": 2,
+   "impressions": 0,
+   "clicks": 0,
+   "saves": 0,
+   "post_mean": 0.00498,
+   "post_lo": 0,
+   "post_hi": 0.01312
+  }
+ },
+ "trend_weights": {
+  "gifts-for-him-under-50": 1.0,
+  "stocking-stuffers-under-15": 1.3,
+  "white-elephant-gifts-under-25": 2.0,
+  "gifts-for-mom": 1.6,
+  "teacher-christmas-gifts": 1.5,
+  "gifts-for-dad-under-50": 1.2
+ },
+ "style_share": {
+  "numbered list": 0.198,
+  "dark quote": 0.199,
+  "3-item callout": 0.206,
+  "headline (X under $Y)": 0.195,
+  "single-product spotlight": 0.202
+ },
+ "guide_share": {
+  "gifts-for-him-under-50": 0.444,
+  "stocking-stuffers-under-15": 0.556
+ },
+ "today": [
+  {
+   "style": "numbered list",
+   "guide": "stocking-stuffers-under-15"
+  },
+  {
+   "style": "numbered list",
+   "guide": "gifts-for-him-under-50"
+  },
+  {
+   "style": "dark quote",
+   "guide": "stocking-stuffers-under-15"
+  }
+ ]
+}

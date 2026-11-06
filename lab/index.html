@@ -1,0 +1,38 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Pin Lab | Under Fifty Finds</title>
+<style>
+:root{--bg:#F4EDE4;--card:#FFFDF9;--ink:#2B2420;--muted:#6E625A;--acc:#B5634B;--line:#E4D8CB;--good:#4F7D5C}
+@media (prefers-color-scheme:dark){:root{--bg:#1E1A17;--card:#2A2420;--ink:#F2E9E1;--muted:#B5A79C;--acc:#D98A70;--line:#3B332D;--good:#7FB08B}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 Inter,system-ui,-apple-system,sans-serif}
+.wrap{max-width:820px;margin:0 auto;padding:20px 16px 60px}
+h1{font:700 30px/1.1 Georgia,serif;margin:8px 0 4px}h2{font:700 20px Georgia,serif;margin:28px 0 10px}
+.muted{color:var(--muted)}.pill{display:inline-block;background:var(--acc);color:#fff;border-radius:99px;padding:4px 12px;font-weight:600;font-size:14px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:16px 0}
+.kpi,.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.kpi b{display:block;font-size:26px}.kpi span{color:var(--muted);font-size:13px}
+.row{display:grid;grid-template-columns:minmax(120px,1.3fr) 2fr auto;gap:10px;align-items:center;padding:8px 0;border-bottom:1px solid var(--line);font-size:15px}
+.row:last-child{border:0}.bar{height:12px;background:var(--line);border-radius:99px;overflow:hidden}.bar i{display:block;height:100%;background:var(--acc)}
+.small{font-size:13px;color:var(--muted)}table{width:100%;border-collapse:collapse;font-size:14px}td,th{text-align:left;padding:6px 4px;border-bottom:1px solid var(--line)}
+</style></head><body><div class="wrap">
+<h1>Pin Lab</h1><div class="muted">The self-learning bot that decides what Under Fifty Finds posts each day.</div>
+<p><span class="pill" id="mode">loading…</span> <span class="small" id="upd"></span></p>
+<div class="kpis"><div class="kpi"><b id="k1">–</b><span>pins posted</span></div><div class="kpi"><b id="k2">–</b><span>impressions</span></div><div class="kpi"><b id="k3">–</b><span>clicks to the site</span></div><div class="kpi"><b id="k4">–</b><span>site click rate</span></div></div>
+<h2>Today's decisions</h2><div class="card" id="today"></div>
+<h2>Design styles: where the bot is placing its bets</h2><div class="card" id="styles"></div>
+<h2>Guides: where the bot is placing its bets</h2><div class="card" id="guides"></div>
+<p class="small">Bar = share of upcoming pins the bot gives this option. It mixes how well each option earns clicks with Pinterest search trends, and always keeps at least a little testing on every option so a slow starter isn't written off.</p>
+<h2>Decision history</h2><div class="card"><table id="hist"><tr><th>Date</th><th>Mode</th><th>Pins planned</th></tr></table></div>
+</div>
+<script>
+const pct=x=>(x*100).toFixed(x<0.1?1:0)+'%';
+const nice=s=>s.replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase()).replace('Under 50','Under $50').replace('Under 15','Under $15').replace('Under 25','Under $25');
+function rows(el,table,share,label){el.innerHTML=Object.keys(share).sort((a,b)=>share[b]-share[a]).map(k=>{const t=table[k]||{};return `<div class="row"><div><b>${label(k)}</b><div class="small">${t.pins||0} pins · ${t.impressions||0} views · ${t.clicks||0} clicks</div></div><div class="bar"><i style="width:${(share[k]*100).toFixed(1)}%"></i></div><div><b>${pct(share[k])}</b></div></div>`}).join('')}
+fetch('data.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{
+ document.getElementById('mode').textContent=d.mode;document.getElementById('upd').textContent='Last decision: '+d.updated;
+ k1.textContent=d.total_pins;k2.textContent=d.total_impressions.toLocaleString();k3.textContent=d.total_clicks.toLocaleString();
+ k4.textContent=d.total_impressions?pct(d.total_clicks/d.total_impressions):'–';
+ today.innerHTML=(d.today||[]).map((p,i)=>`<div class="row"><div><b>Pin ${i+1}</b></div><div>${p.style}</div><div class="small">${nice(p.guide)}</div></div>`).join('');
+ rows(styles,d.styles,d.style_share,k=>k);rows(guides,d.guides,d.guide_share,nice);
+ hist.innerHTML+= (d.history||[]).slice().reverse().map(h=>`<tr><td>${h.date}</td><td>${h.mode.split(' ')[0]}</td><td>${h.plan.map(p=>p.style+' → '+nice(p.guide)).join('<br>')}</td></tr>`).join('');
+}).catch(()=>{document.getElementById('mode').textContent='No data yet'});
+</script></body></html>

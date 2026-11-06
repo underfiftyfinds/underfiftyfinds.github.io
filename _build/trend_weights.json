@@ -1,0 +1,12 @@
+{
+ "note": "Seasonal boost per guide slug for the bandit (1.0 = neutral). Written by the weekly trend radar from Pinterest Trends: bigger and closer-to-peak searches get more weight. Unknown guides default to 1.0.",
+ "updated": "2026-11-05",
+ "weights": {
+  "gifts-for-him-under-50": 1.0,
+  "stocking-stuffers-under-15": 1.3,
+  "white-elephant-gifts-under-25": 2.0,
+  "gifts-for-mom": 1.6,
+  "teacher-christmas-gifts": 1.5,
+  "gifts-for-dad-under-50": 1.2
+ }
+}
