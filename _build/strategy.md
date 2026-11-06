@@ -9,3 +9,4 @@
 
 ## Decisions log
 - 2026-11-05: Launched. 8 boards, site live, first 3 pins posted (all Gifts for Him).
+- 2026-11-06: Published Stocking Stuffers Under $15 guide (13 items). Posted 3 pins (2 stocking stuffers, 1 him). Tested 2 new styles: "X under $Y" headline and single-product spotlight. Next guide due ~2026-11-09: Gifts for Her Under $50.

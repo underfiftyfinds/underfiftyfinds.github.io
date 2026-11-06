@@ -1,9 +1,67 @@
 {
  "notes": "Log of every pin posted. Scheduled runs read this to avoid repeats and append new entries.",
- "plan": {"start_date": "2026-11-05", "pins_per_day_weeks_1_2": 3, "pins_per_day_after_if_healthy": "5-8"},
+ "plan": {
+  "start_date": "2026-11-05",
+  "pins_per_day_weeks_1_2": 3,
+  "pins_per_day_after_if_healthy": "5-8"
+ },
  "pins": [
-  {"date": "2026-11-05", "pin_id": "251709066671355688", "board": "Gifts for Him Under $50", "image": "pins/pin1_list.png", "link": "/gifts-for-him-under-50/", "style": "numbered list", "title_added": false},
-  {"date": "2026-11-05", "pin_id": "251709066671355695", "board": "Gifts for Him Under $50", "image": "pins/pin2_quote.png", "link": "/gifts-for-him-under-50/", "style": "dark quote", "title_added": false},
-  {"date": "2026-11-05", "pin_id": "251709066671355701", "board": "Gifts for Him Under $50", "image": "pins/pin3_grill.png", "link": "/gifts-for-him-under-50/", "style": "3-item callout", "title_added": false}
+  {
+   "date": "2026-11-05",
+   "pin_id": "251709066671355688",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin1_list.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "numbered list",
+   "title_added": false
+  },
+  {
+   "date": "2026-11-05",
+   "pin_id": "251709066671355695",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin2_quote.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "dark quote",
+   "title_added": false
+  },
+  {
+   "date": "2026-11-05",
+   "pin_id": "251709066671355701",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin3_grill.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "3-item callout",
+   "title_added": false
+  },
+  {
+   "date": "2026-11-06",
+   "pin_id": "251709066671355968",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin4_stocking_list.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "numbered list",
+   "headline": "Stocking Stuffers Under $15",
+   "title_added": false
+  },
+  {
+   "date": "2026-11-06",
+   "pin_id": "251709066671355984",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin5_stocking_under10.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "X under $Y headline",
+   "headline": "Stocking stuffers under $10",
+   "title_added": false
+  },
+  {
+   "date": "2026-11-06",
+   "pin_id": "251709066671356023",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin6_him_dock.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "single-product spotlight",
+   "headline": "The nightstand gift he didn't know he needed",
+   "title_added": false
+  }
  ]
 }
