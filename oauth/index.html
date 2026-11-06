@@ -1,0 +1,12 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex">
+<title>Pinterest connected | Under Fifty Finds</title><link rel="stylesheet" href="/style.css"></head><body>
+<header class="site"><div class="wrap"><a class="logo" href="/">Under <span>Fifty</span> Finds</a></div></header>
+<main class="wrap"><h1>Pinterest connection</h1><div id="msg" class="lede">Reading response…</div>
+<p class="section-note">This page is the return address for the Under Fifty Finds Publisher app. It only displays the one-time code Pinterest sends back; nothing is stored here.</p>
+<p><code id="code" style="font-size:18px;word-break:break-all;background:#fff;padding:10px;display:block;border-radius:8px"></code></p>
+<script>
+const q=new URLSearchParams(location.search);
+if(q.get('code')){document.getElementById('msg').textContent='Connected. Copy this one-time code into the setup script:';document.getElementById('code').textContent=q.get('code');}
+else if(q.get('error')){document.getElementById('msg').textContent='Pinterest returned an error: '+q.get('error');}
+else{document.getElementById('msg').textContent='No code in this link.';}
+</script></main></body></html>

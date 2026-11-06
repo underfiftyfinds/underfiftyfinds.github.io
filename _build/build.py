@@ -12,7 +12,7 @@ HEAD = """<!doctype html><html lang="en"><head><meta charset="utf-8">
 <nav><a href="/">Gift guides</a><a href="https://www.pinterest.com/underfiftyfinds/" rel="noopener">Pinterest</a></nav></div></header>
 <main class="wrap">"""
 DISC = '<p class="disclosure">As an Amazon Associate I earn from qualifying purchases. This page contains affiliate links, so if you buy through them I may earn a small commission at no extra cost to you. Prices change often; check Amazon for the current price.</p>'
-FOOT = """</main><footer><div class="wrap">© 2026 Under Fifty Finds. As an Amazon Associate I earn from qualifying purchases. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.</div></footer></body></html>"""
+FOOT = """</main><footer><div class="wrap">© 2026 Under Fifty Finds. As an Amazon Associate I earn from qualifying purchases. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. <a href="/privacy/">Privacy policy</a>.</div></footer></body></html>"""
 
 def link(item, tag):
     if item.get("asin"):
