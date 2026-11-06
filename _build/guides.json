@@ -8,26 +8,215 @@
   "lede": "Useful gifts for the boyfriend, husband, dad or brother who says he doesn't want anything. Every pick here is usually under $50.",
   "card": "Grilling, tech, everyday carry and cozy picks for the guy who says he doesn't want anything.",
   "sections": [
-   {"name": "For the grill guy", "note": "Practical upgrades he'll use every weekend.", "items": [
-     {"name": "Instant-read meat thermometer", "tier": "Under $25", "search": "ThermoPro instant read meat thermometer", "why": "Reads in about 2 to 3 seconds, so no more cutting into the steak to check. The most-used gift a griller can get, and it costs less than dinner out."},
-     {"name": "Heavy-duty BBQ tool set", "tier": "Under $50", "search": "heavy duty stainless steel BBQ grill tool set with case", "why": "Stainless spatula, tongs and fork in a carry case. Looks great unwrapped and replaces the mismatched tools he's been using for years."},
-     {"name": "Wireless meat probe (budget pick)", "tier": "Under $50", "search": "wireless meat thermometer bluetooth under 50", "why": "Leave it in the meat and check the temperature from his phone. Feels like a splurge gift without the splurge price."}
-   ]},
-   {"name": "For his everyday carry", "note": "Small things he'll use every single day.", "items": [
-     {"name": "Slim RFID leather wallet", "tier": "Under $25", "search": "RUNBOX slim RFID leather bifold wallet men", "why": "Trades the overstuffed wallet for something slim that still holds cards and cash. A classic gift that never misses."},
-     {"name": "Ratchet leather belt", "tier": "Under $25", "search": "mens leather ratchet belt no holes", "why": "No holes, so it adjusts to a perfect fit. Clean buckle that works with jeans or a suit."},
-     {"name": "Magnetic tool wristband", "tier": "Under $25", "search": "magnetic wristband for holding screws tools", "why": "Holds screws, nails and bits on his wrist while he works. Weirdly fun to give, and every DIY guy ends up using it."}
-   ]},
-   {"name": "For the tech guy", "note": "Gadgets that feel more expensive than they are.", "items": [
-     {"name": "Wood phone docking station", "tier": "Under $50", "search": "wood phone docking station nightstand organizer men", "why": "Keeps his phone, keys, wallet and watch in one place on the nightstand. Looks handsome and can be personalized."},
-     {"name": "Solar power bank", "tier": "Under $50", "search": "solar power bank 10000mAh fast charging", "why": "Rugged backup battery for hikes, camping, travel or game day. One of those gifts he won't think about until it saves him."},
-     {"name": "Over-ear headphones", "tier": "Under $50", "search": "Sennheiser HD 206 headphones", "why": "Comfortable wired headphones from a trusted audio brand, great for gaming, music or the office."}
-   ]},
-   {"name": "For the guy who needs to relax", "note": "Cozy, recovery and self-care picks.", "items": [
-     {"name": "Shiatsu neck and back massager", "tier": "Under $50", "search": "shiatsu neck back massager pillow with heat", "why": "Heated massage pillow for his neck or lower back after work or the gym. Usually a hit with dads too."},
-     {"name": "Beard balm", "tier": "Under $15", "search": "Bulldog original beard balm", "why": "Softens and tames the beard without feeling greasy. An easy add-on or stocking stuffer."},
-     {"name": "Moon lamp", "tier": "Under $25", "search": "3D moon lamp color changing", "why": "A glowing, realistic moon for his desk or nightstand. Looks cool in a dorm, office or game room."}
-   ]}
+   {
+    "name": "For the grill guy",
+    "note": "Practical upgrades he'll use every weekend.",
+    "items": [
+     {
+      "name": "Instant-read meat thermometer",
+      "tier": "Under $25",
+      "search": "ThermoPro instant read meat thermometer",
+      "why": "Reads in about 2 to 3 seconds, so no more cutting into the steak to check. The most-used gift a griller can get, and it costs less than dinner out."
+     },
+     {
+      "name": "Heavy-duty BBQ tool set",
+      "tier": "Under $50",
+      "search": "heavy duty stainless steel BBQ grill tool set with case",
+      "why": "Stainless spatula, tongs and fork in a carry case. Looks great unwrapped and replaces the mismatched tools he's been using for years."
+     },
+     {
+      "name": "Wireless meat probe (budget pick)",
+      "tier": "Under $50",
+      "search": "wireless meat thermometer bluetooth under 50",
+      "why": "Leave it in the meat and check the temperature from his phone. Feels like a splurge gift without the splurge price."
+     }
+    ]
+   },
+   {
+    "name": "For his everyday carry",
+    "note": "Small things he'll use every single day.",
+    "items": [
+     {
+      "name": "Slim RFID leather wallet",
+      "tier": "Under $25",
+      "search": "RUNBOX slim RFID leather bifold wallet men",
+      "why": "Trades the overstuffed wallet for something slim that still holds cards and cash. A classic gift that never misses."
+     },
+     {
+      "name": "Ratchet leather belt",
+      "tier": "Under $25",
+      "search": "mens leather ratchet belt no holes",
+      "why": "No holes, so it adjusts to a perfect fit. Clean buckle that works with jeans or a suit."
+     },
+     {
+      "name": "Magnetic tool wristband",
+      "tier": "Under $25",
+      "search": "magnetic wristband for holding screws tools",
+      "why": "Holds screws, nails and bits on his wrist while he works. Weirdly fun to give, and every DIY guy ends up using it."
+     }
+    ]
+   },
+   {
+    "name": "For the tech guy",
+    "note": "Gadgets that feel more expensive than they are.",
+    "items": [
+     {
+      "name": "Wood phone docking station",
+      "tier": "Under $50",
+      "search": "wood phone docking station nightstand organizer men",
+      "why": "Keeps his phone, keys, wallet and watch in one place on the nightstand. Looks handsome and can be personalized."
+     },
+     {
+      "name": "Solar power bank",
+      "tier": "Under $50",
+      "search": "solar power bank 10000mAh fast charging",
+      "why": "Rugged backup battery for hikes, camping, travel or game day. One of those gifts he won't think about until it saves him."
+     },
+     {
+      "name": "Over-ear headphones",
+      "tier": "Under $50",
+      "search": "Sennheiser HD 206 headphones",
+      "why": "Comfortable wired headphones from a trusted audio brand, great for gaming, music or the office."
+     }
+    ]
+   },
+   {
+    "name": "For the guy who needs to relax",
+    "note": "Cozy, recovery and self-care picks.",
+    "items": [
+     {
+      "name": "Shiatsu neck and back massager",
+      "tier": "Under $50",
+      "search": "shiatsu neck back massager pillow with heat",
+      "why": "Heated massage pillow for his neck or lower back after work or the gym. Usually a hit with dads too."
+     },
+     {
+      "name": "Beard balm",
+      "tier": "Under $15",
+      "search": "Bulldog original beard balm",
+      "why": "Softens and tames the beard without feeling greasy. An easy add-on or stocking stuffer."
+     },
+     {
+      "name": "Moon lamp",
+      "tier": "Under $25",
+      "search": "3D moon lamp color changing",
+      "why": "A glowing, realistic moon for his desk or nightstand. Looks cool in a dorm, office or game room."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "stocking-stuffers-under-15",
+  "tag": "underfifty-gifts-20",
+  "title": "Stocking Stuffers Under $15 (That Won't End Up in a Drawer)",
+  "desc": "Cheap stocking stuffer ideas under $15 for adults: cozy socks, lip balm, book lights, card games and small useful gifts for him, her and the whole family.",
+  "h1": "Stocking Stuffers Under $15",
+  "lede": "Small, useful, actually-fun stocking stuffers for adults. Every pick here is usually under $15, and most are under $10.",
+  "card": "Cozy socks, self-care minis, desk helpers and little games that won't end up in a drawer.",
+  "sections": [
+   {
+    "name": "Cozy and warm",
+    "note": "The stocking classics, just nicer.",
+    "items": [
+     {
+      "name": "Chenille cozy socks with grips",
+      "tier": "Under $15",
+      "search": "womens chenille cozy fuzzy socks with grips",
+      "why": "Plush, soft and grippy on the soles, so they double as house slippers. Nobody has ever been sad to get good socks."
+     },
+     {
+      "name": "Ribbed cuff beanie",
+      "tier": "Under $15",
+      "search": "ribbed cuffed knit beanie unisex",
+      "why": "A warm, simple beanie that goes with every coat. Easy to pick a color they'll wear all winter."
+     },
+     {
+      "name": "Funny food crew socks",
+      "tier": "Under $15",
+      "search": "novelty food crew socks men",
+      "why": "Pizza, tacos or bacon on their feet. A goofy, cheap laugh that still gets worn."
+     }
+    ]
+   },
+   {
+    "name": "Little self-care",
+    "note": "Small treats that feel like a spa night.",
+    "items": [
+     {
+      "name": "Lip balm holiday minis",
+      "tier": "Under $10",
+      "search": "eos lip balm holiday gift set",
+      "why": "A few mini lip balms in seasonal flavors. Fits perfectly in the toe of a stocking."
+     },
+     {
+      "name": "Cooling under-eye patches",
+      "tier": "Under $15",
+      "search": "hydrogel under eye patches gold",
+      "why": "A pack of cooling eye patches for puffy mornings. Feels fancy for the price."
+     },
+     {
+      "name": "Sheet mask variety pack",
+      "tier": "Under $15",
+      "search": "TONYMOLY sheet mask variety pack",
+      "why": "A handful of fun, fruity sheet masks for a cozy night in. Great for teens and adults."
+     }
+    ]
+   },
+   {
+    "name": "Desk and everyday",
+    "note": "Useful things they'll reach for all year.",
+    "items": [
+     {
+      "name": "Clip-on book light",
+      "tier": "Under $15",
+      "search": "Glocusent clip on book light rechargeable",
+      "why": "Rechargeable, warm-light reading lamp that clips onto any book. Perfect for the night reader in your life."
+     },
+     {
+      "name": "Weekly planner notepad",
+      "tier": "Under $15",
+      "search": "weekly planner notepad tear off undated",
+      "why": "A tear-off weekly planner pad for the desk or fridge. Helps start the new year organized."
+     },
+     {
+      "name": "Password logbook",
+      "tier": "Under $10",
+      "search": "password keeper book alphabetical tabs",
+      "why": "A little alphabetical book for logins. Sounds silly, but the person always resetting passwords will love it."
+     },
+     {
+      "name": "Mini multi-bit screwdriver",
+      "tier": "Under $15",
+      "search": "multi bit precision screwdriver set pocket",
+      "why": "Pocket-size screwdriver with swappable bits for glasses, toys and electronics. A handy gift for anyone."
+     }
+    ]
+   },
+   {
+    "name": "Fun and games",
+    "note": "For laughs on Christmas morning.",
+    "items": [
+     {
+      "name": "Dutch Blitz card game",
+      "tier": "Under $15",
+      "search": "Dutch Blitz card game",
+      "why": "Fast, loud and easy to learn. A family game night favorite that fits in a stocking."
+     },
+     {
+      "name": "Squishy stress ball",
+      "tier": "Under $10",
+      "search": "squishy stress ball gel for adults",
+      "why": "Satisfying to squeeze during long work calls. A tiny desk toy adults secretly love."
+     },
+     {
+      "name": "Pickle birthday candles",
+      "tier": "Under $10",
+      "search": "pickle birthday candles funny",
+      "why": "Pickle-shaped candles for the pickle lover. Pure, cheap joy and a great gag gift."
+     }
+    ]
+   }
   ]
  }
 ]

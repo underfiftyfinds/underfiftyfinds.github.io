@@ -44,12 +44,49 @@ const pins = {
     <div><div style="font:700 44px Inter">${r[0]}</div><div style="font-size:34px;color:#6E625A;margin-top:8px">${r[1]}</div></div>
    </div>`).join('')}
  </div>
- <div class="foot">underfiftyfinds.github.io</div>`
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin4_stocking_list: `
+ <div style="position:absolute;left:0;right:0;top:0;height:22px;background:#B5634B"></div>
+ <div style="padding:92px 80px 0">
+  <div class="kicker">Holiday gift guide</div>
+  <div class="serif" style="font-size:116px;line-height:1.02;margin:22px 0 18px">Stocking Stuffers<br>Under $15</div>
+  <div style="font-size:40px;color:#6E625A;margin-bottom:44px">Small gifts that won't end up in a drawer</div>
+  <div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:36px;padding:44px 56px;font-size:41px;line-height:1.78">
+   ${['Chenille cozy socks','Clip-on book light','Lip balm holiday minis','Dutch Blitz card game','Cooling under-eye patches','Mini screwdriver set','Ribbed cuff beanie','Pickle birthday candles'].map((t,i)=>`<div><span style="color:#B5634B;font-weight:700;display:inline-block;width:70px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
+   <div style="color:#6E625A">+ 5 more inside</div>
+  </div>
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin5_stocking_under10: `
+ <div style="position:absolute;inset:0;background:#B5634B"></div>
+ <div style="position:absolute;inset:60px;background:#F4EDE4;border-radius:44px"></div>
+ <div style="position:relative;padding:170px 120px 0;text-align:center">
+  <div class="kicker">Cheap stocking stuffers</div>
+  <div class="serif" style="font-size:150px;line-height:1;margin-top:40px">Under</div>
+  <div class="serif" style="font-size:420px;line-height:.9;color:#B5634B">$10</div>
+  <div style="font-size:46px;line-height:1.45;margin:40px auto 0;max-width:720px;color:#4A3F38">Tiny gifts adults actually love: lip balm minis, stress balls, pickle candles and more</div>
+  <div style="margin-top:70px"><span class="pill">See all 13 ideas</span></div>
+ </div>
+ <div class="foot" style="bottom:110px">underfiftyfinds.github.io</div>`,
+ pin6_him_dock: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:relative;padding:120px 90px 0;color:#F4EDE4">
+  <div class="kicker" style="color:#D9A08C">Gift spotlight &middot; for him</div>
+  <div class="serif" style="font-size:104px;line-height:1.05;margin-top:30px">The nightstand gift he didn't know he needed</div>
+  <div style="margin-top:70px;background:#3A312C;border:3px solid #B5634B;border-radius:36px;padding:60px 60px">
+   <div style="font:700 60px Inter;color:#fff">Wood phone docking station</div>
+   <div style="font-size:40px;line-height:1.5;color:#D9CBBE;margin-top:22px">Phone, keys, wallet and watch in one spot. Handsome, practical, and usually under $50.</div>
+  </div>
+  <div style="font-size:40px;color:#D9CBBE;margin-top:60px">+ 11 more gifts for him under $50</div>
+ </div>
+ <div class="foot" style="color:#D9A08C;bottom:90px">underfiftyfinds.github.io</div>`
 };
 (async () => {
   const b = await chromium.launch();
   const p = await b.newPage({ viewport: { width: 1000, height: 1500 } });
+  const only=process.argv.slice(2);
   for (const [name, body] of Object.entries(pins)) {
+    if (only.length && !only.includes(name)) continue;
     await p.setContent(`<html><head><style>${css}</style></head><body>${body}</body></html>`);
     await p.waitForTimeout(300);
     await p.screenshot({ path: out + name + '.png' });
