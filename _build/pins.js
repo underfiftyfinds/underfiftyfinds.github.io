@@ -101,7 +101,7 @@ const pins = {
   <div style="font-size:40px;color:#6E625A;margin-bottom:40px">The ones that get stolen twice</div>
   <div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:36px;padding:42px 56px;font-size:41px;line-height:1.75">
    ${['Mini waffle maker','Candle warmer lamp','Giant tortilla blanket','Positive pickle night light','Bad People party game','Electric drink chiller','Emoji desktop vacuum'].map((t,i)=>`<div><span style="color:#B5634B;font-weight:700;display:inline-block;width:70px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
-   <div style="color:#6E625A">+ 7 more inside</div>
+   <div style="color:#6E625A">+ 8 more inside</div>
   </div>
  </div>
  <div class="foot">underfiftyfinds.github.io</div>`,

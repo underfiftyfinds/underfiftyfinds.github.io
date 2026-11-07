@@ -13,7 +13,8 @@
    "image": "pins/pin1_list.png",
    "link": "/gifts-for-him-under-50/",
    "style": "numbered list",
-   "title_added": false
+   "title_added": true,
+   "title": "Gifts for Him Under $50: 12 Practical Gift Ideas He Will Actually Use"
   },
   {
    "date": "2026-11-05",
@@ -22,7 +23,8 @@
    "image": "pins/pin2_quote.png",
    "link": "/gifts-for-him-under-50/",
    "style": "dark quote",
-   "title_added": false
+   "title_added": true,
+   "title": "Gifts for Him Under $50 for the Guy Who Says He Doesn't Need Anything"
   },
   {
    "date": "2026-11-05",
@@ -31,7 +33,8 @@
    "image": "pins/pin3_grill.png",
    "link": "/gifts-for-him-under-50/",
    "style": "3-item callout",
-   "title_added": false
+   "title_added": true,
+   "title": "Gifts for Him Under $50: 3 Grill Gifts for the BBQ Guy"
   },
   {
    "date": "2026-11-06",
@@ -41,7 +44,8 @@
    "link": "/stocking-stuffers-under-15/",
    "style": "numbered list",
    "headline": "Stocking Stuffers Under $15",
-   "title_added": false
+   "title_added": true,
+   "title": "Stocking Stuffers Under $15 for Adults That Won't End Up in a Drawer"
   },
   {
    "date": "2026-11-06",
@@ -51,7 +55,8 @@
    "link": "/stocking-stuffers-under-15/",
    "style": "X under $Y headline",
    "headline": "Stocking stuffers under $10",
-   "title_added": false
+   "title_added": true,
+   "title": "Stocking Stuffers Under $10: Cheap Little Gifts Adults Actually Love"
   },
   {
    "date": "2026-11-06",
@@ -61,7 +66,44 @@
    "link": "/gifts-for-him-under-50/",
    "style": "single-product spotlight",
    "headline": "The nightstand gift he didn't know he needed",
-   "title_added": false
+   "title_added": true,
+   "title": "Gifts for Him Under $50: Wood Phone Docking Station for His Nightstand"
+  },
+  {
+   "date": "2026-11-07",
+   "pin_id": "251709066671383038",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin7_stocking_men_spotlight.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "single-product spotlight",
+   "headline": "Stocking stuffers for men: the tiny gift he'll use all year",
+   "search_phrase": "stocking stuffers for men",
+   "title": "Stocking Stuffers for Men: The Tiny Gift He Will Use All Year",
+   "title_added": true
+  },
+  {
+   "date": "2026-11-07",
+   "pin_id": "251709066671383041",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin8_white_elephant_list.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "headline": "White Elephant Gift Ideas Under $25",
+   "search_phrase": "white elephant gift ideas",
+   "title": "White Elephant Gift Ideas Under $25 That Get Stolen Twice",
+   "title_added": true
+  },
+  {
+   "date": "2026-11-07",
+   "pin_id": "251709066671383047",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin9_him_everyday_callout.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "3-item callout",
+   "headline": "3 gifts he'll use every day",
+   "search_phrase": "gifts for him under $50",
+   "title": "Gifts for Him Under $50: 3 Everyday Gifts He Will Use Daily",
+   "title_added": true
   }
  ]
 }
