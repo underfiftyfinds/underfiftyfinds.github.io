@@ -1,0 +1,9 @@
+{"source": "Pinterest UserActivityPinsResource creator_analytics (lifetime/90d, realtime as of 2026-11-07 03:39 UTC)",
+ "pins": {
+  "251709066671355688": {"impressions": 2, "outbound_clicks": 0, "saves": 0, "pin_clicks": 0},
+  "251709066671355695": {"impressions": 2, "outbound_clicks": 0, "saves": 0, "pin_clicks": 0},
+  "251709066671355701": {"impressions": 2, "outbound_clicks": 0, "saves": 0, "pin_clicks": 0},
+  "251709066671355968": {"impressions": 2, "outbound_clicks": 0, "saves": 0, "pin_clicks": 0},
+  "251709066671355984": {"impressions": 3, "outbound_clicks": 0, "saves": 0, "pin_clicks": 0},
+  "251709066671356023": {"impressions": 4, "outbound_clicks": 0, "saves": 0, "pin_clicks": 0}
+ }}
