@@ -79,7 +79,47 @@ const pins = {
   </div>
   <div style="font-size:40px;color:#D9CBBE;margin-top:60px">+ 11 more gifts for him under $50</div>
  </div>
- <div class="foot" style="color:#D9A08C;bottom:90px">underfiftyfinds.github.io</div>`
+ <div class="foot" style="color:#D9A08C;bottom:90px">underfiftyfinds.github.io</div>`,
+ pin7_stocking_men_spotlight: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;left:0;right:0;top:0;height:22px;background:#B5634B"></div>
+ <div style="position:relative;padding:130px 90px 0;color:#F4EDE4">
+  <div class="kicker" style="color:#D9A08C">Stocking stuffers for men</div>
+  <div class="serif" style="font-size:108px;line-height:1.05;margin-top:30px">The tiny gift he'll use all year</div>
+  <div style="margin-top:70px;background:#3A312C;border:3px solid #B5634B;border-radius:36px;padding:60px 60px">
+   <div style="font:700 60px Inter;color:#fff">Mini multi-bit screwdriver</div>
+   <div style="font-size:40px;line-height:1.5;color:#D9CBBE;margin-top:22px">Pocket-size, tons of bits, fixes glasses, toys and remotes. Fits right in the stocking toe, usually under $15.</div>
+  </div>
+  <div style="font-size:40px;color:#D9CBBE;margin-top:60px">+ 12 more stocking stuffers under $15</div>
+ </div>
+ <div class="foot" style="color:#D9A08C;bottom:90px">underfiftyfinds.github.io</div>`,
+ pin8_white_elephant_list: `
+ <div style="position:absolute;left:0;right:0;top:0;height:22px;background:#B5634B"></div>
+ <div style="padding:88px 80px 0">
+  <div class="kicker">Party season</div>
+  <div class="serif" style="font-size:108px;line-height:1.02;margin:22px 0 18px">White Elephant<br>Gift Ideas<br>Under $25</div>
+  <div style="font-size:40px;color:#6E625A;margin-bottom:40px">The ones that get stolen twice</div>
+  <div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:36px;padding:42px 56px;font-size:41px;line-height:1.75">
+   ${['Mini waffle maker','Candle warmer lamp','Giant tortilla blanket','Positive pickle night light','Bad People party game','Electric drink chiller','Emoji desktop vacuum'].map((t,i)=>`<div><span style="color:#B5634B;font-weight:700;display:inline-block;width:70px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
+   <div style="color:#6E625A">+ 8 more inside</div>
+  </div>
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin9_him_everyday_callout: `
+ <div style="position:absolute;left:0;right:0;top:0;height:640px;background:#B5634B"></div>
+ <div style="position:relative;padding:110px 80px 0;color:#FFF6EE">
+  <div class="kicker" style="color:#FFE2D6">Gifts for him under $50</div>
+  <div class="serif" style="font-size:108px;line-height:1.03;margin-top:24px">3 gifts he'll<br>use every day</div>
+  <div style="font-size:40px;margin-top:22px;color:#FFE2D6">Practical, handsome, never re-gifted</div>
+ </div>
+ <div style="position:absolute;left:80px;right:80px;top:560px">
+  ${[['Slim RFID leather wallet','Fits a front pocket, blocks card skimmers'],['Ratchet leather belt','No holes, perfect fit every time'],['Magnetic tool wristband','Holds screws and bits while he works']].map((r,i)=>`
+   <div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:30px;padding:38px 46px;margin-bottom:28px;display:flex;gap:34px;align-items:center">
+    <div class="serif" style="font-size:84px;color:#B5634B;width:80px">${i+1}</div>
+    <div><div style="font:700 44px Inter">${r[0]}</div><div style="font-size:34px;color:#6E625A;margin-top:8px">${r[1]}</div></div>
+   </div>`).join('')}
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`
 };
 (async () => {
   const b = await chromium.launch();
