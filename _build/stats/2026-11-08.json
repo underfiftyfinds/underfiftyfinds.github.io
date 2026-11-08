@@ -1,0 +1,59 @@
+{
+ "source": "Pinterest UserActivityPinsResource creator_analytics (90d, realtime as of 2026-11-08 03:38 UTC). Note: saves may include our own second-board repins.",
+ "pins": {
+  "251709066671383047": {
+   "impressions": 3,
+   "outbound_clicks": 0,
+   "saves": 0,
+   "pin_clicks": 1
+  },
+  "251709066671383041": {
+   "impressions": 4,
+   "outbound_clicks": 0,
+   "saves": 1,
+   "pin_clicks": 0
+  },
+  "251709066671383038": {
+   "impressions": 3,
+   "outbound_clicks": 0,
+   "saves": 1,
+   "pin_clicks": 0
+  },
+  "251709066671356023": {
+   "impressions": 8,
+   "outbound_clicks": 0,
+   "saves": 0,
+   "pin_clicks": 0
+  },
+  "251709066671355984": {
+   "impressions": 6,
+   "outbound_clicks": 0,
+   "saves": 1,
+   "pin_clicks": 0
+  },
+  "251709066671355968": {
+   "impressions": 4,
+   "outbound_clicks": 0,
+   "saves": 0,
+   "pin_clicks": 0
+  },
+  "251709066671355701": {
+   "impressions": 4,
+   "outbound_clicks": 0,
+   "saves": 1,
+   "pin_clicks": 0
+  },
+  "251709066671355695": {
+   "impressions": 4,
+   "outbound_clicks": 0,
+   "saves": 0,
+   "pin_clicks": 0
+  },
+  "251709066671355688": {
+   "impressions": 5,
+   "outbound_clicks": 0,
+   "saves": 0,
+   "pin_clicks": 0
+  }
+ }
+}

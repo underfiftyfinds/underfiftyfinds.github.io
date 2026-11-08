@@ -119,6 +119,48 @@ const pins = {
     <div><div style="font:700 44px Inter">${r[0]}</div><div style="font-size:34px;color:#6E625A;margin-top:8px">${r[1]}</div></div>
    </div>`).join('')}
  </div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin10_stocking_men_list: `
+ <div style="position:absolute;left:0;right:0;top:0;height:22px;background:#2B2420"></div>
+ <div style="padding:92px 80px 0">
+  <div class="kicker">For the guys</div>
+  <div class="serif" style="font-size:112px;line-height:1.02;margin:22px 0 18px">Stocking Stuffers<br>for Men<br>Under $15</div>
+  <div style="font-size:40px;color:#6E625A;margin-bottom:40px">Little gifts he'll actually keep</div>
+  <div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:36px;padding:42px 56px;font-size:41px;line-height:1.75">
+   ${['Mini multi-bit screwdriver','Ribbed cuff beanie','Funny food crew socks','Clip-on book light','Grippy cozy socks','Dutch Blitz card game','Squishy stress ball'].map((t,i)=>`<div><span style="color:#B5634B;font-weight:700;display:inline-block;width:70px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
+   <div style="color:#6E625A">+ more inside</div>
+  </div>
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin11_him_tech_callout: `
+ <div style="position:absolute;left:0;right:0;top:0;height:640px;background:#2B2420"></div>
+ <div style="position:relative;padding:110px 80px 0;color:#F4EDE4">
+  <div class="kicker" style="color:#D9A08C">Gifts for him under $50</div>
+  <div class="serif" style="font-size:108px;line-height:1.03;margin-top:24px">3 tech gifts<br>he'll love</div>
+  <div style="font-size:40px;margin-top:22px;color:#D9A08C">Feel way more expensive than they are</div>
+ </div>
+ <div style="position:absolute;left:80px;right:80px;top:560px">
+  ${[['Wood phone docking station','Phone, keys and watch in one spot'],['Solar power bank','Rugged backup battery for trips'],['Over-ear headphones','Trusted audio brand, all-day comfy']].map((r,i)=>`
+   <div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:30px;padding:38px 46px;margin-bottom:28px;display:flex;gap:34px;align-items:center">
+    <div class="serif" style="font-size:84px;color:#B5634B;width:80px">${i+1}</div>
+    <div><div style="font:700 44px Inter">${r[0]}</div><div style="font-size:34px;color:#6E625A;margin-top:8px">${r[1]}</div></div>
+   </div>`).join('')}
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin12_white_elephant_funny_callout: `
+ <div style="position:absolute;left:0;right:0;top:0;height:640px;background:#B5634B"></div>
+ <div style="position:relative;padding:110px 80px 0;color:#FFF6EE">
+  <div class="kicker" style="color:#FFE2D6">White elephant gift ideas</div>
+  <div class="serif" style="font-size:108px;line-height:1.03;margin-top:24px">3 funny gifts<br>under $25</div>
+  <div style="font-size:40px;margin-top:22px;color:#FFE2D6">They get the laugh, then get stolen</div>
+ </div>
+ <div style="position:absolute;left:80px;right:80px;top:560px">
+  ${[['Giant tortilla blanket','A soft, round, very real-looking burrito'],['Positive pickle night light','A smiling pickle nobody can resist'],['Emoji desktop vacuum','Silly-looking, cleans crumbs for real']].map((r,i)=>`
+   <div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:30px;padding:38px 46px;margin-bottom:28px;display:flex;gap:34px;align-items:center">
+    <div class="serif" style="font-size:84px;color:#B5634B;width:80px">${i+1}</div>
+    <div><div style="font:700 44px Inter">${r[0]}</div><div style="font-size:34px;color:#6E625A;margin-top:8px">${r[1]}</div></div>
+   </div>`).join('')}
+ </div>
  <div class="foot">underfiftyfinds.github.io</div>`
 };
 (async () => {

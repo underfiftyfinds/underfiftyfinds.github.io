@@ -1,18 +1,18 @@
 {
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "mode": "exploring (not enough data yet)",
  "plan": [
   {
-   "style": "single-product spotlight",
-   "guide": "stocking-stuffers-under-15"
-  },
-  {
    "style": "numbered list",
-   "guide": "white-elephant-gifts-under-25"
+   "guide": "stocking-stuffers-under-15"
   },
   {
    "style": "3-item callout",
    "guide": "gifts-for-him-under-50"
+  },
+  {
+   "style": "3-item callout",
+   "guide": "white-elephant-gifts-under-25"
   }
  ]
 }
