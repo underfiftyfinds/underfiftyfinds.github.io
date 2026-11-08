@@ -24,3 +24,4 @@ After Christmas (from Dec 26): Amazon Finds Under $25 (+70% YoY, peaks Dec 28), 
 - 2026-11-05: Trend radar: re-ordered guides (white elephant, mom, teacher, dad first); created boards "White Elephant Gift Ideas" and "Teacher Christmas Gifts".
 - 2026-11-07: Added White Elephant Gifts Under $25 guide (15 picks). Stats now readable via UserActivityPinsResource creator_analytics (impressions, pin/outbound clicks, saves).
 - 2026-11-07: Titles: all 9 pins titled via the page's own PinResource/update (options {id,title}) from a logged-in pinterest.com tab; works reliably, use it for new pins. Note: Pages takes >2 min to refresh a changed image; give new PNGs a new filename instead of overwriting.
+- 2026-11-08: Claimed website underfiftyfinds.github.io on Pinterest (p:domain_verify meta tag in build.py HEAD; keep it). Skipped Conversions API / Pinterest tag (ads only).
