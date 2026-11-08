@@ -2,7 +2,7 @@
 import json, html, pathlib, urllib.parse
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-HEAD = """<!doctype html><html lang="en"><head><meta charset="utf-8">
+HEAD = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="p:domain_verify" content="dceb09e46252e908b2a283bb8a5bf025"/>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{title}</title><meta name="description" content="{desc}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
