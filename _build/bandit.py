@@ -21,6 +21,7 @@ STYLES = {  # canonical arm -> words that identify it in pin_log "style"
 }
 PRIOR_A, PRIOR_B = 1.0, 200.0   # prior belief: ~0.5% outbound click rate
 MIN_SHARE = 0.10                # never starve an arm completely (keeps exploring)
+MAX_SHARE_EXPLORING = 0.35      # while exploring (<500 impressions), one lucky click can't grab half the pins
 
 
 def canon_style(s):
@@ -68,7 +69,7 @@ def arm_table(pins, stats, key_fn, arms):
     return t
 
 
-def win_probs(table, weights=None, draws=4000, rng=random):
+def win_probs(table, weights=None, draws=4000, rng=random, cap=None):
     arms = list(table)
     wins = {a: 0 for a in arms}
     for _ in range(draws):
@@ -83,7 +84,16 @@ def win_probs(table, weights=None, draws=4000, rng=random):
     # floor so nothing is starved, then renormalize
     probs = {a: max(p, MIN_SHARE) for a, p in probs.items()}
     s = sum(probs.values())
-    return {a: p / s for a, p in probs.items()}
+    probs = {a: p / s for a, p in probs.items()}
+    if cap and cap * len(probs) >= 1:
+        for _ in range(10):  # clip at cap, hand the excess to the uncapped arms
+            over = sum(max(p - cap, 0) for p in probs.values())
+            if over < 1e-9:
+                break
+            free = [a for a, p in probs.items() if p < cap]
+            fs = sum(probs[a] for a in free)
+            probs = {a: (min(p, cap) if a not in free else p + over * p / fs) for a, p in probs.items()}
+    return probs
 
 
 def allocate(probs, n, rng=random):
@@ -116,8 +126,10 @@ def main():
 
     style_t = arm_table(pins, stats, lambda p: canon_style(p.get("style")), list(STYLES))
     guide_t = arm_table(pins, stats, lambda p: (p.get("link") or "").strip("/"), guides)
-    style_p = win_probs(style_t, rng=rng)
-    guide_p = win_probs(guide_t, weights={g: tw.get(g, 1.0) for g in guides}, rng=rng)
+    cap = MAX_SHARE_EXPLORING if total_imp < 500 else None
+    style_p = win_probs(style_t, rng=rng, cap=cap)
+    # guides are few (3-6) and carry deliberate seasonal weights, so they get a looser cap
+    guide_p = win_probs(guide_t, weights={g: tw.get(g, 1.0) for g in guides}, rng=rng, cap=(0.5 if cap else None))
 
     plan = [{"style": s, "guide": g} for s, g in zip(allocate(style_p, a.pins, rng), allocate(guide_p, a.pins, rng))]
     mode = "exploring (not enough data yet)" if total_imp < 500 else "learning (shifting toward winners)"
