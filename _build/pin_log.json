@@ -182,6 +182,56 @@
      "date": "2026-11-08"
     }
    ]
+  },
+  {
+   "date": "2026-11-09",
+   "pin_id": "251709066671451155",
+   "board": "Gifts for Mom",
+   "image": "pins/pin13_mom_under25.png",
+   "link": "/gifts-for-mom/",
+   "style": "headline (X under $Y)",
+   "headline": "Gifts for Mom under $25",
+   "search_phrase": "gifts for mom",
+   "title": "Gifts for Mom Under $25: Cozy Christmas Gifts She Would Never Buy Herself",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671451185",
+     "date": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-09",
+   "pin_id": "251709066671451160",
+   "board": "Gifts for Mom",
+   "image": "pins/pin14_mom_quote.png",
+   "link": "/gifts-for-mom/",
+   "style": "dark quote",
+   "headline": "Oh, honey, I don't want anything.",
+   "search_phrase": "gifts for mom",
+   "title": "Gifts for Mom Who Says She Wants Nothing: Cozy Christmas Ideas Under $50",
+   "title_added": true
+  },
+  {
+   "date": "2026-11-09",
+   "pin_id": "251709066671451169",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin15_stocking_quote.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "dark quote",
+   "headline": "Wait, there's more in the stocking?",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas for Adults: 13 Small Gifts Under $15 They Will Use",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671451186",
+     "date": "2026-11-09"
+    }
+   ]
   }
  ]
 }
