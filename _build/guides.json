@@ -343,5 +343,118 @@
     ]
    }
   ]
+ },
+ {
+  "slug": "gifts-for-mom",
+  "tag": "underfifty-gifts-20",
+  "title": "Gifts for Mom Under $50 She'll Actually Use",
+  "desc": "Thoughtful Christmas gifts for mom under $50: candle warmer lamp, silk pillowcase, shiatsu neck massager, LEGO flowers, tea sampler and more cozy, useful picks.",
+  "h1": "Gifts for Mom Under $50",
+  "lede": "Mom says she doesn't need anything. These are the small, cozy, everyday upgrades she'd never buy for herself, and every one is usually under $50.",
+  "card": "Cozy, pampering and useful picks for the mom who says she doesn't need anything.",
+  "sections": [
+   {
+    "name": "Cozy and pampering",
+    "note": "For the mom who never takes a break.",
+    "items": [
+     {
+      "name": "Shiatsu heated neck and back massager",
+      "tier": "Under $50",
+      "search": "InvoSpa shiatsu neck and back massager with heat",
+      "why": "Kneading rollers with optional heat for a sore neck and shoulders. The gift moms end up using every single night."
+     },
+     {
+      "name": "Satin pillowcase",
+      "tier": "Under $25",
+      "search": "Kitsch satin pillowcase",
+      "why": "Cool, smooth and kinder to hair and skin than cotton. Feels like a little luxury for very little money."
+     },
+     {
+      "name": "Waffle-weave spa robe",
+      "tier": "Under $50",
+      "search": "waffle kimono spa robe women lightweight",
+      "why": "Light, soft and pocketed, like the robe at a nice hotel. Perfect for slow weekend mornings."
+     },
+     {
+      "name": "Weighted sleep mask",
+      "tier": "Under $50",
+      "search": "Nodpod weighted sleep mask",
+      "why": "Gentle pressure that blocks light and helps her unwind. A favorite of busy moms and light sleepers."
+     },
+     {
+      "name": "Aromatherapy shower steamers",
+      "tier": "Under $25",
+      "search": "shower steamers aromatherapy gift set eucalyptus",
+      "why": "Drop one on the shower floor for a spa-like eucalyptus or lavender steam. Great for moms who don't have time for a bath."
+     }
+    ]
+   },
+   {
+    "name": "For her home",
+    "note": "Small things that make every day nicer.",
+    "items": [
+     {
+      "name": "Candle warmer lamp with timer",
+      "tier": "Under $30",
+      "search": "candle warmer lamp with timer dimmer",
+      "why": "Melts her favorite candle from the top, no flame and no soot. Looks like a pretty little lamp on the counter."
+     },
+     {
+      "name": "LEGO Botanicals flower set",
+      "tier": "Under $50",
+      "search": "LEGO Botanicals orchid",
+      "why": "A relaxing build that turns into flowers that never wilt. A surprisingly popular gift for grown-ups."
+     },
+     {
+      "name": "Compact indoor herb garden",
+      "tier": "Under $50",
+      "search": "AeroGarden Sprout indoor garden",
+      "why": "Fresh basil on the kitchen counter all winter, with a built-in grow light. No green thumb needed."
+     },
+     {
+      "name": "Bamboo couch arm tray",
+      "tier": "Under $25",
+      "search": "bamboo couch arm tray table foldable",
+      "why": "Holds her coffee, phone and remote right on the sofa arm. Cheap, clever and used daily."
+     }
+    ]
+   },
+   {
+    "name": "Treats and little luxuries",
+    "note": "Easy wins that still feel personal.",
+    "items": [
+     {
+      "name": "Specialty tea sampler gift box",
+      "tier": "Under $15",
+      "search": "Taylors of Harrogate specialty tea sampler",
+      "why": "Eight teas in a pretty gift box, individually wrapped. An easy, thoughtful add-on for any tea-loving mom."
+     },
+     {
+      "name": "Shea butter hand cream",
+      "tier": "Under $35",
+      "search": "L'Occitane shea butter hand cream",
+      "why": "A rich, fast-absorbing hand cream that feels fancy in her purse all winter."
+     },
+     {
+      "name": "Laneige lip sleeping mask",
+      "tier": "Under $25",
+      "search": "Laneige lip sleeping mask",
+      "why": "The cult overnight lip treatment. Small, luxe and perfect for a stocking."
+     },
+     {
+      "name": "Bluetooth beanie with headphones",
+      "tier": "Under $25",
+      "search": "bluetooth beanie hat headphones women",
+      "why": "A warm knit hat with built-in speakers for walks, calls and podcasts in the cold."
+     },
+     {
+      "name": "Murder mystery puzzle book",
+      "tier": "Under $20",
+      "search": "Murdle volume 1 puzzle book",
+      "why": "100 bite-size logic mysteries for the mom who loves crosswords or true crime."
+     }
+    ]
+   }
+  ]
  }
 ]

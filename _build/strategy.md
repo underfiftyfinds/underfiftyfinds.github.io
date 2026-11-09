@@ -1,11 +1,11 @@
 # Under Fifty Finds strategy (read by the daily pin run; updated by the weekly review)
 
 ## Guide build order (UPDATED 2026-11-09 from trend radar, see _build/trends/2026-11-01.md)
-Live: Gifts for Him Under $50, Stocking Stuffers Under $15, White Elephant Gifts Under $25 (2026-11-07).
+Live: Gifts for Him Under $50, Stocking Stuffers Under $15, White Elephant Gifts Under $25 (2026-11-07), Gifts for Mom (2026-11-09).
 Next, in this order (one new guide every ~2-3 days, all before Dec 7):
 1. [LIVE 2026-11-07] White Elephant Gifts Under $25 -> board "White Elephant Gift Ideas" (biggest search of the season, peaks Dec 14; ~12x our anchor at peak). Funny + useful picks.
-2. Gifts for Mom -> board "Gifts for Mom" (peak Dec 21, growing +20% YoY). BUILD NEXT (overdue; ~6 weeks to peak).
-3. Teacher Christmas Gifts Under $25 -> board "Teacher Christmas Gifts" (peak Dec 21, big; +50% week over week). Build right after Mom.
+2. [LIVE 2026-11-09] Gifts for Mom -> board "Gifts for Mom" (peak Dec 21, growing +20% YoY). 14 picks.
+3. Teacher Christmas Gifts Under $25 -> board "Teacher Christmas Gifts" (peak Dec 21, big; +50% week over week). BUILD NEXT (~2026-11-11).
 4. Gifts for Dad Under $50 -> board "Gifts for Him Under $50" (peak Dec 21).
 5. Gift Basket Ideas (DIY gift baskets with Amazon fillers) -> board "Gifts for Her Under $50" or best fit.
 Deprioritized (small or shrinking searches): Gifts for Her, Kitchen Gifts, Cozy Home, housewarming. Build only after the above.
