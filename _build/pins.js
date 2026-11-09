@@ -161,7 +161,41 @@ const pins = {
     <div><div style="font:700 44px Inter">${r[0]}</div><div style="font-size:34px;color:#6E625A;margin-top:8px">${r[1]}</div></div>
    </div>`).join('')}
  </div>
- <div class="foot">underfiftyfinds.github.io</div>`
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin13_mom_under25: `
+ <div style="position:absolute;inset:0;background:#B5634B"></div>
+ <div style="position:absolute;inset:60px;background:#F4EDE4;border-radius:44px"></div>
+ <div style="position:relative;padding:150px 110px 0;text-align:center">
+  <div class="kicker">Christmas gifts for mom</div>
+  <div class="serif" style="font-size:120px;line-height:1.02;margin-top:36px">Gifts for Mom</div>
+  <div class="serif" style="font-size:96px;line-height:1;margin-top:10px">under</div>
+  <div class="serif" style="font-size:380px;line-height:.92;color:#B5634B">$25</div>
+  <div style="font-size:44px;line-height:1.45;margin:36px auto 0;max-width:740px;color:#4A3F38">Satin pillowcase, spa shower steamers, a cozy tea sampler and more she'd never buy herself</div>
+  <div style="margin-top:60px"><span class="pill">See the full list</span></div>
+ </div>
+ <div class="foot" style="bottom:100px">underfiftyfinds.github.io</div>`,
+ pin14_mom_quote: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;inset:70px;border:3px solid #B5634B;border-radius:40px"></div>
+ <div style="position:relative;padding:190px 120px 0;color:#F4EDE4;text-align:center">
+  <div class="kicker" style="color:#D9A08C">Gifts for mom</div>
+  <div class="serif" style="font-size:210px;line-height:.6;color:#B5634B;margin-top:60px">&ldquo;</div>
+  <div class="serif" style="font-size:100px;line-height:1.1;margin-top:20px">Oh, honey,<br>I don't want<br>anything.</div>
+  <div style="font-size:44px;line-height:1.45;margin:64px auto 0;color:#D9CBBE;max-width:720px">Cozy gifts she'd never buy for herself, all under $50</div>
+  <div style="margin-top:70px"><span class="pill">See the list</span></div>
+ </div>
+ <div class="foot" style="color:#D9A08C;bottom:110px">underfiftyfinds.github.io</div>`,
+ pin15_stocking_quote: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;inset:70px;border:3px solid #B5634B;border-radius:40px"></div>
+ <div style="position:relative;padding:190px 120px 0;color:#F4EDE4;text-align:center">
+  <div class="kicker" style="color:#D9A08C">Stocking stuffer ideas</div>
+  <div class="serif" style="font-size:210px;line-height:.6;color:#B5634B;margin-top:60px">&ldquo;</div>
+  <div class="serif" style="font-size:100px;line-height:1.1;margin-top:20px">Wait, there's<br>more in<br>the stocking?</div>
+  <div style="font-size:44px;line-height:1.45;margin:64px auto 0;color:#D9CBBE;max-width:720px">13 small gifts adults actually use, all under $15</div>
+  <div style="margin-top:70px"><span class="pill">See the ideas</span></div>
+ </div>
+ <div class="foot" style="color:#D9A08C;bottom:110px">underfiftyfinds.github.io</div>`
 };
 (async () => {
   const b = await chromium.launch();

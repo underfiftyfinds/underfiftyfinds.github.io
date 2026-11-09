@@ -1,18 +1,18 @@
 {
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "mode": "exploring (not enough data yet)",
  "plan": [
   {
-   "style": "numbered list",
+   "style": "headline (X under $Y)",
+   "guide": "gifts-for-mom"
+  },
+  {
+   "style": "dark quote",
+   "guide": "gifts-for-mom"
+  },
+  {
+   "style": "dark quote",
    "guide": "stocking-stuffers-under-15"
-  },
-  {
-   "style": "3-item callout",
-   "guide": "gifts-for-him-under-50"
-  },
-  {
-   "style": "3-item callout",
-   "guide": "white-elephant-gifts-under-25"
   }
  ]
 }
