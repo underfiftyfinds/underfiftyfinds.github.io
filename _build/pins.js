@@ -195,7 +195,44 @@ const pins = {
   <div style="font-size:44px;line-height:1.45;margin:64px auto 0;color:#D9CBBE;max-width:720px">13 small gifts adults actually use, all under $15</div>
   <div style="margin-top:70px"><span class="pill">See the ideas</span></div>
  </div>
- <div class="foot" style="color:#D9A08C;bottom:110px">underfiftyfinds.github.io</div>`
+ <div class="foot" style="color:#D9A08C;bottom:110px">underfiftyfinds.github.io</div>`,
+ pin16_white_elephant_under20: `
+ <div style="position:absolute;inset:0;background:#B5634B"></div>
+ <div style="position:absolute;inset:60px;background:#F4EDE4;border-radius:44px"></div>
+ <div style="position:relative;padding:120px 100px 0;text-align:center">
+  <div class="kicker">Office party &middot; gift exchange</div>
+  <div class="serif" style="font-size:112px;line-height:1.03;margin-top:28px">White Elephant<br>Gift Ideas</div>
+  <div class="serif" style="font-size:96px;line-height:1;margin-top:14px">under</div>
+  <div class="serif" style="font-size:300px;line-height:.92;color:#B5634B">$20</div>
+  <div style="font-size:44px;line-height:1.45;margin:30px auto 0;max-width:740px;color:#4A3F38">A Magic 8 Ball, a desk vacuum, a luggage scale and more gifts people actually try to steal</div>
+  <div style="margin-top:44px"><span class="pill">See all 15 ideas</span></div>
+ </div>
+ <div class="foot" style="bottom:100px">underfiftyfinds.github.io</div>`,
+ pin17_cheap_christmas_under10: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;inset:60px;background:#F4EDE4;border-radius:44px"></div>
+ <div style="position:relative;padding:120px 100px 0;text-align:center">
+  <div class="kicker">Stocking stuffer ideas</div>
+  <div class="serif" style="font-size:118px;line-height:1.03;margin-top:28px">Cheap Christmas<br>Gifts</div>
+  <div class="serif" style="font-size:96px;line-height:1;margin-top:14px">under</div>
+  <div class="serif" style="font-size:300px;line-height:.92;color:#B5634B">$10</div>
+  <div style="font-size:44px;line-height:1.45;margin:30px auto 0;max-width:740px;color:#4A3F38">Lip balm minis, a squishy stress ball, a password logbook and other tiny gifts that still feel thoughtful</div>
+  <div style="margin-top:44px"><span class="pill">See the full list</span></div>
+ </div>
+ <div class="foot" style="bottom:100px">underfiftyfinds.github.io</div>`,
+ pin18_stocking_booklight_spotlight: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;left:0;right:0;top:0;height:22px;background:#B5634B"></div>
+ <div style="position:relative;padding:130px 90px 0;color:#F4EDE4">
+  <div class="kicker" style="color:#D9A08C">Stocking stuffer ideas</div>
+  <div class="serif" style="font-size:108px;line-height:1.05;margin-top:30px">The stocking stuffer every reader wants</div>
+  <div style="margin-top:70px;background:#3A312C;border:3px solid #B5634B;border-radius:36px;padding:60px 60px">
+   <div style="font:700 60px Inter;color:#fff">Clip-on book light</div>
+   <div style="font-size:40px;line-height:1.5;color:#D9CBBE;margin-top:22px">Rechargeable, warm light, clips onto any book. Read in bed without waking anyone up. Usually under $15.</div>
+  </div>
+  <div style="font-size:40px;color:#D9CBBE;margin-top:60px">+ 12 more stocking stuffers under $15</div>
+ </div>
+ <div class="foot" style="color:#D9A08C;bottom:90px">underfiftyfinds.github.io</div>`
 };
 (async () => {
   const b = await chromium.launch();

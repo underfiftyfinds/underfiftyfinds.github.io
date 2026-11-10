@@ -1,17 +1,17 @@
 {
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "mode": "exploring (not enough data yet)",
  "plan": [
   {
    "style": "headline (X under $Y)",
-   "guide": "gifts-for-mom"
+   "guide": "white-elephant-gifts-under-25"
   },
   {
-   "style": "dark quote",
-   "guide": "gifts-for-mom"
+   "style": "headline (X under $Y)",
+   "guide": "stocking-stuffers-under-15"
   },
   {
-   "style": "dark quote",
+   "style": "single-product spotlight",
    "guide": "stocking-stuffers-under-15"
   }
  ]
