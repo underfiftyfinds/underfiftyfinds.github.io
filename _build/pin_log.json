@@ -232,6 +232,56 @@
      "date": "2026-11-09"
     }
    ]
+  },
+  {
+   "date": "2026-11-10",
+   "pin_id": "251709066671486077",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin16_white_elephant_under20.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "headline (X under $Y)",
+   "headline": "White Elephant Gift Ideas under $20",
+   "search_phrase": "white elephant gift ideas",
+   "title_added": true,
+   "title": "White Elephant Gift Ideas Under $20: Funny, Useful Gifts People Actually Steal",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671486111",
+     "date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "pin_id": "251709066671486085",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin17_cheap_christmas_under10.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "headline (X under $Y)",
+   "headline": "Cheap Christmas Gifts under $10",
+   "search_phrase": "cheap christmas gifts",
+   "title_added": true,
+   "title": "Cheap Christmas Gifts Under $10: Small Stocking Stuffers That Still Feel Thoughtful",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671486112",
+     "date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "pin_id": "251709066671486102",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin18_stocking_booklight_spotlight.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "single-product spotlight",
+   "headline": "The stocking stuffer every reader wants",
+   "search_phrase": "stocking stuffer ideas",
+   "title_added": true,
+   "title": "Stocking Stuffer Ideas for Readers: Clip-On Book Light and 12 More Gifts Under $15"
   }
  ]
 }
