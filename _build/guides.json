@@ -456,5 +456,124 @@
     ]
    }
   ]
+ },
+ {
+  "slug": "teacher-christmas-gifts",
+  "tag": "underfifty-gifts-20",
+  "title": "Teacher Christmas Gifts Under $25 Teachers Actually Want",
+  "desc": "Teacher Christmas gifts under $25 that teachers actually ask for: Flair pens, a mini label maker, a whiteboard phone holder, an insulated tumbler, a name stamp and more. No more mugs.",
+  "h1": "Teacher Christmas Gifts Under $25",
+  "lede": "Teachers say it again every year: skip the mug and the 'teacher' decor. These are the practical, consumable and quietly fun gifts they actually use, all usually under $25. Tuck in a handwritten note from your kid; teachers say that's the part they keep.",
+  "card": "Practical, teacher-approved picks under $25. Not a single 'World's Best Teacher' mug.",
+  "sections": [
+   {
+    "name": "Classroom supplies they burn through",
+    "note": "Teachers buy a lot of this with their own money.",
+    "items": [
+     {
+      "name": "Paper Mate Flair felt-tip pens, assorted colors",
+      "tier": "Under $20",
+      "search": "Paper Mate Flair felt tip pens assorted colors",
+      "why": "The grading pen teachers rave about. Bright, smooth and gone by spring, so a fresh pack is always welcome."
+     },
+     {
+      "name": "FriXion erasable gel pens",
+      "tier": "Under $15",
+      "search": "Pilot FriXion erasable gel pens",
+      "why": "Write, erase, rewrite. Perfect for planners and grade books where plans change daily."
+     },
+     {
+      "name": "Mini Bluetooth label maker",
+      "tier": "Under $25",
+      "search": "NIIMBOT D110 label maker",
+      "why": "Labels bins, folders and cubbies straight from a phone app. A gift teachers mention again and again."
+     },
+     {
+      "name": "Magnetic whiteboard phone holder",
+      "tier": "Under $20",
+      "search": "magnetic phone holder for whiteboard",
+      "why": "Sticks to the whiteboard so she can show slides, run a timer or film a lesson hands-free."
+     }
+    ]
+   },
+   {
+    "name": "Little things for the teacher, not the classroom",
+    "note": "Small comforts for a long school day.",
+    "items": [
+     {
+      "name": "Insulated tumbler with lid",
+      "tier": "Under $25",
+      "search": "insulated tumbler with lid and straw 20 oz",
+      "why": "The one 'mug' teachers say yes to: keeps coffee hot through first period and won't spill on papers."
+     },
+     {
+      "name": "Blue-light glasses",
+      "tier": "Under $15",
+      "search": "blue light blocking glasses",
+      "why": "For the hours spent grading on a laptop after the kids go home."
+     },
+     {
+      "name": "Lip balm gift set",
+      "tier": "Under $10",
+      "search": "eos lip balm variety pack",
+      "why": "Dry classroom air is real. Cheap, useful and easy to pair with a card."
+     },
+     {
+      "name": "Squishy giant Enter key pillow",
+      "tier": "Under $20",
+      "search": "giant enter key stress pillow",
+      "why": "A desk stress-reliever that makes teachers laugh. Fun to smash after a rough day."
+     }
+    ]
+   },
+   {
+    "name": "Personal touches under $15",
+    "note": "Feels thoughtful without costing much.",
+    "items": [
+     {
+      "name": "Custom teacher name stamp",
+      "tier": "Under $15",
+      "search": "custom self inking teacher name stamp",
+      "why": "'From the library of Ms. Smith' for her classroom books. Personal, practical and lasts for years."
+     },
+     {
+      "name": "Book stack earrings",
+      "tier": "Under $10",
+      "search": "book stack earrings for teachers",
+      "why": "A cute, wearable nod to reading teachers and librarians."
+     },
+     {
+      "name": "Flower pens bouquet",
+      "tier": "Under $20",
+      "search": "flower pens bouquet set",
+      "why": "A desk 'bouquet' that never wilts and doubles as pens nobody walks off with."
+     }
+    ]
+   },
+   {
+    "name": "Sweet and easy add-ons",
+    "note": "Pair with a gift card and a note.",
+    "items": [
+     {
+      "name": "Ferrero Rocher gift box",
+      "tier": "Under $15",
+      "search": "Ferrero Rocher gift box 24 count",
+      "why": "A classic chocolate most teachers love. Pick something you know she likes over anything unusual."
+     },
+     {
+      "name": "Desk organizer tray set",
+      "tier": "Under $15",
+      "search": "stackable desk organizer tray",
+      "why": "Tames the paperwork tower on every teacher's desk."
+     },
+     {
+      "name": "Teacher thank-you cards for kids to write",
+      "tier": "Under $10",
+      "search": "teacher thank you cards from student",
+      "why": "Teachers say the handwritten note is the gift they keep. Have your kid write a few lines inside."
+     }
+    ]
+   }
+  ]
  }
 ]

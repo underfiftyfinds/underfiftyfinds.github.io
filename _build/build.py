@@ -57,7 +57,7 @@ def build_home(guides):
     out.append("<div class='guides'>")
     for g in guides:
         out.append(f"<a class='guide' href='/{g['slug']}/'><span class='tag'>Gift guide</span><h3>{html.escape(g['h1'])}</h3><p>{html.escape(g['card'])}</p></a>")
-    for s in ["Teacher Christmas Gifts Under $25", "Gifts for Dad Under $50", "Gift Basket Ideas", "Gifts for Her Under $50"]:
+    for s in ["Gifts for Dad Under $50", "Gift Basket Ideas", "Living Room Decor on a Budget", "Kitchen Organization Finds"]:
         out.append(f"<div class='guide soon'><span class='tag'>Coming soon</span><h3>{s}</h3></div>")
     out.append("</div>" + DISC + FOOT)
     (ROOT / "index.html").write_text("\n".join(out))
