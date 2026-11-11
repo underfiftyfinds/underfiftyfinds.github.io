@@ -282,6 +282,56 @@
    "search_phrase": "stocking stuffer ideas",
    "title_added": true,
    "title": "Stocking Stuffer Ideas for Readers: Clip-On Book Light and 12 More Gifts Under $15"
+  },
+  {
+   "date": "2026-11-11",
+   "pin_id": "251709066671515312",
+   "board": "Teacher Christmas Gifts",
+   "image": "pins/pin19_teacher_quote.png",
+   "link": "/teacher-christmas-gifts/",
+   "style": "dark quote",
+   "headline": "Please, no more mugs. (Teacher Christmas gifts)",
+   "search_phrase": "teacher christmas gifts",
+   "title_added": true,
+   "title": "Teacher Christmas Gifts Under $25 Teachers Actually Want (No More Mugs!)"
+  },
+  {
+   "date": "2026-11-11",
+   "pin_id": "251709066671515315",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin20_stocking_men_under15.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "headline (X under $Y)",
+   "headline": "Stocking Stuffers for Men under $15",
+   "search_phrase": "stocking stuffers for men",
+   "title_added": true,
+   "title": "Stocking Stuffers for Men Under $15: Small Gifts He'll Actually Keep",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Him Under $50",
+     "repin_id": "251709066671515321",
+     "date": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "pin_id": "251709066671515317",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin21_secret_santa_list.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "headline": "Secret Santa Gifts Under $25",
+   "search_phrase": "secret santa gifts",
+   "title_added": true,
+   "title": "Secret Santa Gifts Under $25: Safe Gift Exchange Ideas for Coworkers",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671515323",
+     "date": "2026-11-11"
+    }
+   ]
   }
  ]
 }
