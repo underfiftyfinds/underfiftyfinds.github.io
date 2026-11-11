@@ -232,7 +232,42 @@ const pins = {
   </div>
   <div style="font-size:40px;color:#D9CBBE;margin-top:60px">+ 12 more stocking stuffers under $15</div>
  </div>
- <div class="foot" style="color:#D9A08C;bottom:90px">underfiftyfinds.github.io</div>`
+ <div class="foot" style="color:#D9A08C;bottom:90px">underfiftyfinds.github.io</div>`,
+ pin19_teacher_quote: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;inset:70px;border:3px solid #B5634B;border-radius:40px"></div>
+ <div style="position:relative;padding:190px 120px 0;color:#F4EDE4;text-align:center">
+  <div class="kicker" style="color:#D9A08C">Teacher Christmas gifts</div>
+  <div class="serif" style="font-size:210px;line-height:.6;color:#B5634B;margin-top:60px">&ldquo;</div>
+  <div class="serif" style="font-size:100px;line-height:1.1;margin-top:20px">Please, no<br>more mugs.</div>
+  <div style="font-size:44px;line-height:1.45;margin:64px auto 0;color:#D9CBBE;max-width:740px">14 gifts teachers actually want: Flair pens, a mini label maker, a name stamp and more, all under $25</div>
+  <div style="margin-top:70px"><span class="pill">See the list</span></div>
+ </div>
+ <div class="foot" style="color:#D9A08C;bottom:110px">underfiftyfinds.github.io</div>`,
+ pin20_stocking_men_under15: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;inset:60px;background:#F4EDE4;border-radius:44px"></div>
+ <div style="position:relative;padding:120px 100px 0;text-align:center">
+  <div class="kicker">For the guys</div>
+  <div class="serif" style="font-size:112px;line-height:1.03;margin-top:28px">Stocking Stuffers<br>for Men</div>
+  <div class="serif" style="font-size:96px;line-height:1;margin-top:14px">under</div>
+  <div class="serif" style="font-size:300px;line-height:.92;color:#B5634B">$15</div>
+  <div style="font-size:44px;line-height:1.45;margin:30px auto 0;max-width:740px;color:#4A3F38">A pocket screwdriver, a cuff beanie, funny food socks and more little gifts he'll actually keep</div>
+  <div style="margin-top:44px"><span class="pill">See all 13 ideas</span></div>
+ </div>
+ <div class="foot" style="bottom:100px">underfiftyfinds.github.io</div>`,
+ pin21_secret_santa_list: `
+ <div style="position:absolute;left:0;right:0;top:0;height:22px;background:#2B2420"></div>
+ <div style="padding:88px 80px 0">
+  <div class="kicker">Gift exchange season</div>
+  <div class="serif" style="font-size:112px;line-height:1.02;margin:22px 0 18px">Secret Santa<br>Gifts Under $25</div>
+  <div style="font-size:40px;color:#6E625A;margin-bottom:40px">Safe picks for coworkers you barely know</div>
+  <div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:36px;padding:42px 56px;font-size:41px;line-height:1.75">
+   ${['Candle warmer lamp','Electric drink chiller','Rechargeable luggage scale','Cozy wearable blanket','Sushi Go Party card game','Scalp massager','Classic Magic 8 Ball'].map((t,i)=>`<div><span style="color:#B5634B;font-weight:700;margin-right:22px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
+   <div style="color:#6E625A">+ 8 more inside</div>
+  </div>
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`
 };
 (async () => {
   const b = await chromium.launch();

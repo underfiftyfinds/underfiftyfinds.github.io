@@ -1,18 +1,18 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "mode": "exploring (not enough data yet)",
  "plan": [
   {
+   "style": "dark quote",
+   "guide": "teacher-christmas-gifts"
+  },
+  {
    "style": "headline (X under $Y)",
+   "guide": "stocking-stuffers-under-15"
+  },
+  {
+   "style": "numbered list",
    "guide": "white-elephant-gifts-under-25"
-  },
-  {
-   "style": "headline (X under $Y)",
-   "guide": "stocking-stuffers-under-15"
-  },
-  {
-   "style": "single-product spotlight",
-   "guide": "stocking-stuffers-under-15"
   }
  ]
 }
