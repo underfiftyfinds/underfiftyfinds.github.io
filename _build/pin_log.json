@@ -332,6 +332,49 @@
      "date": "2026-11-11"
     }
    ]
+  },
+  {
+   "pin_id": "251709066671535174",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin22_men_socks_quote.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "dark quote",
+   "headline": "Just get me socks or something. (Gift ideas for men)",
+   "search_phrase": "gift ideas for men",
+   "title": "Gift Ideas for Men Under $50: 12 Practical Gifts He'll Actually Use (Not Socks)",
+   "title_added": true,
+   "date": "2026-11-12"
+  },
+  {
+   "pin_id": "251709066671535179",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin23_white_elephant_steal_list.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "headline": "White Elephant Gift Ideas People Steal",
+   "search_phrase": "white elephant gift ideas",
+   "title": "White Elephant Gift Ideas People Actually Steal: Funny Gifts Under $25",
+   "title_added": true,
+   "date": "2026-11-12",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671535189",
+     "date": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "pin_id": "251709066671535182",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin24_stocking_nogifts_quote.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "dark quote",
+   "headline": "We said no gifts. Stockings don't count. (Stocking stuffer ideas)",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas for Adults Under $15: Small Gifts They'll Actually Use",
+   "title_added": true,
+   "date": "2026-11-12"
   }
  ]
 }
