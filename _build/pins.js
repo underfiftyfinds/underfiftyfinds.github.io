@@ -267,7 +267,41 @@ const pins = {
    <div style="color:#6E625A">+ 8 more inside</div>
   </div>
  </div>
- <div class="foot">underfiftyfinds.github.io</div>`
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin22_men_socks_quote: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;inset:70px;border:3px solid #B5634B;border-radius:40px"></div>
+ <div style="position:relative;padding:190px 120px 0;color:#F4EDE4;text-align:center">
+  <div class="kicker" style="color:#D9A08C">Gift ideas for men</div>
+  <div class="serif" style="font-size:210px;line-height:.6;color:#B5634B;margin-top:60px">&ldquo;</div>
+  <div class="serif" style="font-size:100px;line-height:1.1;margin-top:20px">Just get me<br>socks or<br>something.</div>
+  <div style="font-size:44px;line-height:1.45;margin:64px auto 0;color:#D9CBBE;max-width:740px">12 better ideas he'll actually use: a meat thermometer, a phone dock, a neck massager and more, all under $50</div>
+  <div style="margin-top:70px"><span class="pill">See the list</span></div>
+ </div>
+ <div class="foot" style="color:#D9A08C;bottom:110px">underfiftyfinds.github.io</div>`,
+ pin23_white_elephant_steal_list: `
+ <div style="position:absolute;left:0;right:0;top:0;height:22px;background:#B5634B"></div>
+ <div style="padding:88px 80px 0">
+  <div class="kicker">Gift exchange season</div>
+  <div class="serif" style="font-size:108px;line-height:1.02;margin:22px 0 18px">White Elephant Gift Ideas People Steal</div>
+  <div style="font-size:40px;color:#6E625A;margin-bottom:40px">Funny, useful and all under $25</div>
+  <div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:36px;padding:42px 56px;font-size:41px;line-height:1.75">
+   ${['Mini waffle maker','Giant tortilla blanket','Emoji desktop vacuum','Positive pickle light','Classic Magic 8 Ball','Tapple word game','Electric drink chiller'].map((t,i)=>`<div><span style="color:#B5634B;font-weight:700;margin-right:22px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
+   <div style="color:#6E625A">+ 8 more inside</div>
+  </div>
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin24_stocking_nogifts_quote: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;inset:70px;border:3px solid #B5634B;border-radius:40px"></div>
+ <div style="position:relative;padding:190px 120px 0;color:#F4EDE4;text-align:center">
+  <div class="kicker" style="color:#D9A08C">Stocking stuffer ideas</div>
+  <div class="serif" style="font-size:210px;line-height:.6;color:#B5634B;margin-top:60px">&ldquo;</div>
+  <div class="serif" style="font-size:96px;line-height:1.1;margin-top:20px">We said no gifts.<br>Stockings<br>don't count.</div>
+  <div style="font-size:44px;line-height:1.45;margin:64px auto 0;color:#D9CBBE;max-width:740px">13 small gifts for adults, all under $15: a clip-on book light, grip socks, a mini screwdriver and more</div>
+  <div style="margin-top:70px"><span class="pill">See the ideas</span></div>
+ </div>
+ <div class="foot" style="color:#D9A08C;bottom:110px">underfiftyfinds.github.io</div>`
 };
 (async () => {
   const b = await chromium.launch();
