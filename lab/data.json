@@ -341,15 +341,15 @@
  "today": [
   {
    "style": "dark quote",
-   "guide": "stocking-stuffers-under-15"
+   "guide": "gifts-for-him-under-50"
   },
   {
-   "style": "3-item callout",
-   "guide": "stocking-stuffers-under-15"
-  },
-  {
-   "style": "headline (X under $Y)",
+   "style": "numbered list",
    "guide": "white-elephant-gifts-under-25"
+  },
+  {
+   "style": "dark quote",
+   "guide": "stocking-stuffers-under-15"
   }
  ]
 }
