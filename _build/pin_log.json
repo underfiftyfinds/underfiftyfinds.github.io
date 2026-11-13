@@ -432,6 +432,56 @@
      "date": "2026-11-13"
     }
    ]
+  },
+  {
+   "date": "2026-11-13",
+   "pin_id": "251709066671562700",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin28_white_elephant_coworkers_list.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "headline": "White Elephant Gifts for Coworkers",
+   "search_phrase": "white elephant gifts for coworkers",
+   "title": "White Elephant Gifts for Coworkers: Office-Safe Gift Exchange Ideas Under $25",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671562720",
+     "date": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "pin_id": "251709066671562707",
+   "board": "Gifts for Mom",
+   "image": "pins/pin29_mom_massager_spotlight.png",
+   "link": "/gifts-for-mom/",
+   "style": "single-product spotlight",
+   "headline": "Christmas gifts for mom: the gift she'll use every single night",
+   "search_phrase": "christmas gifts for mom",
+   "title": "Christmas Gifts for Mom: The Heated Neck Massager She'll Use Every Night (Under $50)",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671562721",
+     "date": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "pin_id": "251709066671562714",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin30_dad_callout.png",
+   "link": "/gifts-for-dad-under-50/",
+   "style": "3-item callout",
+   "headline": "Gifts for dad under $50: 3 he'll actually use this winter",
+   "search_phrase": "gifts for dad",
+   "title": "Gifts for Dad Under $50: 3 Christmas Gifts He'll Actually Use This Winter",
+   "title_added": true
   }
  ]
 }
