@@ -15,7 +15,7 @@ After Christmas (from Dec 26): Living Room Decor on a Budget (NEW 2026-11-09: pe
 ## Pin mix
 - Also make pins for existing guides with stronger search phrasing: "stocking stuffers for men", "white elephant gift ideas", "gifts for mom", "teacher christmas gifts". Put the exact search phrase in the pin headline and the first words of the description.
 - Push this week (2026-11-09): "white elephant gift ideas" (rising fast), "stocking stuffer ideas" (+300% MoM), "stocking stuffers for men", "cheap christmas gifts", "secret santa gifts". Fewer plain "gifts for him" pins (6 pins, 53 impressions, 0 site clicks so far; small search).
-- 3 pins/day until 2026-11-19, then 5/day if healthy.
+- PINS PER DAY: 5 per run starting 2026-11-14 (approved by Micah on 2026-11-13 to catch the December gift peak). Drop back to 3 immediately on any Pinterest warning/CAPTCHA/spam notice. Up to 8/day once 7+ guides are live and the account is still clean. Do not go below 5 otherwise.
 
 ## What's working (fill in from weekly reviews)
 - 2026-11-09 (first 4 days, 12 pins): 86 impressions, 6 saves, 3 pin clicks, 1 outbound click. Followers 0. Far too early to call any winner.
@@ -33,3 +33,4 @@ After Christmas (from Dec 26): Living Room Decor on a Budget (NEW 2026-11-09: pe
 - 2026-11-11: Added Teacher Christmas Gifts Under $25 guide (14 picks).
 - 2026-11-09: Weekly review. 12 pins, 86 impressions, 1 outbound click; too early for winners. Bandit now caps any one style at 35% (guides 50%) while exploring (<500 impressions) so one lucky click can't take half the pins. Trend weights: white elephant 2.2, mom 1.8, teacher 1.6, stocking stuffers 1.5. Build Gifts for Mom next, then Teacher. Stay at 3 pins/day until 2026-11-19.
 - 2026-11-13: Added Gifts for Dad Under $50 guide (13 picks).
+- 2026-11-13: Micah approved moving to 5 pins/day starting 2026-11-14 (instead of 2026-11-19), since most target searches peak Dec 14-21. Daily run time moved to 10:30 AM PT.
