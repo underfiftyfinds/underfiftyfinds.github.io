@@ -301,7 +301,49 @@ const pins = {
   <div style="font-size:44px;line-height:1.45;margin:64px auto 0;color:#D9CBBE;max-width:740px">13 small gifts for adults, all under $15: a clip-on book light, grip socks, a mini screwdriver and more</div>
   <div style="margin-top:70px"><span class="pill">See the ideas</span></div>
  </div>
- <div class="foot" style="color:#D9A08C;bottom:110px">underfiftyfinds.github.io</div>`
+ <div class="foot" style="color:#D9A08C;bottom:110px">underfiftyfinds.github.io</div>`,
+ pin25_stocking_women_under15: `
+ <div style="position:absolute;inset:0;background:#B5634B"></div>
+ <div style="position:absolute;inset:60px;background:#F4EDE4;border-radius:44px"></div>
+ <div style="position:relative;padding:160px 110px 0;text-align:center">
+  <div class="kicker">Stocking stuffers for women</div>
+  <div class="serif" style="font-size:104px;line-height:1.05;margin-top:40px">Little luxuries<br>she'll use</div>
+  <div class="serif" style="font-size:120px;line-height:1;margin-top:40px">under</div>
+  <div class="serif" style="font-size:360px;line-height:.9;color:#B5634B">$15</div>
+  <div style="font-size:44px;line-height:1.45;margin:40px auto 0;max-width:720px;color:#4A3F38">Grip socks, cooling eye patches, a clip-on book light and more</div>
+  <div style="margin-top:60px"><span class="pill">See all 13 ideas</span></div>
+ </div>
+ <div class="foot" style="bottom:110px">underfiftyfinds.github.io</div>`,
+ pin26_stocking_men_callout: `
+ <div style="position:absolute;left:0;right:0;top:0;height:640px;background:#2B2420"></div>
+ <div style="position:relative;padding:110px 80px 0;color:#F4EDE4">
+  <div class="kicker" style="color:#D9A08C">Stocking stuffers for men</div>
+  <div class="serif" style="font-size:108px;line-height:1.03;margin-top:24px">3 he won't<br>toss in a drawer</div>
+  <div style="font-size:40px;margin-top:22px;color:#D9CBBE">All under $15, all actually useful</div>
+ </div>
+ <div style="position:absolute;left:80px;right:80px;top:560px">
+  ${[['Mini multi-bit screwdriver','Fixes glasses, toys and remotes'],['Ribbed cuff beanie','Goes with every coat he owns'],['Funny food crew socks','Pizza or bacon socks he will wear']].map((r,i)=>`
+   <div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:30px;padding:38px 46px;margin-bottom:28px;display:flex;gap:34px;align-items:center">
+    <div class="serif" style="font-size:84px;color:#B5634B;width:80px">${i+1}</div>
+    <div><div style="font:700 44px Inter">${r[0]}</div><div style="font-size:34px;color:#6E625A;margin-top:8px">${r[1]}</div></div>
+   </div>`).join('')}
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin27_cheap_christmas_callout: `
+ <div style="position:absolute;left:0;right:0;top:0;height:640px;background:#B5634B"></div>
+ <div style="position:relative;padding:110px 80px 0;color:#FFF6EE">
+  <div class="kicker" style="color:#FFE2D6">Cheap Christmas gifts</div>
+  <div class="serif" style="font-size:104px;line-height:1.03;margin-top:24px">3 that don't<br>look cheap</div>
+  <div style="font-size:40px;margin-top:22px;color:#FFE2D6">Under $15 each, loved by everyone</div>
+ </div>
+ <div style="position:absolute;left:80px;right:80px;top:560px">
+  ${[['Clip-on book light','Warm, rechargeable, for night readers'],['Chenille grip socks','Plush socks that work as slippers'],['Dutch Blitz card game','Fast, loud family game night']].map((r,i)=>`
+   <div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:30px;padding:38px 46px;margin-bottom:28px;display:flex;gap:34px;align-items:center">
+    <div class="serif" style="font-size:84px;color:#B5634B;width:80px">${i+1}</div>
+    <div><div style="font:700 44px Inter">${r[0]}</div><div style="font-size:34px;color:#6E625A;margin-top:8px">${r[1]}</div></div>
+   </div>`).join('')}
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`
 };
 (async () => {
   const b = await chromium.launch();
