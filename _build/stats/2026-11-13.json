@@ -1,8 +1,26 @@
 {
- "source": "Pinterest UserActivityPinsResource creator_analytics all_time, as of 2026-11-13 03:38 UTC. Saves may include our own second-board repins. Excludes API test pin 251709066671508972.",
+ "source": "Pinterest UserActivityPinsResource creator_analytics all_time_realtime, as of 2026-11-13 20:32 UTC (second run of the day after the schedule moved to 10:30am PT; overwrites the 03:38 UTC snapshot). Saves may include our own second-board repins. Excludes API test pin 251709066671508972.",
  "pins": {
+  "251709066671551349": {
+   "impressions": 1,
+   "outbound_clicks": 0,
+   "saves": 1,
+   "pin_clicks": 0
+  },
+  "251709066671551348": {
+   "impressions": 1,
+   "outbound_clicks": 0,
+   "saves": 1,
+   "pin_clicks": 0
+  },
+  "251709066671551344": {
+   "impressions": 1,
+   "outbound_clicks": 0,
+   "saves": 1,
+   "pin_clicks": 0
+  },
   "251709066671535182": {
-   "impressions": 5,
+   "impressions": 6,
    "outbound_clicks": 0,
    "saves": 0,
    "pin_clicks": 0

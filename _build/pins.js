@@ -343,7 +343,46 @@ const pins = {
     <div><div style="font:700 44px Inter">${r[0]}</div><div style="font-size:34px;color:#6E625A;margin-top:8px">${r[1]}</div></div>
    </div>`).join('')}
  </div>
- <div class="foot">underfiftyfinds.github.io</div>`
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin28_white_elephant_coworkers_list: `
+ <div style="position:absolute;left:0;top:0;bottom:0;width:22px;background:#B5634B"></div>
+ <div style="padding:88px 80px 0 96px">
+  <div class="kicker">Office gift exchange</div>
+  <div class="serif" style="font-size:104px;line-height:1.02;margin:22px 0 18px">White Elephant Gifts for Coworkers</div>
+  <div style="font-size:40px;color:#6E625A;margin-bottom:40px">Office-safe, actually useful, all under $25</div>
+  <div style="background:#2B2420;color:#F4EDE4;border-radius:36px;padding:42px 56px;font-size:41px;line-height:1.75">
+   ${['Candle warmer lamp','Electric drink chiller','Emoji desktop vacuum','Sarcastic office pens','Classic Magic 8 Ball','Rechargeable luggage scale','Shower scalp massager'].map((t,i)=>`<div><span style="color:#D9A08C;font-weight:700;margin-right:22px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
+   <div style="color:#D9CBBE">+ 8 more inside</div>
+  </div>
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin29_mom_massager_spotlight: `
+ <div style="position:absolute;left:0;right:0;bottom:0;height:22px;background:#B5634B"></div>
+ <div style="position:relative;padding:130px 90px 0">
+  <div class="kicker">Christmas gifts for mom</div>
+  <div class="serif" style="font-size:110px;line-height:1.05;margin-top:30px">The gift she'll use every single night</div>
+  <div style="margin-top:70px;background:#FFFDF9;border:3px solid #B5634B;border-radius:36px;padding:60px 60px">
+   <div style="font:700 58px Inter;color:#2B2420">Heated shiatsu neck massager</div>
+   <div style="font-size:40px;line-height:1.5;color:#6E625A;margin-top:22px">Kneading rollers and gentle heat for a sore neck and shoulders. The thing she'd never buy herself. Usually under $50.</div>
+  </div>
+  <div style="font-size:40px;color:#6E625A;margin-top:60px">+ 13 more gifts for mom under $50</div>
+ </div>
+ <div class="foot" style="bottom:80px">underfiftyfinds.github.io</div>`,
+ pin30_dad_callout: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:relative;padding:110px 80px 0;color:#F4EDE4">
+  <div class="kicker" style="color:#D9A08C">Gifts for dad under $50</div>
+  <div class="serif" style="font-size:108px;line-height:1.03;margin-top:24px">3 he'll actually<br>use this winter</div>
+  <div style="font-size:40px;margin-top:22px;color:#D9CBBE">For the dad who "doesn't need anything"</div>
+ </div>
+ <div style="position:absolute;left:80px;right:80px;top:560px">
+  ${[['Indoor putting green','Golf practice in the living room'],['Smash burger kit','Press, spatula and seasoning'],['Back and shoulder heat pad','Big, warm, auto shut-off']].map((r,i)=>`
+   <div style="background:#F4EDE4;border-radius:30px;padding:38px 46px;margin-bottom:28px;display:flex;gap:34px;align-items:center">
+    <div class="serif" style="font-size:84px;color:#B5634B;width:80px">${i+1}</div>
+    <div><div style="font:700 44px Inter;color:#2B2420">${r[0]}</div><div style="font-size:34px;color:#6E625A;margin-top:8px">${r[1]}</div></div>
+   </div>`).join('')}
+ </div>
+ <div class="foot" style="color:#D9A08C">underfiftyfinds.github.io</div>`
 };
 (async () => {
   const b = await chromium.launch();
