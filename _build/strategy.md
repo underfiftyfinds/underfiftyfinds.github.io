@@ -8,20 +8,26 @@ Next, in this order (one new guide every ~2-3 days, all before Dec 7):
 3. [LIVE 2026-11-11] Teacher Christmas Gifts Under $25 -> board "Teacher Christmas Gifts" (peak Dec 21, big; +50% week over week). 14 picks.
 4. [LIVE 2026-11-13] Gifts for Dad Under $50 -> board "Gifts for Him Under $50" (peak Dec 21). 13 picks.
 5. [LIVE 2026-11-15] Gift Basket Ideas (4 DIY themed baskets, 14 fillers) -> board "Gifts for Her Under $50" or best fit (cozy/spa pins also fit Gifts for Mom).
-NEXT: no gift guide left in the pre-Christmas order. Options for the weekly review: a Secret Santa / cheap Christmas gifts section inside White Elephant, or a Gifts for Her refresh. Post-Christmas guides start Dec 26.
-Deprioritized (small or shrinking searches): Gifts for Her, Kitchen Gifts, Cozy Home, housewarming. Build only after the above.
-Optional small add-on: a "Secret Santa / cheap Christmas gifts" section inside the White Elephant guide (both +200-300% month over month; no new guide needed).
+NEXT (UPDATED 2026-11-15 weekly review, see _build/trends/2026-11-08.md). Build in this order, one every ~2-3 days:
+6. Coworker & Secret Santa Gifts Under $25 -> board "White Elephant Gift Ideas" (or a new "Secret Santa Gift Ideas" board). Combines "christmas gifts for coworkers" (peak 0.59x anchor, Dec 14), "secret santa gifts" (0.35x, Dec 7, +400% MoM) and "gifts for coworkers" (0.27x, Dec 21). Earliest peak of the season, so build first (by ~Nov 18).
+7. Gifts for Her / Gifts for Girlfriend Under $50 -> board "Gifts for Her Under $50". "gifts for girlfriend" 0.54x + "gift ideas for women" 0.51x (+10% YoY, +60% MoM), both peak Dec 14.
+8. Gifts for Grandma Under $50 (0.51x, Dec 21) -> board "Gifts for Mom". Optional if time: Neighbor Christmas Gifts Under $15 (0.51x, Dec 21; fits stocking stuffer picks).
+Deprioritized (small or shrinking searches): Kitchen Gifts, Cozy Home, housewarming. Build only after the above.
 After Christmas (from Dec 26): Living Room Decor on a Budget (NEW 2026-11-09: peaks Jan 11 at ~3.9x anchor, though -20% YoY), Kitchen/Home Organization (peaks Jan 4, +20%), Galentine's gifts (late Jan, small but +400% YoY), Amazon Finds Under $25 (+70% YoY, peaks Dec 28), Apartment Decor on a Budget (+90% YoY, peaks Mar 1), Valentine's Gifts for Him (peaks Feb 15, +70%), then bedroom/bathroom decor ideas (spring, growing fast).
 
 ## Pin mix
 - Also make pins for existing guides with stronger search phrasing: "stocking stuffers for men", "white elephant gift ideas", "gifts for mom", "teacher christmas gifts". Put the exact search phrase in the pin headline and the first words of the description.
-- Push this week (2026-11-09): "white elephant gift ideas" (rising fast), "stocking stuffer ideas" (+300% MoM), "stocking stuffers for men", "cheap christmas gifts", "secret santa gifts". Fewer plain "gifts for him" pins (6 pins, 53 impressions, 0 site clicks so far; small search).
+- Push this week (2026-11-15): "white elephant gift ideas" (biggest, peaks Dec 14), "christmas gifts for mom" (+300% MoM) and "gifts for mom", "teacher christmas gifts" (+400% MoM), "gifts for boyfriend" (NEW: the anchor search, ~5x bigger than "gifts for him"; point these pins at the Gifts for Him guide), "stocking stuffer ideas" (+500% MoM), "christmas gift basket ideas" (Gift Basket guide has 0 pins yet: give it its first 2-3 pins this week).
+- Fewer plain "gifts for him" pins (small search, -5% YoY) and fewer generic "stocking stuffers for adults" pins (we already have 6+).
 - PINS PER DAY: 5 per run starting 2026-11-14 (approved by Micah on 2026-11-13 to catch the December gift peak). Drop back to 3 immediately on any Pinterest warning/CAPTCHA/spam notice. Up to 8/day once 7+ guides are live and the account is still clean. Do not go below 5 otherwise.
 
 ## What's working (fill in from weekly reviews)
 - 2026-11-09 (first 4 days, 12 pins): 86 impressions, 6 saves, 3 pin clicks, 1 outbound click. Followers 0. Far too early to call any winner.
 - The only site click came from "Stocking stuffers under $10" (X under $Y headline style, 11 impressions). One click is luck-sized; keep testing all styles.
 - By guide: Gifts for Him 53 impr / 0 clicks; Stocking Stuffers 25 impr / 1 click, 3 saves; White Elephant 8 impr / 2 saves (newest).
+- 2026-11-15 (week 2, 40 pins): lifetime 289 impressions, 23 saves (several are our own second-board saves), 5 pin clicks, 1 outbound click. This week: 234 impressions, 0 outbound clicks, 2 pin clicks. Followers 0. Profile shows 157 monthly views.
+- Still too early to call a winner: 1 site click total, no style or guide is statistically different. By style (pins / impressions / saves / outbound): numbered list 8/124/5/0 (78 of those from one stocking stuffer pin), 3-item callout 9/50/5/0, dark quote 9/46/3/0, X-under-$Y headline 9/37/8/1, spotlight 5/32/2/0. Headline pins get the most saves per impression (8 saves on 37).
+- By guide: Stocking Stuffers 17 pins/144 impr/1 click; Gifts for Him 8/79/0; White Elephant 6/40/0 (6 saves); Gifts for Mom 6/16/0 (5 saves); Teacher 2/8; Dad 1/2.
 - Distribution is slow on a brand-new account (~1-2 impressions per pin per day). Keep posting; judge styles from ~2026-12-03 onward.
 
 ## Decisions log
@@ -38,3 +44,4 @@ After Christmas (from Dec 26): Living Room Decor on a Budget (NEW 2026-11-09: pe
 - 2026-11-15: Added Gift Basket Ideas guide (14 picks). No pins posted: the app browser was signed into a different Pinterest account (micahjungpins), not @underfiftyfinds; did not switch accounts. Micah notified. (No run happened on 2026-11-14.)
 - 2026-11-15 (second run, 06:05 UTC): browser was back on @underfiftyfinds; posted 5 pins (teacher quote, 3 stocking stuffer pins, mom quote), all titled, 3 second-board saves. 35 pins total; 249 impressions, 18 saves, 1 outbound click so far.
 - 2026-11-15 (catch-up run, 20:45 UTC, requested by Micah after Nov 14 evening pins were relabeled): posted 5 pins (Dutch Blitz spotlight, mom quiet-night quote, Christmas gifts for mom under $50, men who have everything callout, stocking stuffers for teens), all titled, 2 second-board saves. 40 pins total; 283 impressions, 21 saves, 1 outbound click.
+- 2026-11-15 (weekly review): 40 pins, 289 lifetime impressions, 1 outbound click (none this week). Too early for winners; bandit unchanged (working as designed, still exploring under 500 impressions). Trend weights: white elephant 2.3, mom 2.0, teacher 1.8, stocking stuffers 1.6, dad 1.3, gift basket 1.3, him 1.2 (with "gifts for boyfriend" phrasing). Next guides: Coworker & Secret Santa, then Gifts for Her/Girlfriend, then Grandma. Keep 5 pins/day (7 guides live and no warnings, so 6-8 is allowed if Micah wants more volume before the Dec 14 peak).
