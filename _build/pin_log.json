@@ -563,6 +563,80 @@
      "date": "2026-11-15"
     }
    ]
+  },
+  {
+   "date": "2026-11-15",
+   "pin_id": "251709066671593138",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin36_stocking_dutchblitz_spotlight.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "single-product spotlight",
+   "headline": "Stocking stuffer ideas: the one the whole family plays on Christmas morning",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas: The Card Game the Whole Family Plays on Christmas Morning (Under $15)",
+   "title_added": true
+  },
+  {
+   "date": "2026-11-15",
+   "pin_id": "251709066671593143",
+   "board": "Gifts for Mom",
+   "image": "pins/pin37_mom_quietnight_quote.png",
+   "link": "/gifts-for-mom/",
+   "style": "dark quote",
+   "headline": "All I want is one quiet night to myself. (Gifts for mom)",
+   "search_phrase": "gifts for mom",
+   "title": "Gifts for Mom Who Wants a Quiet Night In: Spa Robe, Shower Steamers and More Under $50",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671593172",
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "pin_id": "251709066671593152",
+   "board": "Gifts for Mom",
+   "image": "pins/pin38_christmas_mom_under50.png",
+   "link": "/gifts-for-mom/",
+   "style": "headline (X under $Y)",
+   "headline": "Christmas Gifts for Mom under $50",
+   "search_phrase": "christmas gifts for mom",
+   "title": "Christmas Gifts for Mom Under $50: Massager, LEGO Flowers, Tea Sampler and More",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671593173",
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "pin_id": "251709066671593159",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin39_men_haseverything_callout.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "3-item callout",
+   "headline": "Gifts for men who have everything: 3 he still doesn't have",
+   "search_phrase": "gifts for men who have everything",
+   "title": "Gifts for Men Who Have Everything Under $50: Massager, Moon Lamp, Docking Station",
+   "title_added": true
+  },
+  {
+   "date": "2026-11-15",
+   "pin_id": "251709066671593166",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin40_stocking_teens_under15.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "headline (X under $Y)",
+   "headline": "Stocking Stuffers for Teens under $15",
+   "search_phrase": "stocking stuffers for teens",
+   "title": "Stocking Stuffers for Teens Under $15: Socks, Beanie, Book Light and More",
+   "title_added": true
   }
  ]
 }
