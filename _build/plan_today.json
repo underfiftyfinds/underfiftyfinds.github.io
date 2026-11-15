@@ -1,18 +1,26 @@
 {
- "date": "2026-11-13",
+ "date": "2026-11-15",
  "mode": "exploring (not enough data yet)",
  "plan": [
   {
-   "style": "numbered list",
-   "guide": "white-elephant-gifts-under-25"
-  },
-  {
-   "style": "single-product spotlight",
-   "guide": "gifts-for-mom"
+   "style": "dark quote",
+   "guide": "teacher-christmas-gifts"
   },
   {
    "style": "3-item callout",
-   "guide": "gifts-for-dad-under-50"
+   "guide": "stocking-stuffers-under-15"
+  },
+  {
+   "style": "headline (X under $Y)",
+   "guide": "stocking-stuffers-under-15"
+  },
+  {
+   "style": "numbered list",
+   "guide": "stocking-stuffers-under-15"
+  },
+  {
+   "style": "dark quote",
+   "guide": "gifts-for-mom"
   }
  ]
 }

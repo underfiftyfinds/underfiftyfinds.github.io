@@ -382,7 +382,68 @@ const pins = {
     <div><div style="font:700 44px Inter;color:#2B2420">${r[0]}</div><div style="font-size:34px;color:#6E625A;margin-top:8px">${r[1]}</div></div>
    </div>`).join('')}
  </div>
- <div class="foot" style="color:#D9A08C">underfiftyfinds.github.io</div>`
+ <div class="foot" style="color:#D9A08C">underfiftyfinds.github.io</div>`,
+ pin31_teacher_flair_quote: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;inset:70px;border:3px solid #B5634B;border-radius:40px"></div>
+ <div style="position:relative;padding:190px 120px 0;color:#F4EDE4;text-align:center">
+  <div class="kicker" style="color:#D9A08C">Teacher Christmas gifts</div>
+  <div class="serif" style="font-size:210px;line-height:.6;color:#B5634B;margin-top:60px">&ldquo;</div>
+  <div class="serif" style="font-size:96px;line-height:1.1;margin-top:20px">I ran out of<br>good pens<br>in October.</div>
+  <div style="font-size:44px;line-height:1.45;margin:64px auto 0;color:#D9CBBE;max-width:740px">Gifts teachers actually use: Flair pens, erasable gel pens, a cozy tumbler and more, all under $25</div>
+  <div style="margin-top:70px"><span class="pill">See all 14</span></div>
+ </div>
+ <div class="foot" style="color:#D9A08C;bottom:110px">underfiftyfinds.github.io</div>`,
+ pin32_stocking_ideas_callout: `
+ <div style="position:absolute;left:0;right:0;top:0;height:640px;background:#B5634B"></div>
+ <div style="position:relative;padding:110px 80px 0;color:#FFF6EE">
+  <div class="kicker" style="color:#FFE2D6">Stocking stuffer ideas</div>
+  <div class="serif" style="font-size:106px;line-height:1.03;margin-top:24px">3 small gifts<br>everyone opens first</div>
+  <div style="font-size:40px;margin-top:22px;color:#FFE2D6">All under $15, none end up in a drawer</div>
+ </div>
+ <div style="position:absolute;left:80px;right:80px;top:600px">
+  ${[['Cooling under-eye patches','A tiny spa moment for tired eyes'],['Weekly planner notepad','Tear-off pages for the list makers'],['Funny food crew socks','The laugh-out-loud stocking pull']].map((r,i)=>`
+   <div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:30px;padding:38px 46px;margin-bottom:28px;display:flex;gap:34px;align-items:center">
+    <div class="serif" style="font-size:84px;color:#B5634B;width:80px">${i+1}</div>
+    <div><div style="font:700 44px Inter">${r[0]}</div><div style="font-size:34px;color:#6E625A;margin-top:8px">${r[1]}</div></div>
+   </div>`).join('')}
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin33_stocking_adults_under15: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;inset:60px;background:#F4EDE4;border-radius:44px"></div>
+ <div style="position:relative;padding:120px 100px 0;text-align:center">
+  <div class="kicker">Grown-up stockings</div>
+  <div class="serif" style="font-size:112px;line-height:1.03;margin-top:28px">Stocking Stuffers<br>for Adults</div>
+  <div class="serif" style="font-size:96px;line-height:1;margin-top:14px">under</div>
+  <div class="serif" style="font-size:300px;line-height:.92;color:#B5634B">$15</div>
+  <div style="font-size:44px;line-height:1.45;margin:30px auto 0;max-width:740px;color:#4A3F38">Book lights, sheet masks, a fast card game and more little gifts grown-ups actually use</div>
+  <div style="margin-top:44px"><span class="pill">See all 13 ideas</span></div>
+ </div>
+ <div class="foot" style="bottom:100px">underfiftyfinds.github.io</div>`,
+ pin34_stocking_family_list: `
+ <div style="position:absolute;left:0;top:0;bottom:0;width:22px;background:#B5634B"></div>
+ <div style="padding:88px 80px 0 96px">
+  <div class="kicker">Fill every stocking</div>
+  <div class="serif" style="font-size:104px;line-height:1.02;margin:22px 0 18px">Stocking Stuffer Ideas for the Whole Family</div>
+  <div style="font-size:40px;color:#6E625A;margin-bottom:40px">13 small gifts, all under $15</div>
+  <div style="background:#2B2420;color:#F4EDE4;border-radius:36px;padding:42px 56px;font-size:41px;line-height:1.75">
+   ${['Dutch Blitz card game','Clip-on book light','Squishy stress ball','Sheet mask variety pack','Ribbed cuff beanie','Password logbook','Pickle birthday candles'].map((t,i)=>`<div><span style="color:#D9A08C;font-weight:700;margin-right:22px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
+   <div style="color:#D9CBBE">+ 6 more inside</div>
+  </div>
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin35_mom_robe_quote: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;inset:70px;border:3px solid #B5634B;border-radius:40px"></div>
+ <div style="position:relative;padding:190px 120px 0;color:#F4EDE4;text-align:center">
+  <div class="kicker" style="color:#D9A08C">Christmas gifts for mom</div>
+  <div class="serif" style="font-size:210px;line-height:.6;color:#B5634B;margin-top:60px">&ldquo;</div>
+  <div class="serif" style="font-size:92px;line-height:1.1;margin-top:20px">Don't get me<br>anything.<br><span style="color:#D9A08C">...okay, maybe<br>a cozy robe.</span></div>
+  <div style="font-size:44px;line-height:1.45;margin:56px auto 0;color:#D9CBBE;max-width:740px">14 gifts for mom she'd never buy herself, all under $50</div>
+  <div style="margin-top:60px"><span class="pill">See the list</span></div>
+ </div>
+ <div class="foot" style="color:#D9A08C;bottom:110px">underfiftyfinds.github.io</div>`
 };
 (async () => {
   const b = await chromium.launch();
