@@ -1,6 +1,36 @@
 {
- "source": "Pinterest UserActivityPinsResource creator_analytics all_time_realtime, as of 2026-11-15 06:06 UTC. Saves may include our own second-board repins. Excludes API test pin 251709066671508972.",
+ "source": "Pinterest UserActivityPinsResource creator_analytics all_time_realtime, as of 2026-11-15 20:45 UTC (refreshed). Saves may include our own second-board repins. Excludes API test pin 251709066671508972.",
  "pins": {
+  "251709066671583772": {
+   "impressions": 0,
+   "outbound_clicks": 0,
+   "saves": 1,
+   "pin_clicks": 0
+  },
+  "251709066671583768": {
+   "impressions": 0,
+   "outbound_clicks": 0,
+   "saves": 0,
+   "pin_clicks": 0
+  },
+  "251709066671583766": {
+   "impressions": 0,
+   "outbound_clicks": 0,
+   "saves": 1,
+   "pin_clicks": 0
+  },
+  "251709066671583763": {
+   "impressions": 0,
+   "outbound_clicks": 0,
+   "saves": 1,
+   "pin_clicks": 0
+  },
+  "251709066671583760": {
+   "impressions": 0,
+   "outbound_clicks": 0,
+   "saves": 0,
+   "pin_clicks": 0
+  },
   "251709066671562714": {
    "impressions": 2,
    "outbound_clicks": 0,
@@ -158,7 +188,7 @@
    "pin_clicks": 1
   },
   "251709066671355968": {
-   "impressions": 42,
+   "impressions": 76,
    "outbound_clicks": 0,
    "saves": 0,
    "pin_clicks": 1
