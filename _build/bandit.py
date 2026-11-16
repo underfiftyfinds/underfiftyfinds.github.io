@@ -18,6 +18,7 @@ STYLES = {  # canonical arm -> words that identify it in pin_log "style"
     "3-item callout": ["callout"],
     "headline (X under $Y)": ["headline", "under $"],
     "single-product spotlight": ["spotlight", "single"],
+    "teaser (curiosity gap)": ["teaser", "curiosity"],
 }
 PRIOR_A, PRIOR_B = 1.0, 200.0   # prior belief: ~0.5% outbound click rate
 MIN_SHARE = 0.10                # never starve an arm completely (keeps exploring)
