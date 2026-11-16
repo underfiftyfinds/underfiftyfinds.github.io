@@ -637,6 +637,85 @@
    "search_phrase": "stocking stuffers for teens",
    "title": "Stocking Stuffers for Teens Under $15: Socks, Beanie, Book Light and More",
    "title_added": true
+  },
+  {
+   "date": "2026-11-16",
+   "pin_id": "251709066671603090",
+   "board": "Gifts for Mom",
+   "image": "pins/pin41_mom_haseverything_under50.png",
+   "link": "/gifts-for-mom/",
+   "style": "headline (X under $Y)",
+   "headline": "Gifts for Mom Who Has Everything under $50",
+   "search_phrase": "gifts for mom who has everything",
+   "title": "Gifts for Mom Who Has Everything Under $50: LEGO Flowers, Massager, Spa Robe and More",
+   "title_added": true,
+   "posted_via": "PinResource/create API (pin-builder page would not load)",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671603135",
+     "date": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "pin_id": "251709066671603094",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin42_whiteelephant_waffle_quote.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "dark quote",
+   "headline": "Wait, who stole the waffle maker? (White elephant gift ideas under $25)",
+   "search_phrase": "white elephant gift ideas",
+   "title": "White Elephant Gift Ideas Under $25: Mini Waffle Maker, Tortilla Blanket and More People Steal",
+   "title_added": true,
+   "posted_via": "PinResource/create API (pin-builder page would not load)"
+  },
+  {
+   "date": "2026-11-16",
+   "pin_id": "251709066671603097",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin43_christmas_dad_under50.png",
+   "link": "/gifts-for-dad-under-50/",
+   "style": "headline (X under $Y)",
+   "headline": "Christmas Gifts for Dad under $50",
+   "search_phrase": "christmas gifts for dad",
+   "title": "Christmas Gifts for Dad Under $50: Putting Green, Smash Burger Kit, Heating Pad and More",
+   "title_added": true,
+   "posted_via": "PinResource/create API (pin-builder page would not load)"
+  },
+  {
+   "date": "2026-11-16",
+   "pin_id": "251709066671603130",
+   "board": "Gifts for Mom",
+   "image": "pins/pin44_stocking_mom_under25.png",
+   "link": "/gifts-for-mom/",
+   "style": "headline (X under $Y)",
+   "headline": "Stocking Stuffers for Mom under $25",
+   "search_phrase": "stocking stuffers for mom",
+   "title": "Stocking Stuffers for Mom Under $25: Satin Pillowcase, Shower Steamers, Lip Mask and More",
+   "title_added": true,
+   "posted_via": "PinResource/create API (pin-builder page would not load)",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671603138",
+     "date": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "pin_id": "251709066671603133",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin45_funny_whiteelephant_under25.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "headline (X under $Y)",
+   "headline": "Funny White Elephant Gifts under $25",
+   "search_phrase": "funny white elephant gifts",
+   "title": "Funny White Elephant Gifts Under $25: Tortilla Blanket, Pickle Light, Magic 8 Ball and More",
+   "title_added": true,
+   "posted_via": "PinResource/create API (pin-builder page would not load)"
   }
  ]
 }
