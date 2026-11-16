@@ -506,7 +506,66 @@ const pins = {
   <div style="font-size:44px;line-height:1.45;margin:30px auto 0;max-width:740px;color:#4A3F38">Funny socks, a cuff beanie, a clip-on book light and more they won't roll their eyes at</div>
   <div style="margin-top:44px"><span class="pill">See all 13 ideas</span></div>
  </div>
- <div class="foot" style="bottom:100px">underfiftyfinds.github.io</div>`
+ <div class="foot" style="bottom:100px">underfiftyfinds.github.io</div>`,
+ pin41_mom_haseverything_under50: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;inset:60px;background:#F4EDE4;border-radius:44px"></div>
+ <div style="position:relative;padding:200px 100px 0;text-align:center">
+  <div class="kicker">She says she has it all</div>
+  <div class="serif" style="font-size:104px;line-height:1.04;margin-top:30px">Gifts for Mom<br>Who Has<br>Everything</div>
+  <div class="serif" style="font-size:90px;line-height:1;margin-top:14px">under <span style="color:#B5634B">$50</span></div>
+  <div style="width:140px;height:6px;background:#B5634B;margin:56px auto 0;border-radius:3px"></div>
+  <div style="font-size:44px;line-height:1.45;margin:50px auto 0;max-width:760px;color:#4A3F38">LEGO flowers, a heated massager, a spa robe and more she'd never buy herself</div>
+  <div style="margin-top:56px"><span class="pill">See all 14 gifts</span></div>
+ </div>
+ <div class="foot" style="bottom:100px">underfiftyfinds.github.io</div>`,
+ pin42_whiteelephant_waffle_quote: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;inset:70px;border:3px solid #B5634B;border-radius:40px"></div>
+ <div style="position:relative;padding:220px 120px 0;color:#F4EDE4;text-align:center">
+  <div class="serif" style="font-size:210px;line-height:.6;color:#B5634B">&ldquo;</div>
+  <div class="serif" style="font-size:100px;line-height:1.1;margin-top:20px">Wait,<br>who stole the<br>waffle maker?</div>
+  <div style="font-size:44px;line-height:1.45;margin:70px auto 0;color:#D9CBBE;max-width:720px">White elephant gift ideas under $25 that everyone fights over</div>
+  <div style="margin-top:80px"><span class="pill">See all 15 ideas</span></div>
+ </div>
+ <div class="foot" style="color:#D9A08C;bottom:110px">underfiftyfinds.github.io</div>`,
+ pin43_christmas_dad_under50: `
+ <div style="position:absolute;left:0;right:0;top:0;height:860px;background:#B5634B"></div>
+ <div style="position:relative;padding:130px 90px 0;color:#FFF6EE;text-align:center">
+  <div class="kicker" style="color:#FFE2D6">Dad-approved, all under budget</div>
+  <div class="serif" style="font-size:120px;line-height:1.03;margin-top:30px">Christmas Gifts<br>for Dad</div>
+  <div class="serif" style="font-size:96px;line-height:1;margin-top:18px">under $50</div>
+ </div>
+ <div style="position:absolute;left:90px;right:90px;top:780px;background:#FFFDF9;border:2px solid #E4D8CB;border-radius:36px;padding:56px 60px;text-align:center">
+  <div style="font-size:46px;line-height:1.5;color:#2B2420">Indoor putting green<br>Smash burger kit<br>Heating pad<br>Leather sling bag</div>
+  <div style="font-size:38px;color:#6E625A;margin-top:24px">+ 9 more he'll actually use</div>
+  <div style="margin-top:40px"><span class="pill">See all 13 gifts</span></div>
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin44_stocking_mom_under25: `
+ <div style="position:absolute;inset:0;background:#B5634B"></div>
+ <div style="position:absolute;inset:60px;background:#F4EDE4;border-radius:44px"></div>
+ <div style="position:relative;padding:130px 100px 0;text-align:center">
+  <div class="kicker">Little luxuries she'll use daily</div>
+  <div class="serif" style="font-size:112px;line-height:1.03;margin-top:30px">Stocking Stuffers<br>for Mom</div>
+  <div class="serif" style="font-size:96px;line-height:1;margin-top:14px">under</div>
+  <div class="serif" style="font-size:300px;line-height:.92;color:#B5634B">$25</div>
+  <div style="font-size:44px;line-height:1.45;margin:30px auto 0;max-width:760px;color:#4A3F38">Satin pillowcase, shower steamers, a lip mask, a tea sampler and more</div>
+  <div style="margin-top:44px"><span class="pill">See the full list</span></div>
+ </div>
+ <div class="foot" style="bottom:100px">underfiftyfinds.github.io</div>`,
+ pin45_funny_whiteelephant_under25: `
+ <div style="position:absolute;left:0;right:0;top:0;height:22px;background:#B5634B"></div>
+ <div style="padding:120px 90px 0;text-align:center">
+  <div class="kicker">Laughs first, then it gets stolen</div>
+  <div class="serif" style="font-size:124px;line-height:1.02;margin-top:30px">Funny<br>White Elephant<br>Gifts</div>
+  <div class="serif" style="font-size:96px;line-height:1;margin-top:20px">under <span style="color:#B5634B">$25</span></div>
+  <div style="display:flex;flex-wrap:wrap;gap:22px;justify-content:center;margin:70px auto 0;max-width:820px">
+   ${['Giant tortilla blanket','Pickle squishy light','Magic 8 Ball','Emoji desk vacuum','Sarcastic pen set'].map(t=>`<span style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:999px;padding:18px 34px;font:600 36px Inter">${t}</span>`).join('')}
+  </div>
+  <div style="margin-top:70px"><span class="pill">See all 15 ideas</span></div>
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`
 };
 (async () => {
   const b = await chromium.launch();
