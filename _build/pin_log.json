@@ -716,6 +716,87 @@
    "title": "Funny White Elephant Gifts Under $25: Tortilla Blanket, Pickle Light, Magic 8 Ball and More",
    "title_added": true,
    "posted_via": "PinResource/create API (pin-builder page would not load)"
+  },
+  {
+   "date": "2026-11-17",
+   "pin_id": "251709066671612088",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin46_stocking_teaser_no7.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "teaser (curiosity gap)",
+   "headline": "13 stocking stuffers. #7 is the one everyone asks about.",
+   "search_phrase": "stocking stuffers under $15",
+   "title": "Stocking Stuffers Under $15: 13 Small Gifts (and the #7 Pick Everyone Asks About)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation (strategy 2026-11-16)"
+  },
+  {
+   "date": "2026-11-17",
+   "pin_id": "251709066671612089",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin47_cheap_stocking_3under10.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "3-item callout",
+   "headline": "Cheap stocking stuffers: 3 under $10 nobody will guess were cheap",
+   "search_phrase": "cheap stocking stuffers",
+   "title": "Cheap Stocking Stuffers Under $10 That Nobody Will Guess Were Cheap",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671612094",
+     "date": "2026-11-17"
+    }
+   ],
+   "note": "breakout variation (strategy 2026-11-16)"
+  },
+  {
+   "date": "2026-11-17",
+   "pin_id": "251709066671612090",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin48_dad_putting_spotlight.png",
+   "link": "/gifts-for-dad-under-50/",
+   "style": "single-product spotlight",
+   "headline": "Christmas gifts for dad: the gift he'll play with all Christmas Day",
+   "search_phrase": "christmas gifts for dad",
+   "title": "Christmas Gifts for Dad: Indoor Putting Green Mat He’ll Play With All Day",
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-17",
+   "pin_id": "251709066671612091",
+   "board": "Gifts for Mom",
+   "image": "pins/pin49_mom_pillowcase_spotlight.png",
+   "link": "/gifts-for-mom/",
+   "style": "single-product spotlight",
+   "headline": "Gifts for mom: she'll thank you every morning",
+   "search_phrase": "gifts for mom",
+   "title": "Gifts for Mom: The Satin Pillowcase She’ll Thank You for Every Morning",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671612096",
+     "date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "pin_id": "251709066671612092",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin50_useful_whiteelephant_list.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "headline": "White elephant gift ideas: useful gifts they'll be glad to take home",
+   "search_phrase": "white elephant gift ideas",
+   "title": "White Elephant Gift Ideas Under $25: Useful Gifts People Are Glad to Take Home",
+   "title_added": true,
+   "posted_via": "PinResource/create API"
   }
  ]
 }

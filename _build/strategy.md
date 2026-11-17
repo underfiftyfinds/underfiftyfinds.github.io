@@ -1,7 +1,7 @@
 # Under Fifty Finds strategy (read by the daily pin run; updated by the weekly review)
 
 ## Guide build order (UPDATED 2026-11-09 from trend radar, see _build/trends/2026-11-01.md)
-Live: Gifts for Him Under $50, Stocking Stuffers Under $15, White Elephant Gifts Under $25 (2026-11-07), Gifts for Mom (2026-11-09), Teacher Christmas Gifts Under $25 (2026-11-11), Gifts for Dad Under $50 (2026-11-13), Gift Basket Ideas (2026-11-15).
+Live: Gifts for Him Under $50, Stocking Stuffers Under $15, White Elephant Gifts Under $25 (2026-11-07), Gifts for Mom (2026-11-09), Teacher Christmas Gifts Under $25 (2026-11-11), Gifts for Dad Under $50 (2026-11-13), Gift Basket Ideas (2026-11-15), Coworker & Secret Santa Gifts Under $25 (2026-11-17).
 Next, in this order (one new guide every ~2-3 days, all before Dec 7):
 1. [LIVE 2026-11-07] White Elephant Gifts Under $25 -> board "White Elephant Gift Ideas" (biggest search of the season, peaks Dec 14; ~12x our anchor at peak). Funny + useful picks.
 2. [LIVE 2026-11-09] Gifts for Mom -> board "Gifts for Mom" (peak Dec 21, growing +20% YoY). 14 picks.
@@ -9,7 +9,7 @@ Next, in this order (one new guide every ~2-3 days, all before Dec 7):
 4. [LIVE 2026-11-13] Gifts for Dad Under $50 -> board "Gifts for Him Under $50" (peak Dec 21). 13 picks.
 5. [LIVE 2026-11-15] Gift Basket Ideas (4 DIY themed baskets, 14 fillers) -> board "Gifts for Her Under $50" or best fit (cozy/spa pins also fit Gifts for Mom).
 NEXT (UPDATED 2026-11-15 weekly review, see _build/trends/2026-11-08.md). Build in this order, one every ~2-3 days:
-6. Coworker & Secret Santa Gifts Under $25 -> board "White Elephant Gift Ideas" (or a new "Secret Santa Gift Ideas" board). Combines "christmas gifts for coworkers" (peak 0.59x anchor, Dec 14), "secret santa gifts" (0.35x, Dec 7, +400% MoM) and "gifts for coworkers" (0.27x, Dec 21). Earliest peak of the season, so build first (by ~Nov 18).
+6. [LIVE 2026-11-17, /coworker-secret-santa-gifts-under-25/, 13 picks, 0 pins yet: give it pins next run] Coworker & Secret Santa Gifts Under $25 -> board "White Elephant Gift Ideas" (or a new "Secret Santa Gift Ideas" board). Combines "christmas gifts for coworkers" (peak 0.59x anchor, Dec 14), "secret santa gifts" (0.35x, Dec 7, +400% MoM) and "gifts for coworkers" (0.27x, Dec 21). Earliest peak of the season, so build first (by ~Nov 18).
 7. Gifts for Her / Gifts for Girlfriend Under $50 -> board "Gifts for Her Under $50". "gifts for girlfriend" 0.54x + "gift ideas for women" 0.51x (+10% YoY, +60% MoM), both peak Dec 14.
 8. Gifts for Grandma Under $50 (0.51x, Dec 21) -> board "Gifts for Mom". Optional if time: Neighbor Christmas Gifts Under $15 (0.51x, Dec 21; fits stocking stuffer picks).
 Deprioritized (small or shrinking searches): Kitchen Gifts, Cozy Home, housewarming. Build only after the above.
@@ -51,3 +51,4 @@ After Christmas (from Dec 26): Living Room Decor on a Budget (NEW 2026-11-09: pe
 - 2026-11-16: Breakout pin found ("Stocking Stuffers Under $15", 130 impressions). Micah approved: 2 fresh variations/day of it through 11-22, plus a new "teaser (curiosity gap)" style to fix the near-zero site clicks (1 outbound click in 354 impressions).
 
 - 2026-11-16: Micah wants to decide on buying a custom domain (~$12/yr, e.g. underfiftyfinds.com) at the Nov 22 review. Weekly review: remind him, using the teaser-test click results as context. Do NOT buy anything.
+- 2026-11-17 (run 09:03 UTC = 1 AM PT, first Nov 17 run): added Coworker & Secret Santa Gifts Under $25 guide (13 picks, tag underfifty-gifts-20, trend weight 1.6). Posted 5 pins via PinResource/create (2 breakout stocking-stuffer variations incl. first teaser pin; bandit 3: dad spotlight, mom spotlight, white elephant list), all titled, 2 second-board saves. 50 pins; 451 lifetime impressions, 1 outbound click. The Nov 17 stocking-stuffer breakout pin is now at 185 impressions.
