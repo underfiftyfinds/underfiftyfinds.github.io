@@ -813,5 +813,112 @@
     ]
    }
   ]
+ },
+ {
+  "slug": "coworker-secret-santa-gifts-under-25",
+  "tag": "underfifty-gifts-20",
+  "title": "Secret Santa Gifts for Coworkers Under $25 (That Don't Feel Generic)",
+  "desc": "Secret Santa and Christmas gifts for coworkers under $25: insulated tumblers, monogram mugs, mini desk plants, cozy socks, candles, treats and desk upgrades people actually use.",
+  "h1": "Secret Santa Gifts for Coworkers Under $25",
+  "lede": "The best office Secret Santa gift is something useful at a desk, a little bit fun, and safe for someone you only half know. Every pick here is usually under $25, most under $20, and they come from this season's most-repeated coworker gift guide suggestions.",
+  "card": "Safe-but-not-boring picks for the office swap: tumblers, desk plants, cozy treats and more.",
+  "sections": [
+   {
+    "name": "The desk upgrades",
+    "note": "Useful every workday, so they never end up in a drawer.",
+    "items": [
+     {
+      "name": "Insulated tumbler with lid and straw",
+      "tier": "Under $25",
+      "search": "insulated tumbler with lid and straw 20 oz",
+      "why": "Keeps coffee hot through back-to-back meetings. The safest crowd-pleaser in any office swap."
+     },
+     {
+      "name": "Initial monogram mug",
+      "tier": "Under $15",
+      "search": "initial monogram letter coffee mug",
+      "why": "Feels personal even if you only know their first name."
+     },
+     {
+      "name": "Mini artificial desk plants (3-pack)",
+      "tier": "Under $20",
+      "search": "mini artificial succulent plants desk set",
+      "why": "Green on the desk with zero watering. Good for windowless cubicles."
+     },
+     {
+      "name": "Color-changing USB night light or salt lamp",
+      "tier": "Under $20",
+      "search": "usb salt lamp color changing desk",
+      "why": "A soft glow for dark December afternoons, plugs into a laptop."
+     },
+     {
+      "name": "Desk sticky notes and pen gift set",
+      "tier": "Under $15",
+      "search": "cute sticky notes desk stationery gift set",
+      "why": "Pretty supplies people use but rarely buy for themselves."
+     }
+    ]
+   },
+   {
+    "name": "Cozy and self-care",
+    "note": "Easy wins for almost anyone on the team.",
+    "items": [
+     {
+      "name": "Fuzzy cozy socks",
+      "tier": "Under $15",
+      "search": "fuzzy cozy socks christmas gift",
+      "why": "Cold office, warm feet. Hard to get wrong."
+     },
+     {
+      "name": "Mini soy candle tin set",
+      "tier": "Under $20",
+      "search": "mini soy candle tin gift set",
+      "why": "A small set lets them pick a favorite scent."
+     },
+     {
+      "name": "Heated neck and shoulder wrap",
+      "tier": "Under $25",
+      "search": "microwavable heated neck shoulder wrap",
+      "why": "For the coworker who's always stiff after a long day at the screen."
+     },
+     {
+      "name": "Satin sleep mask and scrunchie set",
+      "tier": "Under $15",
+      "search": "satin sleep mask scrunchie set",
+      "why": "Feels luxe for the price and works for travel too."
+     }
+    ]
+   },
+   {
+    "name": "Treats and fun",
+    "note": "Snacks and small laughs for the swap table.",
+    "items": [
+     {
+      "name": "Handheld milk frother",
+      "tier": "Under $15",
+      "search": "handheld milk frother",
+      "why": "Turns office coffee into a latte. A sneaky favorite to steal."
+     },
+     {
+      "name": "Gourmet hot cocoa or tea sampler",
+      "tier": "Under $20",
+      "search": "hot cocoa gift set sampler",
+      "why": "An edible gift that's easy to share or take home."
+     },
+     {
+      "name": "Funny desk button or stress toy",
+      "tier": "Under $15",
+      "search": "funny desk button office gift",
+      "why": "A built-in laugh at the swap, and it lives on the desk all year."
+     },
+     {
+      "name": "Bento lunch box",
+      "tier": "Under $25",
+      "search": "bento lunch box adult leakproof",
+      "why": "For the coworker who brings lunch. Practical and better than the plastic tub they use now."
+     }
+    ]
+   }
+  ]
  }
 ]
