@@ -1,25 +1,17 @@
 {
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "mode": "exploring (not enough data yet)",
  "plan": [
   {
-   "style": "headline (X under $Y)",
-   "guide": "gifts-for-mom"
-  },
-  {
-   "style": "dark quote",
-   "guide": "white-elephant-gifts-under-25"
-  },
-  {
-   "style": "headline (X under $Y)",
+   "style": "single-product spotlight",
    "guide": "gifts-for-dad-under-50"
   },
   {
-   "style": "headline (X under $Y)",
+   "style": "single-product spotlight",
    "guide": "gifts-for-mom"
   },
   {
-   "style": "headline (X under $Y)",
+   "style": "numbered list",
    "guide": "white-elephant-gifts-under-25"
   }
  ]
