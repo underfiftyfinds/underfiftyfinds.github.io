@@ -23,6 +23,7 @@ STYLES = {  # canonical arm -> words that identify it in pin_log "style"
 PRIOR_A, PRIOR_B = 1.0, 200.0   # prior belief: ~0.5% outbound click rate
 MIN_SHARE = 0.10                # never starve an arm completely (keeps exploring)
 MAX_SHARE_EXPLORING = 0.35      # while exploring (<500 impressions), one lucky click can't grab half the pins
+LAUNCH_PINS = 2                 # a newly launched guide gets its first 2 pins guaranteed (Micah approved 2026-11-17)
 
 
 def canon_style(s):
@@ -133,8 +134,21 @@ def main():
     guide_p = win_probs(guide_t, weights={g: tw.get(g, 1.0) for g in guides}, rng=rng, cap=(0.5 if cap else None))
 
     plan = [{"style": s, "guide": g} for s, g in zip(allocate(style_p, a.pins, rng), allocate(guide_p, a.pins, rng))]
+    # Launch boost: a guide with fewer than LAUNCH_PINS pins takes the first slots (newest guides first),
+    # so a new guide gets pins on launch day instead of waiting for a lucky draw.
+    slot = 0
+    for g in reversed(guides):
+        need = max(LAUNCH_PINS - guide_t[g]["pins"], 0)
+        for _ in range(need):
+            if slot < len(plan):
+                plan[slot]["guide"], plan[slot]["launch_boost"] = g, True
+                slot += 1
     mode = "exploring (not enough data yet)" if total_imp < 500 else "learning (shifting toward winners)"
-    today = dt.date.today().isoformat()
+    try:  # pin_log dates are Pacific dates
+        from zoneinfo import ZoneInfo
+        today = dt.datetime.now(ZoneInfo("America/Los_Angeles")).date().isoformat()
+    except Exception:
+        today = dt.date.today().isoformat()
 
     clean = lambda t: {k: {x: (round(y, 5) if isinstance(y, float) else y) for x, y in v.items() if x != "_ab"} for k, v in t.items()}
     data = load_json(P("lab", "data.json"), {"history": []})
