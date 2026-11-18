@@ -797,6 +797,97 @@
    "title": "White Elephant Gift Ideas Under $25: Useful Gifts People Are Glad to Take Home",
    "title_added": true,
    "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-18",
+   "pin_id": "251709066671631420",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin51_stocking_teaser_nobody_buys.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "teaser (curiosity gap)",
+   "headline": "The stocking stuffer nobody thinks to buy (but everyone ends up needing)",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas: The One Nobody Thinks to Buy (But Everyone Needs)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation (strategy 2026-11-16); hidden pick is the password logbook"
+  },
+  {
+   "date": "2026-11-18",
+   "pin_id": "251709066671631423",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin52_stocking_whos_who.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "headline (X under $Y)",
+   "headline": "Stocking stuffers under $15: one for everyone on your list",
+   "search_phrase": "stocking stuffers under $15",
+   "title": "Stocking Stuffers Under $15: One Small Gift for Everyone on Your List",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671631433",
+     "date": "2026-11-18"
+    }
+   ],
+   "note": "breakout variation (strategy 2026-11-16)"
+  },
+  {
+   "date": "2026-11-18",
+   "pin_id": "251709066671631424",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin53_secretsanta_frother_spotlight.png",
+   "link": "/coworker-secret-santa-gifts-under-25/",
+   "style": "single-product spotlight",
+   "headline": "Secret Santa gifts for coworkers: the one everyone tries to steal",
+   "search_phrase": "secret santa gifts for coworkers",
+   "title": "Secret Santa Gifts for Coworkers: The Under-$15 Pick Everyone Tries to Steal",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671631434",
+     "date": "2026-11-18"
+    }
+   ],
+   "note": "launch boost"
+  },
+  {
+   "date": "2026-11-18",
+   "pin_id": "251709066671631426",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin54_coworker_quote.png",
+   "link": "/coworker-secret-santa-gifts-under-25/",
+   "style": "dark quote",
+   "headline": "You drew the new guy from accounting. (Christmas gifts for coworkers)",
+   "search_phrase": "christmas gifts for coworkers",
+   "title": "Christmas Gifts for Coworkers You Barely Know: Safe Bets Under $25",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "launch boost"
+  },
+  {
+   "date": "2026-11-18",
+   "pin_id": "251709066671631427",
+   "board": "Gifts for Her Under $50",
+   "image": "pins/pin55_giftbasket_headline.png",
+   "link": "/gift-basket-ideas/",
+   "style": "headline (X under $Y)",
+   "headline": "Christmas gift basket ideas: 4 DIY baskets under $50",
+   "search_phrase": "christmas gift basket ideas",
+   "title": "Christmas Gift Basket Ideas: 4 DIY Baskets Under $50 (With Filler Lists)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Mom",
+     "repin_id": "251709066671631436",
+     "date": "2026-11-18"
+    }
+   ],
+   "note": "launch boost (first gift basket pin)"
   }
  ]
 }
