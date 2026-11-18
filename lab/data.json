@@ -367,61 +367,109 @@
     "gift-basket-ideas": 0.094,
     "coworker-secret-santa-gifts-under-25": 0.137
    }
+  },
+  {
+   "date": "2026-11-18",
+   "mode": "learning (shifting toward winners)",
+   "plan": [
+    {
+     "style": "single-product spotlight",
+     "guide": "coworker-secret-santa-gifts-under-25",
+     "launch_boost": true
+    },
+    {
+     "style": "dark quote",
+     "guide": "coworker-secret-santa-gifts-under-25",
+     "launch_boost": true
+    },
+    {
+     "style": "headline (X under $Y)",
+     "guide": "gift-basket-ideas",
+     "launch_boost": true
+    },
+    {
+     "style": "teaser (curiosity gap)",
+     "guide": "gift-basket-ideas",
+     "launch_boost": true
+    },
+    {
+     "style": "numbered list",
+     "guide": "gifts-for-mom"
+    }
+   ],
+   "style_share": {
+    "numbered list": 0.093,
+    "dark quote": 0.121,
+    "3-item callout": 0.099,
+    "headline (X under $Y)": 0.376,
+    "single-product spotlight": 0.13,
+    "teaser (curiosity gap)": 0.181
+   },
+   "guide_share": {
+    "gifts-for-him-under-50": 0.091,
+    "stocking-stuffers-under-15": 0.091,
+    "white-elephant-gifts-under-25": 0.142,
+    "gifts-for-mom": 0.172,
+    "teacher-christmas-gifts": 0.174,
+    "gifts-for-dad-under-50": 0.092,
+    "gift-basket-ideas": 0.098,
+    "coworker-secret-santa-gifts-under-25": 0.139
+   }
   }
  ],
- "updated": "2026-11-17",
- "mode": "exploring (not enough data yet)",
- "total_pins": 45,
- "total_impressions": 451,
+ "updated": "2026-11-18",
+ "mode": "learning (shifting toward winners)",
+ "total_pins": 50,
+ "total_impressions": 577,
  "total_clicks": 1,
  "styles": {
   "numbered list": {
-   "pins": 8,
-   "impressions": 244,
+   "pins": 9,
+   "impressions": 337,
    "clicks": 0,
    "saves": 5,
-   "post_mean": 0.00225,
+   "post_mean": 0.00186,
    "post_lo": 0,
-   "post_hi": 0.00594
+   "post_hi": 0.00491
   },
   "dark quote": {
    "pins": 10,
-   "impressions": 54,
-   "clicks": 0,
-   "saves": 3,
-   "post_mean": 0.00392,
-   "post_lo": 0,
-   "post_hi": 0.01035
-  },
-  "3-item callout": {
-   "pins": 9,
    "impressions": 55,
    "clicks": 0,
-   "saves": 5,
+   "saves": 3,
    "post_mean": 0.00391,
    "post_lo": 0,
    "post_hi": 0.01031
   },
+  "3-item callout": {
+   "pins": 10,
+   "impressions": 72,
+   "clicks": 0,
+   "saves": 6,
+   "post_mean": 0.00366,
+   "post_lo": 0,
+   "post_hi": 0.00967
+  },
   "headline (X under $Y)": {
    "pins": 13,
-   "impressions": 56,
+   "impressions": 71,
    "clicks": 1,
    "saves": 10,
-   "post_mean": 0.00778,
+   "post_mean": 0.00735,
    "post_lo": 0,
-   "post_hi": 0.01678
+   "post_hi": 0.01586
   },
   "single-product spotlight": {
-   "pins": 5,
+   "pins": 7,
    "impressions": 36,
    "clicks": 0,
-   "saves": 2,
+   "saves": 3,
    "post_mean": 0.00422,
    "post_lo": 0,
    "post_hi": 0.01113
   },
   "teaser (curiosity gap)": {
-   "pins": 0,
+   "pins": 1,
    "impressions": 0,
    "clicks": 0,
    "saves": 0,
@@ -433,36 +481,36 @@
  "guides": {
   "gifts-for-him-under-50": {
    "pins": 8,
-   "impressions": 87,
+   "impressions": 94,
    "clicks": 0,
    "saves": 1,
-   "post_mean": 0.00347,
+   "post_mean": 0.00339,
    "post_lo": 0,
-   "post_hi": 0.00916
+   "post_hi": 0.00895
   },
   "stocking-stuffers-under-15": {
-   "pins": 17,
-   "impressions": 260,
+   "pins": 19,
+   "impressions": 339,
    "clicks": 1,
-   "saves": 11,
-   "post_mean": 0.00434,
+   "saves": 12,
+   "post_mean": 0.0037,
    "post_lo": 0,
-   "post_hi": 0.00937
+   "post_hi": 0.008
   },
   "white-elephant-gifts-under-25": {
-   "pins": 8,
-   "impressions": 55,
+   "pins": 9,
+   "impressions": 95,
    "clicks": 0,
    "saves": 6,
-   "post_mean": 0.00391,
+   "post_mean": 0.00338,
    "post_lo": 0,
-   "post_hi": 0.01031
+   "post_hi": 0.00892
   },
   "gifts-for-mom": {
-   "pins": 8,
+   "pins": 9,
    "impressions": 28,
    "clicks": 0,
-   "saves": 7,
+   "saves": 8,
    "post_mean": 0.00437,
    "post_lo": 0,
    "post_hi": 0.01152
@@ -477,7 +525,7 @@
    "post_hi": 0.01262
   },
   "gifts-for-dad-under-50": {
-   "pins": 2,
+   "pins": 3,
    "impressions": 7,
    "clicks": 0,
    "saves": 0,
@@ -515,35 +563,47 @@
   "coworker-secret-santa-gifts-under-25": 1.6
  },
  "style_share": {
-  "numbered list": 0.099,
-  "dark quote": 0.117,
-  "3-item callout": 0.116,
-  "headline (X under $Y)": 0.35,
-  "single-product spotlight": 0.137,
-  "teaser (curiosity gap)": 0.18
+  "numbered list": 0.093,
+  "dark quote": 0.121,
+  "3-item callout": 0.099,
+  "headline (X under $Y)": 0.376,
+  "single-product spotlight": 0.13,
+  "teaser (curiosity gap)": 0.181
  },
  "guide_share": {
-  "gifts-for-him-under-50": 0.093,
-  "stocking-stuffers-under-15": 0.093,
-  "white-elephant-gifts-under-25": 0.168,
-  "gifts-for-mom": 0.16,
-  "teacher-christmas-gifts": 0.163,
-  "gifts-for-dad-under-50": 0.093,
-  "gift-basket-ideas": 0.094,
-  "coworker-secret-santa-gifts-under-25": 0.137
+  "gifts-for-him-under-50": 0.091,
+  "stocking-stuffers-under-15": 0.091,
+  "white-elephant-gifts-under-25": 0.142,
+  "gifts-for-mom": 0.172,
+  "teacher-christmas-gifts": 0.174,
+  "gifts-for-dad-under-50": 0.092,
+  "gift-basket-ideas": 0.098,
+  "coworker-secret-santa-gifts-under-25": 0.139
  },
  "today": [
   {
    "style": "single-product spotlight",
-   "guide": "gifts-for-dad-under-50"
+   "guide": "coworker-secret-santa-gifts-under-25",
+   "launch_boost": true
   },
   {
-   "style": "single-product spotlight",
-   "guide": "gifts-for-mom"
+   "style": "dark quote",
+   "guide": "coworker-secret-santa-gifts-under-25",
+   "launch_boost": true
+  },
+  {
+   "style": "headline (X under $Y)",
+   "guide": "gift-basket-ideas",
+   "launch_boost": true
+  },
+  {
+   "style": "teaser (curiosity gap)",
+   "guide": "gift-basket-ideas",
+   "launch_boost": true
   },
   {
    "style": "numbered list",
-   "guide": "white-elephant-gifts-under-25"
+   "guide": "gifts-for-mom"
   }
  ]
 }

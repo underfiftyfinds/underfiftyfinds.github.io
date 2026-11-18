@@ -627,7 +627,70 @@ const pins = {
    ${['Mini waffle maker','Candle warmer lamp','Electric beverage chiller','Rechargeable luggage scale','Wearable cozy blanket','Scalp massager','Freezer soup cubes'].map((t,i)=>`<div><span style="color:#B5634B;font-weight:700;display:inline-block;width:76px">0${i+1}</span>${t}</div>`).join('')}
   </div>
  </div>
- <div class="foot">underfiftyfinds.github.io</div>`
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin51_stocking_teaser_nobody_buys: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;left:0;right:0;top:0;height:22px;background:#B5634B"></div>
+ <div style="position:relative;padding:130px 90px 0;color:#F4EDE4;text-align:center">
+  <div class="kicker" style="color:#D9A08C">Stocking stuffer ideas</div>
+  <div class="serif" style="font-size:96px;line-height:1.06;margin-top:30px">The stocking stuffer nobody thinks to buy</div>
+  <div style="font-size:44px;color:#D9CBBE;margin-top:26px">(but everyone ends up needing)</div>
+  <div style="margin:70px auto 0;background:#3A312C;border:3px dashed #B5634B;border-radius:36px;padding:64px 60px">
+   <div class="serif" style="font-size:150px;line-height:1;color:#B5634B">?</div>
+   <div style="display:flex;justify-content:center;gap:16px;margin-top:30px">${[220,160,240].map(w=>`<span style="display:inline-block;height:34px;width:${w}px;border-radius:17px;background:#5A4C44"></span>`).join('')}</div>
+   <div style="font-size:38px;line-height:1.5;color:#D9CBBE;margin-top:40px">Hint: it's under $10 and fixes a problem they have every single week</div>
+  </div>
+  <div style="margin-top:70px"><span class="pill">Find out what it is</span></div>
+ </div>
+ <div class="foot" style="color:#D9A08C;bottom:80px">underfiftyfinds.github.io</div>`,
+ pin52_stocking_whos_who: `
+ <div style="padding:80px 80px 0">
+  <div class="kicker">Stocking stuffers under $15</div>
+  <div class="serif" style="font-size:96px;line-height:1.03;margin:18px 0 12px">One for everyone<br>on your list</div>
+  <div style="font-size:40px;color:#6E625A;margin-bottom:34px">Small gifts under $15 that get used</div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px">
+   ${[['For her','Chenille grip socks'],['For him','Mini screwdriver set'],['For teens','Sheet mask pack'],['For readers','Clip-on book light'],['For laughs','Pickle birthday candles'],['For game night','Dutch Blitz cards']].map(r=>`<div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:30px;padding:28px 32px;min-height:168px"><div style="font:700 28px Inter;letter-spacing:.14em;text-transform:uppercase;color:#B5634B">${r[0]}</div><div class="serif" style="font-size:44px;line-height:1.12;margin-top:10px">${r[1]}</div></div>`).join('')}
+  </div>
+  <div style="text-align:center;margin-top:34px"><span class="pill">See all 13 ideas</span></div>
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin53_secretsanta_frother_spotlight: `
+ <div style="position:absolute;left:0;right:0;top:0;height:600px;background:#B5634B"></div>
+ <div style="position:relative;padding:120px 90px 0;color:#FFF6EE;text-align:center">
+  <div class="kicker" style="color:#FFE2D6">Secret Santa gifts for coworkers</div>
+  <div class="serif" style="font-size:100px;line-height:1.05;margin-top:28px">The one everyone<br>tries to steal</div>
+ </div>
+ <div style="position:absolute;left:90px;right:90px;top:540px;background:#FFFDF9;border:2px solid #E4D8CB;border-radius:40px;padding:80px 60px;text-align:center">
+  <div class="serif" style="font-size:76px">Handheld milk frother</div>
+  <div style="font-size:40px;color:#6E625A;margin-top:24px;line-height:1.45">Turns sad office coffee into a latte in 20 seconds. Usually under $15.</div>
+  <div style="height:2px;background:#E4D8CB;margin:56px 0"></div>
+  <div style="font-size:36px;color:#2B2420">Plus 12 more coworker gifts under $25 that don't feel generic</div>
+ </div>
+ <div style="position:absolute;left:0;right:0;bottom:170px;text-align:center"><span class="pill">See the full list</span></div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin54_coworker_quote: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:absolute;inset:70px;border:3px solid #B5634B;border-radius:40px"></div>
+ <div style="position:relative;padding:200px 120px 0;color:#F4EDE4;text-align:center">
+  <div class="serif" style="font-size:210px;line-height:.6;color:#B5634B">&ldquo;</div>
+  <div class="serif" style="font-size:88px;line-height:1.12;margin-top:20px">You drew<br>the new guy<br>from accounting.</div>
+  <div style="font-size:44px;line-height:1.45;margin:70px auto 0;color:#D9CBBE;max-width:720px">Christmas gifts for coworkers you barely know, all under $25</div>
+  <div style="margin-top:80px"><span class="pill">See the safe bets</span></div>
+ </div>
+ <div class="foot" style="color:#D9A08C;bottom:110px">underfiftyfinds.github.io</div>`,
+ pin55_giftbasket_headline: `
+ <div style="position:absolute;inset:0;background:#B5634B"></div>
+ <div style="position:absolute;inset:60px;background:#F4EDE4;border-radius:44px"></div>
+ <div style="position:relative;padding:150px 120px 0;text-align:center">
+  <div class="kicker">Christmas gift basket ideas</div>
+  <div class="serif" style="font-size:118px;line-height:1;margin-top:34px">4 DIY baskets</div>
+  <div class="serif" style="font-size:118px;line-height:1;color:#B5634B">under $50</div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:64px;text-align:left">
+   ${[['Cozy night in','Throw, socks, candle'],['Movie night','Popcorn, seasoning, a game'],['Coffee lover','Travel mug, syrups, biscotti'],['Spa night','Bath bombs, masks, sleep mask']].map(r=>`<div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:28px;padding:34px 34px"><div class="serif" style="font-size:48px">${r[0]}</div><div style="font-size:32px;color:#6E625A;margin-top:10px;line-height:1.35">${r[1]}</div></div>`).join('')}
+  </div>
+  <div style="margin-top:60px"><span class="pill">Get the filler lists</span></div>
+ </div>
+ <div class="foot" style="bottom:110px">underfiftyfinds.github.io</div>`
 };
 (async () => {
   const b = await chromium.launch();

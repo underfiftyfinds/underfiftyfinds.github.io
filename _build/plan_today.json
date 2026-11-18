@@ -1,18 +1,30 @@
 {
- "date": "2026-11-17",
- "mode": "exploring (not enough data yet)",
+ "date": "2026-11-18",
+ "mode": "learning (shifting toward winners)",
  "plan": [
   {
    "style": "single-product spotlight",
-   "guide": "gifts-for-dad-under-50"
+   "guide": "coworker-secret-santa-gifts-under-25",
+   "launch_boost": true
   },
   {
-   "style": "single-product spotlight",
-   "guide": "gifts-for-mom"
+   "style": "dark quote",
+   "guide": "coworker-secret-santa-gifts-under-25",
+   "launch_boost": true
+  },
+  {
+   "style": "headline (X under $Y)",
+   "guide": "gift-basket-ideas",
+   "launch_boost": true
+  },
+  {
+   "style": "teaser (curiosity gap)",
+   "guide": "gift-basket-ideas",
+   "launch_boost": true
   },
   {
    "style": "numbered list",
-   "guide": "white-elephant-gifts-under-25"
+   "guide": "gifts-for-mom"
   }
  ]
 }
