@@ -1054,6 +1054,22 @@
      "date": "2026-11-20"
     }
    ]
+  },
+  {
+   "date": "2026-11-20",
+   "pin_id": "251709066671668882",
+   "board": "White Elephant Gift Ideas",
+   "image": "canva:DAHbfE3o5xY",
+   "canva_url": "https://canva.link/hbqd9893pin68gw",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "canva photo pin",
+   "palette": "evergreen gold",
+   "headline": "15 White Elephant Gifts Under $25",
+   "search_phrase": "white elephant gift ideas",
+   "title_added": true,
+   "title": "White Elephant Gift Ideas Under $25: 15 Gifts Everyone Will Try to Steal",
+   "posted_via": "pin/create/button + PinResource/update title",
+   "note": "canva photo pin test #1"
   }
  ]
 }
