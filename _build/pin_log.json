@@ -965,6 +965,95 @@
    "title_added": true,
    "posted_via": "PinResource/create API",
    "note": "breakout variation"
+  },
+  {
+   "date": "2026-11-20",
+   "pin_id": "251709066671666938",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin61_dad_quote_red.png",
+   "link": "/gifts-for-dad-under-50/",
+   "style": "dark quote",
+   "palette": "christmas red",
+   "headline": "Don't spend money on me. (Christmas gifts for dad)",
+   "search_phrase": "christmas gifts for dad",
+   "title": "Christmas Gifts for Dad Under $50: 13 He'll Actually Use (Not Return)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 1; click rules"
+  },
+  {
+   "date": "2026-11-20",
+   "pin_id": "251709066671666940",
+   "board": "Gifts for Mom",
+   "image": "pins/pin62_mom_teaser_pink.png",
+   "link": "/gifts-for-mom/",
+   "style": "teaser (curiosity gap)",
+   "palette": "candy pink",
+   "headline": "14 gifts for mom under $50. #3 is the one she'll live in all winter.",
+   "search_phrase": "gifts for mom",
+   "title": "Gifts for Mom Under $50: 14 Ideas, and #3 Is the One She'll Live In",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 2; click rules",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671666954",
+     "date": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "pin_id": "251709066671666942",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin63_dad_teaser_pink.png",
+   "link": "/gifts-for-dad-under-50/",
+   "style": "teaser (curiosity gap)",
+   "palette": "candy pink",
+   "headline": "13 gifts for dad. The #1 pick keeps him busy all winter (indoors).",
+   "search_phrase": "gifts for dad",
+   "title": "Gifts for Dad Under $50: 13 Ideas, and #1 Keeps Him Busy All Winter",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 3; click rules"
+  },
+  {
+   "date": "2026-11-20",
+   "pin_id": "251709066671666947",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin64_stocking_teaser_navy.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "teaser (curiosity gap)",
+   "palette": "midnight navy",
+   "headline": "13 stocking stuffers under $15. #9 sounds silly. They'll use it every week.",
+   "search_phrase": "stocking stuffers under $15",
+   "title": "Stocking Stuffers Under $15: 13 Ideas, and #9 Gets Used Every Week",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation; click rules"
+  },
+  {
+   "date": "2026-11-20",
+   "pin_id": "251709066671666949",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin65_stocking_cheap_white.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "numbered list",
+   "palette": "bold white",
+   "headline": "13 Cheap Stocking Stuffers (that won't end up in a drawer)",
+   "search_phrase": "cheap stocking stuffers",
+   "title": "Cheap Stocking Stuffers: 13 Under $15 That Won't End Up in a Drawer",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation; click rules",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671666957",
+     "date": "2026-11-20"
+    }
+   ]
   }
  ]
 }

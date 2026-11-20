@@ -439,99 +439,140 @@
     "coworker-secret-santa-gifts-under-25": 0.131,
     "gifts-for-her-under-50": 0.127
    }
+  },
+  {
+   "date": "2026-11-20",
+   "mode": "learning (shifting toward winners)",
+   "plan": [],
+   "style_share": {
+    "numbered list": 0.092,
+    "dark quote": 0.123,
+    "3-item callout": 0.1,
+    "headline (X under $Y)": 0.371,
+    "single-product spotlight": 0.135,
+    "teaser (curiosity gap)": 0.178
+   },
+   "guide_share": {
+    "gifts-for-him-under-50": 0.086,
+    "stocking-stuffers-under-15": 0.086,
+    "white-elephant-gifts-under-25": 0.086,
+    "gifts-for-mom": 0.153,
+    "teacher-christmas-gifts": 0.157,
+    "gifts-for-dad-under-50": 0.086,
+    "gift-basket-ideas": 0.086,
+    "coworker-secret-santa-gifts-under-25": 0.125,
+    "gifts-for-her-under-50": 0.134
+   },
+   "palette_share": {
+    "cream classic": 0.092,
+    "christmas red": 0.175,
+    "evergreen gold": 0.19,
+    "candy pink": 0.183,
+    "midnight navy": 0.181,
+    "bold white": 0.179
+   }
   }
  ],
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "mode": "learning (shifting toward winners)",
- "total_pins": 60,
- "total_impressions": 749,
+ "total_pins": 65,
+ "total_impressions": 809,
  "total_clicks": 1,
  "styles": {
-  "numbered list": {
-   "pins": 10,
-   "impressions": 459,
+  "canva photo pin": {
+   "pins": 0,
+   "impressions": 0,
    "clicks": 0,
-   "saves": 5,
-   "post_mean": 0.00152,
+   "saves": 0,
+   "post_mean": 0.00498,
    "post_lo": 0,
-   "post_hi": 0.004
+   "post_hi": 0.01312
+  },
+  "numbered list": {
+   "pins": 11,
+   "impressions": 501,
+   "clicks": 0,
+   "saves": 6,
+   "post_mean": 0.00142,
+   "post_lo": 0,
+   "post_hi": 0.00376
   },
   "dark quote": {
-   "pins": 11,
-   "impressions": 61,
+   "pins": 12,
+   "impressions": 62,
    "clicks": 0,
    "saves": 3,
-   "post_mean": 0.00382,
+   "post_mean": 0.0038,
    "post_lo": 0,
-   "post_hi": 0.01007
+   "post_hi": 0.01003
   },
   "3-item callout": {
    "pins": 10,
-   "impressions": 90,
+   "impressions": 100,
    "clicks": 0,
    "saves": 6,
-   "post_mean": 0.00344,
+   "post_mean": 0.00332,
    "post_lo": 0,
-   "post_hi": 0.00907
+   "post_hi": 0.00877
   },
   "headline (X under $Y)": {
    "pins": 17,
-   "impressions": 86,
+   "impressions": 89,
    "clicks": 1,
    "saves": 12,
-   "post_mean": 0.00697,
+   "post_mean": 0.0069,
    "post_lo": 0,
-   "post_hi": 0.01503
+   "post_hi": 0.01488
   },
   "single-product spotlight": {
    "pins": 8,
-   "impressions": 44,
+   "impressions": 47,
    "clicks": 0,
    "saves": 4,
-   "post_mean": 0.00408,
+   "post_mean": 0.00403,
    "post_lo": 0,
-   "post_hi": 0.01077
+   "post_hi": 0.01064
   },
   "teaser (curiosity gap)": {
-   "pins": 4,
-   "impressions": 3,
+   "pins": 7,
+   "impressions": 4,
    "clicks": 0,
    "saves": 0,
-   "post_mean": 0.0049,
+   "post_mean": 0.00488,
    "post_lo": 0,
-   "post_hi": 0.01293
+   "post_hi": 0.01286
   }
  },
  "guides": {
   "gifts-for-him-under-50": {
    "pins": 8,
-   "impressions": 99,
+   "impressions": 103,
    "clicks": 0,
    "saves": 1,
-   "post_mean": 0.00333,
+   "post_mean": 0.00329,
    "post_lo": 0,
-   "post_hi": 0.0088
+   "post_hi": 0.00868
   },
   "stocking-stuffers-under-15": {
-   "pins": 23,
-   "impressions": 401,
+   "pins": 25,
+   "impressions": 414,
    "clicks": 1,
    "saves": 13,
-   "post_mean": 0.00332,
+   "post_mean": 0.00325,
    "post_lo": 0,
-   "post_hi": 0.00718
+   "post_hi": 0.00703
   },
   "white-elephant-gifts-under-25": {
    "pins": 9,
-   "impressions": 185,
+   "impressions": 227,
    "clicks": 0,
    "saves": 6,
-   "post_mean": 0.00259,
+   "post_mean": 0.00234,
    "post_lo": 0,
-   "post_hi": 0.00684
+   "post_hi": 0.00617
   },
   "gifts-for-mom": {
-   "pins": 9,
+   "pins": 10,
    "impressions": 31,
    "clicks": 0,
    "saves": 8,
@@ -549,7 +590,7 @@
    "post_hi": 0.01256
   },
   "gifts-for-dad-under-50": {
-   "pins": 3,
+   "pins": 5,
    "impressions": 9,
    "clicks": 0,
    "saves": 0,
@@ -559,12 +600,12 @@
   },
   "gift-basket-ideas": {
    "pins": 2,
-   "impressions": 3,
+   "impressions": 4,
    "clicks": 0,
-   "saves": 1,
-   "post_mean": 0.0049,
+   "saves": 2,
+   "post_mean": 0.00488,
    "post_lo": 0,
-   "post_hi": 0.01293
+   "post_hi": 0.01286
   },
   "coworker-secret-santa-gifts-under-25": {
    "pins": 2,
@@ -599,21 +640,85 @@
  "style_share": {
   "numbered list": 0.092,
   "dark quote": 0.123,
-  "3-item callout": 0.103,
-  "headline (X under $Y)": 0.36,
-  "single-product spotlight": 0.138,
-  "teaser (curiosity gap)": 0.184
+  "3-item callout": 0.1,
+  "headline (X under $Y)": 0.371,
+  "single-product spotlight": 0.135,
+  "teaser (curiosity gap)": 0.178
  },
  "guide_share": {
-  "gifts-for-him-under-50": 0.088,
-  "stocking-stuffers-under-15": 0.088,
-  "white-elephant-gifts-under-25": 0.088,
-  "gifts-for-mom": 0.15,
-  "teacher-christmas-gifts": 0.147,
-  "gifts-for-dad-under-50": 0.093,
-  "gift-basket-ideas": 0.089,
-  "coworker-secret-santa-gifts-under-25": 0.131,
-  "gifts-for-her-under-50": 0.127
+  "gifts-for-him-under-50": 0.086,
+  "stocking-stuffers-under-15": 0.086,
+  "white-elephant-gifts-under-25": 0.086,
+  "gifts-for-mom": 0.153,
+  "teacher-christmas-gifts": 0.157,
+  "gifts-for-dad-under-50": 0.086,
+  "gift-basket-ideas": 0.086,
+  "coworker-secret-santa-gifts-under-25": 0.125,
+  "gifts-for-her-under-50": 0.134
  },
- "today": []
+ "today": [],
+ "palettes": {
+  "cream classic": {
+   "pins": 60,
+   "impressions": 803,
+   "clicks": 1,
+   "saves": 31,
+   "post_mean": 0.00199,
+   "post_lo": 0,
+   "post_hi": 0.00431
+  },
+  "christmas red": {
+   "pins": 1,
+   "impressions": 0,
+   "clicks": 0,
+   "saves": 0,
+   "post_mean": 0.00498,
+   "post_lo": 0,
+   "post_hi": 0.01312
+  },
+  "evergreen gold": {
+   "pins": 0,
+   "impressions": 0,
+   "clicks": 0,
+   "saves": 0,
+   "post_mean": 0.00498,
+   "post_lo": 0,
+   "post_hi": 0.01312
+  },
+  "candy pink": {
+   "pins": 2,
+   "impressions": 0,
+   "clicks": 0,
+   "saves": 0,
+   "post_mean": 0.00498,
+   "post_lo": 0,
+   "post_hi": 0.01312
+  },
+  "midnight navy": {
+   "pins": 1,
+   "impressions": 0,
+   "clicks": 0,
+   "saves": 0,
+   "post_mean": 0.00498,
+   "post_lo": 0,
+   "post_hi": 0.01312
+  },
+  "bold white": {
+   "pins": 1,
+   "impressions": 0,
+   "clicks": 0,
+   "saves": 0,
+   "post_mean": 0.00498,
+   "post_lo": 0,
+   "post_hi": 0.01312
+  }
+ },
+ "palette_share": {
+  "cream classic": 0.092,
+  "christmas red": 0.175,
+  "evergreen gold": 0.19,
+  "candy pink": 0.183,
+  "midnight navy": 0.181,
+  "bold white": 0.179
+ }
 }
