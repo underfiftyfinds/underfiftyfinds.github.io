@@ -690,7 +690,64 @@ const pins = {
   </div>
   <div style="margin-top:60px"><span class="pill">Get the filler lists</span></div>
  </div>
- <div class="foot" style="bottom:110px">underfiftyfinds.github.io</div>`
+ <div class="foot" style="bottom:110px">underfiftyfinds.github.io</div>`,
+ pin56_her_headline: `
+ <div style="position:absolute;left:0;right:0;top:0;height:22px;background:#B5634B"></div>
+ <div style="padding:120px 90px 0;text-align:center">
+  <div class="kicker">Gifts for girlfriend</div>
+  <div class="serif" style="font-size:150px;line-height:.98;margin-top:40px">Gifts<br>for Her</div>
+  <div class="serif" style="font-size:150px;line-height:1;color:#B5634B">under $50</div>
+  <div style="font-size:44px;line-height:1.4;color:#6E625A;margin:46px auto 0;max-width:760px">Little luxuries she'd never buy herself (but uses every day)</div>
+  <div style="margin:70px auto 0;display:flex;flex-wrap:wrap;gap:18px;justify-content:center;max-width:820px">
+   ${['Lip mask','Satin pillowcase','Initial necklace','Chunky scarf','Belt bag','Wood wick candle'].map(t=>`<span style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:999px;padding:16px 30px;font:600 34px Inter">${t}</span>`).join('')}
+  </div>
+  <div style="margin-top:70px"><span class="pill">See all 14</span></div>
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin57_her_teaser: `
+ <div style="padding:100px 80px 0">
+  <div class="kicker">Gift ideas for women</div>
+  <div class="serif" style="font-size:96px;line-height:1.05;margin-top:26px">14 gifts for her under $50.</div>
+  <div class="serif" style="font-size:72px;line-height:1.12;margin-top:20px;color:#B5634B">#6 is the one she'll wear every day until March.</div>
+  <div style="margin-top:56px;background:#FFFDF9;border:2px solid #E4D8CB;border-radius:36px;padding:40px 52px;font-size:42px;line-height:1.85">
+   ${['Overnight lip sleeping mask','Satin pillowcase set','Contoured sleep mask'].map((t,i)=>`<div><span style="color:#B5634B;font-weight:700;display:inline-block;width:76px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
+   ${['04','05','06','07'].map(n=>`<div style="color:#C9BBAE"><span style="font-weight:700;display:inline-block;width:76px">${n}</span><span style="display:inline-block;width:${n==='06'?520:380}px;height:30px;border-radius:15px;background:${n==='06'?'#E9C9BC':'#EDE3D8'};vertical-align:middle"></span></div>`).join('')}
+   <div style="color:#6E625A;font-weight:600">+ 7 more inside</div>
+  </div>
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin58_giftbasket_list: `
+ <div style="position:absolute;inset:0;background:#2B2420"></div>
+ <div style="position:relative;padding:100px 80px 0;color:#F4EDE4">
+  <div class="kicker" style="color:#E3A48E">Christmas gift basket ideas</div>
+  <div class="serif" style="font-size:104px;line-height:1.03;margin-top:24px">Fill a gift basket<br>for under $50</div>
+  <div style="font-size:40px;color:#D9CBBE;margin-top:22px">The fillers that make it look expensive</div>
+  <div style="margin-top:48px;background:#3A312C;border:2px solid #5A4B42;border-radius:36px;padding:44px 54px;font-size:41px;line-height:1.8">
+   ${['Woven basket with handles','Crinkle paper shred','Plaid fleece throw','Fuzzy socks multipack','Soy candle in a jar','Popcorn seasoning set','Bath bomb gift set','Satin sleep mask'].map((t,i)=>`<div><span style="color:#E3A48E;font-weight:700;display:inline-block;width:70px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
+   <div style="color:#BFAFA2">+ 6 more, sorted into 4 baskets</div>
+  </div>
+ </div>
+ <div class="foot" style="color:#E3A48E">underfiftyfinds.github.io</div>`,
+ pin59_stocking_teaser_stolen: `
+ <div style="position:absolute;inset:0;background:#B5634B"></div>
+ <div style="position:relative;padding:130px 90px 0;color:#FFF6EE;text-align:center">
+  <div class="kicker" style="color:#FFE2D6">Cheap stocking stuffers</div>
+  <div class="serif" style="font-size:104px;line-height:1.05;margin-top:34px">The stocking stuffer that gets "borrowed" by noon</div>
+  <div style="margin:70px auto 0;width:420px;height:420px;border-radius:50%;background:#F4EDE4;display:flex;align-items:center;justify-content:center"><div class="serif" style="font-size:300px;color:#B5634B;line-height:1">?</div></div>
+  <div style="font-size:42px;line-height:1.4;margin:60px auto 0;max-width:760px;color:#FFE2D6">Under $15. Fits in any stocking. Everyone at the table wants one.</div>
+ </div>
+ <div class="foot" style="color:#FFE2D6;bottom:80px">See it at underfiftyfinds.github.io</div>`,
+ pin60_stocking_zero_filler: `
+ <div style="padding:110px 80px 0">
+  <div class="kicker">Stocking stuffer ideas</div>
+  <div class="serif" style="font-size:124px;line-height:1;margin-top:28px">Under $15.</div>
+  <div class="serif" style="font-size:124px;line-height:1;color:#B5634B">Zero filler.</div>
+  <div style="font-size:42px;color:#6E625A;margin-top:30px;line-height:1.4">13 small gifts people actually keep</div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:56px">
+   ${[['For the cold','Grip socks, cuff beanie'],['For self-care','Lip minis, eye patches'],['For the desk','Book light, planner pad'],['For laughs','Card game, pickle candles']].map(r=>`<div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:28px;padding:34px"><div style="font:700 40px Inter">${r[0]}</div><div style="font-size:33px;color:#6E625A;margin-top:10px">${r[1]}</div></div>`).join('')}
+  </div>
+ </div>
+ <div class="foot">underfiftyfinds.github.io</div>`
 };
 (async () => {
   const b = await chromium.launch();
