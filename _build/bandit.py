@@ -13,6 +13,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 P = lambda *a: os.path.join(ROOT, *a)
 
 STYLES = {  # canonical arm -> words that identify it in pin_log "style"
+    "canva photo pin": ["canva"],   # made by the separate Canva photo-pin task (1/day); tracked, never planned here
     "numbered list": ["list"],
     "dark quote": ["quote"],
     "3-item callout": ["callout"],
@@ -146,7 +147,8 @@ def main():
     style_t = arm_table(pins, stats, lambda p: canon_style(p.get("style")), list(STYLES))
     guide_t = arm_table(pins, stats, lambda p: (p.get("link") or "").strip("/"), guides)
     cap = MAX_SHARE_EXPLORING if total_imp < 500 else None
-    style_p = win_probs(style_t, rng=rng, cap=cap)
+    PLANNABLE = [k for k in STYLES if k != "canva photo pin"]
+    style_p = win_probs({k: style_t[k] for k in PLANNABLE}, rng=rng, cap=cap)
     # guides are few (3-6) and carry deliberate seasonal weights, so they get a looser cap
     guide_p = win_probs(guide_t, weights={g: tw.get(g, 1.0) for g in guides}, rng=rng, cap=(0.5 if cap else None))
 
