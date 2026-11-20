@@ -888,6 +888,83 @@
     }
    ],
    "note": "launch boost (first gift basket pin)"
+  },
+  {
+   "date": "2026-11-19",
+   "pin_id": "251709066671647860",
+   "board": "Gifts for Her Under $50",
+   "image": "pins/pin56_her_headline.png",
+   "link": "/gifts-for-her-under-50/",
+   "style": "headline (X under $Y)",
+   "headline": "Gifts for Her under $50 (Gifts for girlfriend)",
+   "search_phrase": "gifts for girlfriend",
+   "title": "Gifts for Girlfriend Under $50: Little Luxuries She'd Never Buy Herself",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "launch boost"
+  },
+  {
+   "date": "2026-11-19",
+   "pin_id": "251709066671647862",
+   "board": "Gifts for Her Under $50",
+   "image": "pins/pin57_her_teaser.png",
+   "link": "/gifts-for-her-under-50/",
+   "style": "teaser (curiosity gap)",
+   "headline": "14 gifts for her under $50. #6 is the one she'll wear every day until March.",
+   "search_phrase": "gift ideas for women",
+   "title": "Gift Ideas for Women Under $50: 14 Picks (#6 Is the One She'll Wear All Winter)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "launch boost"
+  },
+  {
+   "date": "2026-11-19",
+   "pin_id": "251709066671647863",
+   "board": "Gifts for Her Under $50",
+   "image": "pins/pin58_giftbasket_list.png",
+   "link": "/gift-basket-ideas/",
+   "style": "numbered list",
+   "headline": "Fill a gift basket for under $50",
+   "search_phrase": "christmas gift basket ideas",
+   "title": "Christmas Gift Basket Ideas Under $50: The Fillers That Make It Look Expensive",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "launch boost",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Mom",
+     "repin_id": "251709066671647868",
+     "date": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "pin_id": "251709066671647865",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin59_stocking_teaser_stolen.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "teaser (curiosity gap)",
+   "headline": "The stocking stuffer that gets \"borrowed\" by noon",
+   "search_phrase": "cheap stocking stuffers",
+   "title": "Cheap Stocking Stuffers: The One That Gets \"Borrowed\" by Noon (Under $15)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation"
+  },
+  {
+   "date": "2026-11-19",
+   "pin_id": "251709066671647866",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin60_stocking_zero_filler.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "headline (X under $Y)",
+   "headline": "Under $15. Zero filler. (Stocking stuffer ideas)",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas Under $15: 13 Small Gifts With Zero Filler",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation"
   }
  ]
 }
