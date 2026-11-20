@@ -747,7 +747,72 @@ const pins = {
    ${[['For the cold','Grip socks, cuff beanie'],['For self-care','Lip minis, eye patches'],['For the desk','Book light, planner pad'],['For laughs','Card game, pickle candles']].map(r=>`<div style="background:#FFFDF9;border:2px solid #E4D8CB;border-radius:28px;padding:34px"><div style="font:700 40px Inter">${r[0]}</div><div style="font-size:33px;color:#6E625A;margin-top:10px">${r[1]}</div></div>`).join('')}
   </div>
  </div>
- <div class="foot">underfiftyfinds.github.io</div>`
+ <div class="foot">underfiftyfinds.github.io</div>`,
+ pin61_dad_quote_red: `
+ <div style="position:absolute;inset:0;background:#B3202A"></div>
+ <div style="position:absolute;inset:60px;border:4px solid #F2C14E;border-radius:40px"></div>
+ <div style="position:relative;padding:170px 120px 0;color:#FFF7EE;text-align:center">
+  <div class="kicker" style="color:#F2C14E">Christmas gifts for dad</div>
+  <div class="serif" style="font-size:220px;line-height:.6;color:#F2C14E;margin-top:50px">&ldquo;</div>
+  <div class="serif" style="font-size:104px;line-height:1.08;margin-top:10px">Don't spend<br>money on me.</div>
+  <div style="font-size:46px;line-height:1.4;margin:60px auto 0;color:#FFF7EE;max-width:740px">13 gifts for dad under $50 he'll actually use (and won't return)</div>
+  <div style="font-size:42px;margin-top:40px;color:#F2C14E;font-weight:600">Putting green, burger kit + 11 more</div>
+  <div style="margin-top:60px"><span class="pill" style="background:#F2C14E;color:#B3202A;font-size:42px">Tap for the full list + links</span></div>
+ </div>
+ <div class="foot" style="color:#FFF7EE;bottom:96px;font-size:30px">underfiftyfinds.github.io</div>`,
+ pin62_mom_teaser_pink: `
+ <div style="position:absolute;inset:0;background:#F7C6D4"></div>
+ <div style="position:relative;padding:100px 80px 0;color:#3A1020">
+  <div class="kicker" style="color:#D6234A">Gifts for mom</div>
+  <div class="serif" style="font-size:100px;line-height:1.04;margin-top:26px">14 gifts for mom under $50.</div>
+  <div class="serif" style="font-size:70px;line-height:1.12;margin-top:22px;color:#D6234A">#3 is the one she'll live in all winter.</div>
+  <div style="margin-top:56px;background:#FFE4EC;border-radius:36px;padding:42px 52px;font-size:44px;line-height:1.85">
+   ${['Heated neck massager','Satin pillowcase'].map((t,i)=>`<div><span style="color:#D6234A;font-weight:700;display:inline-block;width:80px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
+   ${['03','04'].map(n=>`<div><span style="color:#D6234A;font-weight:700;display:inline-block;width:80px">${n}</span><span style="display:inline-block;width:${n==='03'?540:400}px;height:32px;border-radius:16px;background:${n==='03'?'#D6234A':'#F2A9BD'};opacity:${n==='03'?0.55:1};vertical-align:middle"></span></div>`).join('')}
+   <div style="color:#3A1020;font-weight:700;font-size:42px">+ 10 more on the list</div>
+  </div>
+  <div style="margin-top:56px;text-align:center"><span class="pill" style="background:#D6234A;color:#F7C6D4;font-size:42px">See what #3 is</span></div>
+ </div>
+ <div class="foot" style="color:#3A1020;bottom:60px;font-size:30px">underfiftyfinds.github.io</div>`,
+ pin63_dad_teaser_pink: `
+ <div style="position:absolute;inset:0;background:#F7C6D4"></div>
+ <div style="position:relative;padding:120px 90px 0;color:#3A1020;text-align:center">
+  <div class="kicker" style="color:#D6234A">Gifts for dad under $50</div>
+  <div class="serif" style="font-size:104px;line-height:1.05;margin-top:30px">13 gifts for dad.</div>
+  <div class="serif" style="font-size:76px;line-height:1.12;margin-top:22px;color:#D6234A">The #1 pick keeps him busy all winter (indoors).</div>
+  <div style="margin:64px auto 0;width:380px;height:380px;border-radius:50%;background:#FFE4EC;display:flex;align-items:center;justify-content:center"><div class="serif" style="font-size:250px;color:#D6234A;line-height:1">#1</div></div>
+  <div style="font-size:44px;line-height:1.4;margin:50px auto 0;max-width:760px;font-weight:600">+ 12 more he'll actually use</div>
+  <div style="margin-top:46px"><span class="pill" style="background:#D6234A;color:#F7C6D4;font-size:42px">Tap to see all 13</span></div>
+ </div>
+ <div class="foot" style="color:#3A1020;bottom:60px;font-size:30px">underfiftyfinds.github.io</div>`,
+ pin64_stocking_teaser_navy: `
+ <div style="position:absolute;inset:0;background:#14213D"></div>
+ <div style="position:relative;padding:100px 80px 0;color:#FFFFFF">
+  <div class="kicker" style="color:#FCA311">Stocking stuffers under $15</div>
+  <div class="serif" style="font-size:98px;line-height:1.04;margin-top:26px">13 stocking stuffers under $15.</div>
+  <div class="serif" style="font-size:68px;line-height:1.14;margin-top:22px;color:#FCA311">#9 sounds silly. They'll use it every week.</div>
+  <div style="margin-top:52px;background:#1E2F55;border-radius:36px;padding:42px 52px;font-size:44px;line-height:1.85">
+   ${['Chenille grip socks','Clip-on book light','Dutch Blitz card game'].map((t,i)=>`<div><span style="color:#FCA311;font-weight:700;display:inline-block;width:80px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
+   <div><span style="color:#FCA311;font-weight:700;display:inline-block;width:80px">09</span><span style="display:inline-block;width:500px;height:32px;border-radius:16px;background:#FCA311;opacity:.5;vertical-align:middle"></span></div>
+   <div style="color:#FFFFFF;font-weight:700;font-size:42px">+ 9 more on the list</div>
+  </div>
+  <div style="margin-top:54px;text-align:center"><span class="pill" style="background:#FCA311;color:#14213D;font-size:42px">Tap to see #9</span></div>
+ </div>
+ <div class="foot" style="color:#FFFFFF;bottom:60px;font-size:30px">underfiftyfinds.github.io</div>`,
+ pin65_stocking_cheap_white: `
+ <div style="position:absolute;inset:0;background:#FFFFFF"></div>
+ <div style="position:absolute;left:0;right:0;top:0;height:26px;background:#E63946"></div>
+ <div style="position:relative;padding:100px 80px 0;color:#111111">
+  <div class="kicker" style="color:#E63946">Cheap stocking stuffers</div>
+  <div class="serif" style="font-size:104px;line-height:1.03;margin-top:24px">13 Cheap Stocking Stuffers</div>
+  <div style="font:600 46px Inter;margin-top:22px;color:#111111">(that won't end up in a drawer)</div>
+  <div style="margin-top:52px;background:#F3F3F3;border-radius:36px;padding:44px 54px;font-size:44px;line-height:1.8">
+   ${['Rechargeable book light','Mini multi-bit screwdriver','Cooling under-eye patches','Pickle birthday candles'].map((t,i)=>`<div><span style="color:#E63946;font-weight:700;display:inline-block;width:80px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
+   <div style="color:#E63946;font-weight:700;font-size:42px">+ 9 more, all under $15</div>
+  </div>
+  <div style="margin-top:60px;text-align:center"><span class="pill" style="background:#E63946;color:#FFFFFF;font-size:42px">Full list + Amazon links</span></div>
+ </div>
+ <div class="foot" style="color:#111111;bottom:60px;font-size:30px">underfiftyfinds.github.io</div>`
 };
 (async () => {
   const b = await chromium.launch();
