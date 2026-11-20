@@ -1,6 +1,6 @@
 """Self-learning pin planner (Thompson-sampling multi-armed bandit).
 
-Decides what today's pins should be: which DESIGN STYLE and which GUIDE each pin uses.
+Decides what today's pins should be: which DESIGN STYLE, which GUIDE and which COLOR PALETTE each pin uses.
 Reward = outbound clicks per impression (visits to our site), learned from _build/stats/*.json.
 Guides also get a seasonal boost from _build/trend_weights.json (written by the weekly radar).
 
@@ -20,6 +20,18 @@ STYLES = {  # canonical arm -> words that identify it in pin_log "style"
     "single-product spotlight": ["spotlight", "single"],
     "teaser (curiosity gap)": ["teaser", "curiosity"],
 }
+# COLOR PALETTES (added 2026-11-20, Micah approved): every pin also gets a palette arm.
+# Pins logged before 2026-11-20 (no "palette" field) count as "cream classic".
+PALETTES = {
+    "cream classic":   {"bg": "#F4EDE4", "ink": "#2B2420", "acc": "#B5634B", "card": "#FFFDF9"},
+    "christmas red":   {"bg": "#B3202A", "ink": "#FFF7EE", "acc": "#F2C14E", "card": "#8E1820"},
+    "evergreen gold":  {"bg": "#1F4D3A", "ink": "#FFF8EC", "acc": "#E0B252", "card": "#173B2C"},
+    "candy pink":      {"bg": "#F7C6D4", "ink": "#3A1020", "acc": "#D6234A", "card": "#FFE4EC"},
+    "midnight navy":   {"bg": "#14213D", "ink": "#FFFFFF", "acc": "#FCA311", "card": "#1E2F55"},
+    "bold white":      {"bg": "#FFFFFF", "ink": "#111111", "acc": "#E63946", "card": "#F3F3F3"},
+}
+PALETTE_CAP = 0.35              # no single palette takes more than ~1/3 of pins while testing
+
 PRIOR_A, PRIOR_B = 1.0, 200.0   # prior belief: ~0.5% outbound click rate
 MIN_SHARE = 0.10                # never starve an arm completely (keeps exploring)
 MAX_SHARE_EXPLORING = 0.35      # while exploring (<500 impressions), one lucky click can't grab half the pins
@@ -32,6 +44,11 @@ def canon_style(s):
         if any(k in s for k in keys):
             return arm
     return "other"
+
+
+def canon_palette(p):
+    v = (p.get("palette") or "cream classic").lower()
+    return v if v in PALETTES else "other"
 
 
 def load_json(path, default):
@@ -133,7 +150,10 @@ def main():
     # guides are few (3-6) and carry deliberate seasonal weights, so they get a looser cap
     guide_p = win_probs(guide_t, weights={g: tw.get(g, 1.0) for g in guides}, rng=rng, cap=(0.5 if cap else None))
 
-    plan = [{"style": s, "guide": g} for s, g in zip(allocate(style_p, a.pins, rng), allocate(guide_p, a.pins, rng))]
+    pal_t = arm_table(pins, stats, canon_palette, list(PALETTES))
+    pal_p = win_probs(pal_t, rng=rng, cap=PALETTE_CAP)
+    plan = [{"style": s, "guide": g, "palette": c, "colors": PALETTES[c]}
+            for s, g, c in zip(allocate(style_p, a.pins, rng), allocate(guide_p, a.pins, rng), allocate(pal_p, a.pins, rng))]
     # Launch boost: a guide with fewer than LAUNCH_PINS pins takes the first slots (newest guides first),
     # so a new guide gets pins on launch day instead of waiting for a lucky draw.
     slot = 0
@@ -154,15 +174,17 @@ def main():
     data = load_json(P("lab", "data.json"), {"history": []})
     entry = {"date": today, "mode": mode, "plan": plan,
              "style_share": {k: round(v, 3) for k, v in style_p.items()},
-             "guide_share": {k: round(v, 3) for k, v in guide_p.items()}}
+             "guide_share": {k: round(v, 3) for k, v in guide_p.items()},
+             "palette_share": {k: round(v, 3) for k, v in pal_p.items()}}
     data.update({"updated": today, "mode": mode, "total_pins": len(pins), "total_impressions": total_imp,
                  "total_clicks": sum(int(v.get("outbound_clicks", 0) or 0) for v in stats.values()),
                  "styles": clean(style_t), "guides": clean(guide_t), "trend_weights": tw,
-                 "style_share": entry["style_share"], "guide_share": entry["guide_share"], "today": plan})
+                 "style_share": entry["style_share"], "guide_share": entry["guide_share"],
+                 "palettes": clean(pal_t), "palette_share": entry["palette_share"], "today": plan})
     data["history"] = [h for h in data.get("history", []) if h.get("date") != today] + [entry]
     data["history"] = data["history"][-60:]
 
-    print(json.dumps({"mode": mode, "plan": plan, "style_share": entry["style_share"], "guide_share": entry["guide_share"]}, indent=1))
+    print(json.dumps({"mode": mode, "plan": plan, "style_share": entry["style_share"], "guide_share": entry["guide_share"], "palette_share": entry["palette_share"]}, indent=1))
     if not a.dry_run:
         os.makedirs(P("lab"), exist_ok=True)
         with open(P("_build", "plan_today.json"), "w") as f:
