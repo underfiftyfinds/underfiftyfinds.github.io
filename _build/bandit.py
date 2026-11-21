@@ -20,6 +20,7 @@ STYLES = {  # canonical arm -> words that identify it in pin_log "style"
     "headline (X under $Y)": ["headline", "under $"],
     "single-product spotlight": ["spotlight", "single"],
     "teaser (curiosity gap)": ["teaser", "curiosity"],
+    "minimal (big headline)": ["minimal"],   # added 2026-11-21: few words, one huge headline
 }
 # COLOR PALETTES (added 2026-11-20, Micah approved): every pin also gets a palette arm.
 # Pins logged before 2026-11-20 (no "palette" field) count as "cream classic".
