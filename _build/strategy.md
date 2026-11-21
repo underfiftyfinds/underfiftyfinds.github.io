@@ -16,6 +16,12 @@ Deprioritized (small or shrinking searches): Kitchen Gifts, Cozy Home, housewarm
 After Christmas (from Dec 26): Living Room Decor on a Budget (NEW 2026-11-09: peaks Jan 11 at ~3.9x anchor, though -20% YoY), Kitchen/Home Organization (peaks Jan 4, +20%), Galentine's gifts (late Jan, small but +400% YoY), Amazon Finds Under $25 (+70% YoY, peaks Dec 28), Apartment Decor on a Budget (+90% YoY, peaks Mar 1), Valentine's Gifts for Him (peaks Feb 15, +70%), then bedroom/bathroom decor ideas (spring, growing fast).
 
 ## Pin mix
+- RAMP-UP PLAN (Micah 2026-11-21: "the more pins the better, it's up to you"). Pins/day for the main task, always split half short / half wordy, ONLY if the account has had NO Pinterest warning, CAPTCHA, spam notice or blocked save in the previous 7 days (otherwise hold, or drop to 3 on a warning):
+  - 2026-11-22 to 2026-11-28: 6/day (3+3)
+  - 2026-11-29 to 2026-12-05: 8/day (4+4)
+  - 2026-12-06 to 2026-12-20: 10/day (5+5)
+  - after 2026-12-20: back to 6/day (Christmas searches fade; switch toward post-Christmas guides)
+  Spread pins across at least 4 different guides per day and never post the same headline wording twice. The Canva photo pin stays 1/day extra. Run bandit.py with --pins equal to today's number (it alternates short/wordy).
 - FORMAT SPLIT TEST (Micah 2026-11-21, overrides "PINS PER DAY" below): post 6 pins per day: 3 "short" + 3 "wordy". bandit.py marks each plan slot with "format". Log every pin with "format": "short" or "wordy".
   - "short" = PIN DESIGN v2 (3-second rule) below: huge 3-8 word headline, ONE visual (illustration or max 3 picks), one button, URL, <=20 words.
   - "wordy" = the fuller list style that got our most views: headline + one short subtitle + 5-6 picks (2-4 words each) + "+N more" + tap button + URL. Still no descriptions under picks, still readable (>=40px small text).
@@ -92,3 +98,4 @@ After Christmas (from Dec 26): Living Room Decor on a Budget (NEW 2026-11-09: pe
 - 2026-11-21: Micah felt pins had too much wording. Added LESS WORDING rules (max 4 text blocks, short lines, 3 picks max) and a new "minimal (big headline)" style for the bot to test.
 - 2026-11-21: Micah: pins too wordy, people scroll past. Adopted PIN DESIGN v2 (3-second rule): huge 3-8 word headline, ONE focal visual (illustration or max 3 picks), one button, URL, <=20 words total. Examples in _build/v2_examples.js.
 - 2026-11-21: Micah chose a balanced test instead of going all-short: 6 pins/day = 3 short + 3 wordy (plus the 1 Canva photo pin). Judge Nov 29 / Dec 6.
+- 2026-11-21: Micah wants as many pins as is safe. Set RAMP-UP PLAN 6 -> 8 (Nov 29) -> 10 (Dec 6-20) -> 6, gated on a clean account.
