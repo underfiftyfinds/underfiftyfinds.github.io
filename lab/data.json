@@ -700,7 +700,65 @@
   "gifts-for-her-under-50": 0.11,
   "gifts-for-grandma-under-50": 0.115
  },
- "today": [],
+ "today": [
+  {
+   "style": "dark quote",
+   "guide": "gifts-for-grandma-under-50",
+   "palette": "bold white",
+   "colors": {
+    "bg": "#FFFFFF",
+    "ink": "#111111",
+    "acc": "#E63946",
+    "card": "#F3F3F3"
+   },
+   "launch_boost": true
+  },
+  {
+   "style": "teaser (curiosity gap)",
+   "guide": "gifts-for-grandma-under-50",
+   "palette": "candy pink",
+   "colors": {
+    "bg": "#F7C6D4",
+    "ink": "#3A1020",
+    "acc": "#D6234A",
+    "card": "#FFE4EC"
+   },
+   "launch_boost": true
+  },
+  {
+   "style": "3-item callout",
+   "guide": "stocking-stuffers-under-15",
+   "palette": "bold white",
+   "colors": {
+    "bg": "#FFFFFF",
+    "ink": "#111111",
+    "acc": "#E63946",
+    "card": "#F3F3F3"
+   }
+  },
+  {
+   "style": "headline (X under $Y)",
+   "guide": "gifts-for-grandma-under-50",
+   "palette": "midnight navy",
+   "colors": {
+    "bg": "#14213D",
+    "ink": "#FFFFFF",
+    "acc": "#FCA311",
+    "card": "#1E2F55"
+   }
+  },
+  {
+   "style": "headline (X under $Y)",
+   "guide": "teacher-christmas-gifts",
+   "palette": "christmas red",
+   "colors": {
+    "bg": "#B3202A",
+    "ink": "#FFF7EE",
+    "acc": "#F2C14E",
+    "card": "#8E1820"
+   }
+  }
+ ],
  "palettes": {
   "cream classic": {
    "pins": 60,
