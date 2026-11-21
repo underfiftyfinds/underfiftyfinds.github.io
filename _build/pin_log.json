@@ -761,7 +761,7 @@
    "style": "single-product spotlight",
    "headline": "Christmas gifts for dad: the gift he'll play with all Christmas Day",
    "search_phrase": "christmas gifts for dad",
-   "title": "Christmas Gifts for Dad: Indoor Putting Green Mat He’ll Play With All Day",
+   "title": "Christmas Gifts for Dad: Indoor Putting Green Mat He\u2019ll Play With All Day",
    "title_added": true,
    "posted_via": "PinResource/create API"
   },
@@ -774,7 +774,7 @@
    "style": "single-product spotlight",
    "headline": "Gifts for mom: she'll thank you every morning",
    "search_phrase": "gifts for mom",
-   "title": "Gifts for Mom: The Satin Pillowcase She’ll Thank You for Every Morning",
+   "title": "Gifts for Mom: The Satin Pillowcase She\u2019ll Thank You for Every Morning",
    "title_added": true,
    "posted_via": "PinResource/create API",
    "also_saved_to": [
@@ -1070,6 +1070,88 @@
    "title": "White Elephant Gift Ideas Under $25: 15 Gifts Everyone Will Try to Steal",
    "posted_via": "pin/create/button + PinResource/update title",
    "note": "canva photo pin test #1"
+  },
+  {
+   "date": "2026-11-21",
+   "pin_id": "251709066671686590",
+   "board": "Gifts for Mom",
+   "image": "pins/pin66_grandma_quote_white.png",
+   "link": "/gifts-for-grandma-under-50/",
+   "style": "dark quote",
+   "palette": "bold white",
+   "headline": "Oh honey, you didn't have to. (14 gifts for grandma under $50)",
+   "search_phrase": "gifts for grandma",
+   "title": "Gifts for Grandma Under $50: 14 Cozy, Useful Ideas She'll Actually Use",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 1; launch boost; click rules"
+  },
+  {
+   "date": "2026-11-21",
+   "pin_id": "251709066671686593",
+   "board": "Gifts for Mom",
+   "image": "pins/pin67_grandma_teaser_pink.png",
+   "link": "/gifts-for-grandma-under-50/",
+   "style": "teaser (curiosity gap)",
+   "palette": "candy pink",
+   "headline": "14 gifts for grandma under $50. #1 is the one she'll use every single night.",
+   "search_phrase": "christmas gifts for grandma",
+   "title": "Christmas Gifts for Grandma Under $50: 14 Ideas (#1 She'll Use Every Night)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 2; launch boost; click rules"
+  },
+  {
+   "date": "2026-11-21",
+   "pin_id": "251709066671686594",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin68_stocking_callout_white.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "3-item callout",
+   "palette": "bold white",
+   "headline": "3 stocking stuffers they'll actually keep",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas: 3 Tiny Gifts They'll Actually Keep (13 Under $15)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 3; counts as breakout variation 1; click rules",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671686604",
+     "date": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "pin_id": "251709066671686598",
+   "board": "Gifts for Mom",
+   "image": "pins/pin69_grandma_headline_navy.png",
+   "link": "/gifts-for-grandma-under-50/",
+   "style": "headline (X under $Y)",
+   "palette": "midnight navy",
+   "headline": "14 Christmas Gifts for Grandma under $50",
+   "search_phrase": "christmas gifts for grandma",
+   "title": "Christmas Gifts for Grandma: 14 Cozy, Useful Picks Under $50",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 4; click rules"
+  },
+  {
+   "date": "2026-11-21",
+   "pin_id": "251709066671686601",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin70_stocking_teaser_green.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "teaser (curiosity gap)",
+   "palette": "evergreen gold",
+   "headline": "13 stocking stuffers under $15. Save the last one for the end. It wins Christmas morning.",
+   "search_phrase": "cheap stocking stuffers",
+   "title": "Cheap Stocking Stuffers: 13 Under $15 (Save the Last One for the End)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation 2 (teaser); click rules"
   }
  ]
 }
