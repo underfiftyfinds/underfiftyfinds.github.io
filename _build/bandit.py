@@ -48,6 +48,10 @@ def canon_style(s):
     return "other"
 
 
+def canon_format(p):
+    return p.get("format") if p.get("format") in ("short", "wordy") else "unlabeled"
+
+
 def canon_palette(p):
     v = (p.get("palette") or "cream classic").lower()
     return v if v in PALETTES else "other"
@@ -157,6 +161,9 @@ def main():
     pal_p = win_probs(pal_t, rng=rng, cap=PALETTE_CAP)
     plan = [{"style": s, "guide": g, "palette": c, "colors": PALETTES[c]}
             for s, g, c in zip(allocate(style_p, a.pins, rng), allocate(guide_p, a.pins, rng), allocate(pal_p, a.pins, rng))]
+    # FORMAT SPLIT (Micah 2026-11-21): half the pins "short" (3-second rule), half "wordy" (fuller list style).
+    for i, slot in enumerate(plan):
+        slot["format"] = "short" if i % 2 == 0 else "wordy"
     # Launch boost: a guide with fewer than LAUNCH_PINS pins takes the first slots (newest guides first),
     # so a new guide gets pins on launch day instead of waiting for a lucky draw.
     slot = 0
@@ -183,7 +190,7 @@ def main():
                  "total_clicks": sum(int(v.get("outbound_clicks", 0) or 0) for v in stats.values()),
                  "styles": clean(style_t), "guides": clean(guide_t), "trend_weights": tw,
                  "style_share": entry["style_share"], "guide_share": entry["guide_share"],
-                 "palettes": clean(pal_t), "palette_share": entry["palette_share"], "today": plan})
+                 "palettes": clean(pal_t), "formats": clean(arm_table(pins, stats, canon_format, ["short", "wordy"])), "palette_share": entry["palette_share"], "today": plan})
     data["history"] = [h for h in data.get("history", []) if h.get("date") != today] + [entry]
     data["history"] = data["history"][-60:]
 
