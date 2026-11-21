@@ -50,7 +50,7 @@ After Christmas (from Dec 26): Living Room Decor on a Budget (NEW 2026-11-09: pe
 - Also make pins for existing guides with stronger search phrasing: "stocking stuffers for men", "white elephant gift ideas", "gifts for mom", "teacher christmas gifts". Put the exact search phrase in the pin headline and the first words of the description.
 - Push this week (2026-11-15): "white elephant gift ideas" (biggest, peaks Dec 14), "christmas gifts for mom" (+300% MoM) and "gifts for mom", "teacher christmas gifts" (+400% MoM), "gifts for boyfriend" (NEW: the anchor search, ~5x bigger than "gifts for him"; point these pins at the Gifts for Him guide), "stocking stuffer ideas" (+500% MoM), "christmas gift basket ideas" (Gift Basket guide has 0 pins yet: give it its first 2-3 pins this week).
 - Fewer plain "gifts for him" pins (small search, -5% YoY) and fewer generic "stocking stuffers for adults" pins (we already have 6+).
-- PINS PER DAY: 5 per run starting 2026-11-14 (approved by Micah on 2026-11-13 to catch the December gift peak). Drop back to 3 immediately on any Pinterest warning/CAPTCHA/spam notice. Up to 8/day once 7+ guides are live and the account is still clean. Do not go below 5 otherwise.
+- PINS PER DAY: 6 per day starting 2026-11-22 (3 short + 3 wordy, Micah 2026-11-21; was 5 per run starting 2026-11-14 (approved by Micah on 2026-11-13 to catch the December gift peak). Drop back to 3 immediately on any Pinterest warning/CAPTCHA/spam notice. Up to 8/day once 7+ guides are live and the account is still clean. Do not go below 5 otherwise.
 
 ## What's working (fill in from weekly reviews)
 - 2026-11-09 (first 4 days, 12 pins): 86 impressions, 6 saves, 3 pin clicks, 1 outbound click. Followers 0. Far too early to call any winner.
