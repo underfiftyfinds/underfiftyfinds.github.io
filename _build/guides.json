@@ -1033,5 +1033,118 @@
     ]
    }
   ]
+ },
+ {
+  "slug": "gifts-for-grandma-under-50",
+  "tag": "underfifty-gifts-20",
+  "title": "Gifts for Grandma Under $50: Cozy, Useful Christmas Ideas She'll Love",
+  "desc": "Gifts for grandma under $50: heated throws, neck reading lights, towel warmers, mug warmers, keepsake journals, jar openers and more Christmas gift ideas for grandmothers.",
+  "h1": "Gifts for Grandma Under $50",
+  "lede": "Grandma says she doesn't need anything, so give her something that makes every day a little cozier or a little easier. Every pick here is usually under $50, and they are the ideas this season's grandparent gift guides keep coming back to.",
+  "card": "Heated throws, neck reading lights, towel warmers and keepsake journals she'll treasure.",
+  "sections": [
+   {
+    "name": "Cozy comforts",
+    "note": "Warm, soft upgrades for chilly evenings.",
+    "items": [
+     {
+      "name": "Heated throw blanket",
+      "tier": "Under $45",
+      "search": "heated throw blanket electric soft flannel",
+      "why": "Warm in minutes with auto shut-off. The gift she will use every single night."
+     },
+     {
+      "name": "Towel warmer bucket",
+      "tier": "Under $50",
+      "search": "towel warmer bucket for bathroom",
+      "why": "A warm towel after every bath feels like a spa. Gift guides love this one."
+     },
+     {
+      "name": "Microwavable lavender slippers",
+      "tier": "Under $35",
+      "search": "microwavable heated slippers lavender",
+      "why": "Pop them in the microwave for toasty, calming feet."
+     },
+     {
+      "name": "Cozy lounge socks (set of 3)",
+      "tier": "Under $25",
+      "search": "cozy lounge socks women soft set",
+      "why": "Soft, non-scratchy and always welcome on cold floors."
+     },
+     {
+      "name": "Weighted heating pad for neck and shoulders",
+      "tier": "Under $40",
+      "search": "weighted heating pad neck and shoulders microwavable",
+      "why": "Gentle warmth for sore shoulders, no cord needed."
+     }
+    ]
+   },
+   {
+    "name": "Makes life easier",
+    "note": "Small helpers she will be glad to have every day.",
+    "items": [
+     {
+      "name": "Neck reading light",
+      "tier": "Under $25",
+      "search": "neck reading light rechargeable for reading in bed",
+      "why": "Hands-free light for books and crosswords without waking anyone."
+     },
+     {
+      "name": "Mug warmer",
+      "tier": "Under $30",
+      "search": "mug warmer for desk coffee tea",
+      "why": "Keeps her tea hot to the last sip."
+     },
+     {
+      "name": "Under-cabinet jar opener",
+      "tier": "Under $20",
+      "search": "under cabinet jar opener for weak hands",
+      "why": "Opens any lid with one hand. Small gift, big help."
+     },
+     {
+      "name": "Motion-sensor night lights",
+      "tier": "Under $30",
+      "search": "motion sensor night light plug in hallway",
+      "why": "Lights the way at night automatically, no fumbling for switches."
+     },
+     {
+      "name": "Rich hand cream gift set",
+      "tier": "Under $25",
+      "search": "shea butter hand cream gift set",
+      "why": "Winter hands need it, and a pretty set feels like a treat."
+     }
+    ]
+   },
+   {
+    "name": "Sentimental keepsakes",
+    "note": "Gifts that connect her to the grandkids.",
+    "items": [
+     {
+      "name": "Grandma memory journal",
+      "tier": "Under $20",
+      "search": "grandma tell me your story journal keepsake",
+      "why": "Fill-in prompts for her stories. Becomes a family treasure."
+     },
+     {
+      "name": "Letters to my grandchild book",
+      "tier": "Under $20",
+      "search": "letters to my grandchild book",
+      "why": "She writes, the grandkids keep it forever."
+     },
+     {
+      "name": "Personalized grandma mug",
+      "tier": "Under $25",
+      "search": "personalized grandma mug with grandkids names",
+      "why": "Her coffee, with every grandkid's name on it."
+     },
+     {
+      "name": "Trinket and ring dish",
+      "tier": "Under $25",
+      "search": "ceramic trinket dish ring holder",
+      "why": "A pretty spot for rings and earrings by the sink or bed."
+     }
+    ]
+   }
+  ]
  }
 ]
