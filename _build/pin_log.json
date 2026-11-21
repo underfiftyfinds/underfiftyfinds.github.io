@@ -761,7 +761,7 @@
    "style": "single-product spotlight",
    "headline": "Christmas gifts for dad: the gift he'll play with all Christmas Day",
    "search_phrase": "christmas gifts for dad",
-   "title": "Christmas Gifts for Dad: Indoor Putting Green Mat He\u2019ll Play With All Day",
+   "title": "Christmas Gifts for Dad: Indoor Putting Green Mat He’ll Play With All Day",
    "title_added": true,
    "posted_via": "PinResource/create API"
   },
@@ -774,7 +774,7 @@
    "style": "single-product spotlight",
    "headline": "Gifts for mom: she'll thank you every morning",
    "search_phrase": "gifts for mom",
-   "title": "Gifts for Mom: The Satin Pillowcase She\u2019ll Thank You for Every Morning",
+   "title": "Gifts for Mom: The Satin Pillowcase She’ll Thank You for Every Morning",
    "title_added": true,
    "posted_via": "PinResource/create API",
    "also_saved_to": [
@@ -1152,6 +1152,22 @@
    "title_added": true,
    "posted_via": "PinResource/create API",
    "note": "breakout variation 2 (teaser); click rules"
+  },
+  {
+   "date": "2026-11-21",
+   "pin_id": "251709066671688525",
+   "board": "Gifts for Mom",
+   "image": "canva:DAHblAY21Ss",
+   "canva_url": "https://canva.link/lb61wpylz2bcgcv",
+   "link": "/gifts-for-mom/",
+   "style": "canva photo pin",
+   "palette": "candy pink",
+   "headline": "14 Gifts for Mom Under $50",
+   "search_phrase": "gifts for mom",
+   "title_added": true,
+   "title": "Gifts for Mom Under $50: 14 Cozy Christmas Ideas She'll Actually Use",
+   "posted_via": "pin/create/button + PinResource/update title",
+   "note": "canva photo pin test #2; 3 picks per click rules"
   }
  ]
 }
