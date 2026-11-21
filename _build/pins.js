@@ -812,7 +812,78 @@ const pins = {
   </div>
   <div style="margin-top:60px;text-align:center"><span class="pill" style="background:#E63946;color:#FFFFFF;font-size:42px">Full list + Amazon links</span></div>
  </div>
- <div class="foot" style="color:#111111;bottom:60px;font-size:30px">underfiftyfinds.github.io</div>`
+ <div class="foot" style="color:#111111;bottom:60px;font-size:30px">underfiftyfinds.github.io</div>`,
+ pin66_grandma_quote_white: `
+ <div style="position:absolute;inset:0;background:#FFFFFF"></div>
+ <div style="position:absolute;inset:60px;border:4px solid #E63946;border-radius:40px"></div>
+ <div style="position:relative;padding:170px 120px 0;color:#111111;text-align:center">
+  <div class="kicker" style="color:#E63946">Gifts for grandma</div>
+  <div class="serif" style="font-size:200px;line-height:.6;color:#E63946;margin-top:50px">&ldquo;</div>
+  <div class="serif" style="font-size:104px;line-height:1.08;margin-top:10px">Oh honey,<br>you didn't<br>have to.</div>
+  <div style="font:600 48px Inter;line-height:1.4;margin:60px auto 0;max-width:720px">14 gifts for grandma under $50 she'll use every day</div>
+  <div style="font:700 42px Inter;margin-top:34px;color:#E63946">Cozy throws, reading lights + keepsakes</div>
+  <div style="margin-top:70px"><span class="pill" style="background:#E63946;color:#FFFFFF;font-size:44px">See all 14 picks</span></div>
+ </div>
+ <div class="foot" style="color:#111111;bottom:100px;font-size:30px">underfiftyfinds.github.io</div>`,
+ pin67_grandma_teaser_pink: `
+ <div style="position:absolute;inset:0;background:#F7C6D4"></div>
+ <div style="position:relative;padding:100px 80px 0;color:#3A1020">
+  <div class="kicker" style="color:#D6234A">Gifts for grandma under $50</div>
+  <div class="serif" style="font-size:98px;line-height:1.04;margin-top:26px">14 gifts for grandma under $50.</div>
+  <div class="serif" style="font-size:66px;line-height:1.14;margin-top:22px;color:#D6234A">#1 is the one she'll use every single night.</div>
+  <div style="margin-top:52px;background:#FFE4EC;border-radius:36px;padding:42px 52px;font-size:44px;line-height:1.85">
+   <div><span style="color:#D6234A;font-weight:700;display:inline-block;width:80px">01</span><span style="display:inline-block;width:500px;height:32px;border-radius:16px;background:#D6234A;opacity:.45;vertical-align:middle"></span></div>
+   ${['Towel warmer bucket','Neck reading light','Grandma memory journal'].map((t,i)=>`<div><span style="color:#D6234A;font-weight:700;display:inline-block;width:80px">${String(i+2).padStart(2,'0')}</span>${t}</div>`).join('')}
+   <div style="color:#3A1020;font-weight:700;font-size:42px">+ 10 more on the list</div>
+  </div>
+  <div style="margin-top:54px;text-align:center"><span class="pill" style="background:#D6234A;color:#F7C6D4;font-size:42px">Tap to see #1</span></div>
+ </div>
+ <div class="foot" style="color:#3A1020;bottom:60px;font-size:30px">underfiftyfinds.github.io</div>`,
+ pin68_stocking_callout_white: `
+ <div style="position:absolute;inset:0;background:#FFFFFF"></div>
+ <div style="position:absolute;left:0;right:0;top:0;height:560px;background:#E63946"></div>
+ <div style="position:relative;padding:100px 80px 0;color:#FFFFFF">
+  <div class="kicker" style="color:#FFFFFF">Stocking stuffer ideas</div>
+  <div class="serif" style="font-size:100px;line-height:1.04;margin-top:24px">3 stocking stuffers they'll actually keep</div>
+  <div style="font:600 44px Inter;margin-top:20px">From our 13 picks under $15</div>
+ </div>
+ <div style="position:absolute;left:70px;right:70px;top:610px">
+  ${[['Password logbook','The one every parent secretly needs'],['Sheet mask variety pack','A spa night, stocking-sized'],['Funny food crew socks','Guaranteed laugh at 7 AM']].map((r,i)=>`
+   <div style="background:#F3F3F3;border-radius:30px;padding:34px 44px;margin-bottom:24px;display:flex;gap:34px;align-items:center;color:#111111">
+    <div class="serif" style="font-size:84px;color:#E63946;width:70px">${i+1}</div>
+    <div><div style="font:700 44px Inter">${r[0]}</div><div style="font:500 36px Inter;margin-top:8px">${r[1]}</div></div>
+   </div>`).join('')}
+  <div style="text-align:center;font:700 42px Inter;color:#E63946;margin-top:8px">+ 10 more, all under $15</div>
+  <div style="margin-top:34px;text-align:center"><span class="pill" style="background:#E63946;color:#FFFFFF;font-size:42px">Tap for the full list + links</span></div>
+ </div>
+ <div class="foot" style="color:#111111;bottom:50px;font-size:30px">underfiftyfinds.github.io</div>`,
+ pin69_grandma_headline_navy: `
+ <div style="position:absolute;inset:0;background:#14213D"></div>
+ <div style="position:relative;padding:100px 80px 0;color:#FFFFFF">
+  <div class="kicker" style="color:#FCA311">Christmas gifts for grandma</div>
+  <div class="serif" style="font-size:94px;line-height:1.03;margin-top:24px">14 Christmas Gifts for Grandma under $50</div>
+  <div style="font:600 46px Inter;margin-top:22px;color:#FCA311">Cozy, useful + a little sentimental</div>
+  <div style="margin-top:40px;background:#1E2F55;border-radius:36px;padding:44px 54px;font-size:44px;line-height:1.8">
+   ${['Heated throw blanket','Mug warmer','Heated lavender slippers','Letters to my grandchild book'].map((t,i)=>`<div><span style="color:#FCA311;font-weight:700;display:inline-block;width:80px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
+   <div style="color:#FFFFFF;font-weight:700;font-size:42px">+ 10 more picks on the list</div>
+  </div>
+  <div style="margin-top:44px;text-align:center"><span class="pill" style="background:#FCA311;color:#14213D;font-size:42px">Full list + Amazon links</span></div>
+ </div>
+ <div class="foot" style="color:#FFFFFF;bottom:60px;font-size:30px">underfiftyfinds.github.io</div>`,
+ pin70_stocking_teaser_green: `
+ <div style="position:absolute;inset:0;background:#1F4D3A"></div>
+ <div style="position:relative;padding:100px 80px 0;color:#FFF8EC">
+  <div class="kicker" style="color:#E0B252">Cheap stocking stuffers</div>
+  <div class="serif" style="font-size:98px;line-height:1.04;margin-top:26px">13 stocking stuffers under $15.</div>
+  <div class="serif" style="font-size:68px;line-height:1.14;margin-top:22px;color:#E0B252">Save the last one for the end. It wins Christmas morning.</div>
+  <div style="margin-top:50px;background:#173B2C;border-radius:36px;padding:42px 52px;font-size:44px;line-height:1.85">
+   ${['Ribbed cuff beanie','Lip balm holiday minis','Weekly planner notepad'].map((t,i)=>`<div><span style="color:#E0B252;font-weight:700;display:inline-block;width:80px">${String(i+1).padStart(2,'0')}</span>${t}</div>`).join('')}
+   <div><span style="color:#E0B252;font-weight:700;display:inline-block;width:80px">13</span><span style="display:inline-block;width:500px;height:32px;border-radius:16px;background:#E0B252;opacity:.5;vertical-align:middle"></span></div>
+   <div style="color:#FFF8EC;font-weight:700;font-size:42px">+ 9 more in between</div>
+  </div>
+  <div style="margin-top:50px;text-align:center"><span class="pill" style="background:#E0B252;color:#1F4D3A;font-size:42px">Tap to see #13</span></div>
+ </div>
+ <div class="foot" style="color:#FFF8EC;bottom:60px;font-size:30px">underfiftyfinds.github.io</div>`
 };
 (async () => {
   const b = await chromium.launch();

@@ -471,58 +471,149 @@
     "midnight navy": 0.181,
     "bold white": 0.179
    }
+  },
+  {
+   "date": "2026-11-21",
+   "mode": "learning (shifting toward winners)",
+   "plan": [
+    {
+     "style": "dark quote",
+     "guide": "gifts-for-grandma-under-50",
+     "palette": "bold white",
+     "colors": {
+      "bg": "#FFFFFF",
+      "ink": "#111111",
+      "acc": "#E63946",
+      "card": "#F3F3F3"
+     },
+     "launch_boost": true
+    },
+    {
+     "style": "teaser (curiosity gap)",
+     "guide": "gifts-for-grandma-under-50",
+     "palette": "candy pink",
+     "colors": {
+      "bg": "#F7C6D4",
+      "ink": "#3A1020",
+      "acc": "#D6234A",
+      "card": "#FFE4EC"
+     },
+     "launch_boost": true
+    },
+    {
+     "style": "3-item callout",
+     "guide": "stocking-stuffers-under-15",
+     "palette": "bold white",
+     "colors": {
+      "bg": "#FFFFFF",
+      "ink": "#111111",
+      "acc": "#E63946",
+      "card": "#F3F3F3"
+     }
+    },
+    {
+     "style": "headline (X under $Y)",
+     "guide": "gifts-for-grandma-under-50",
+     "palette": "midnight navy",
+     "colors": {
+      "bg": "#14213D",
+      "ink": "#FFFFFF",
+      "acc": "#FCA311",
+      "card": "#1E2F55"
+     }
+    },
+    {
+     "style": "headline (X under $Y)",
+     "guide": "teacher-christmas-gifts",
+     "palette": "christmas red",
+     "colors": {
+      "bg": "#B3202A",
+      "ink": "#FFF7EE",
+      "acc": "#F2C14E",
+      "card": "#8E1820"
+     }
+    }
+   ],
+   "style_share": {
+    "numbered list": 0.091,
+    "dark quote": 0.128,
+    "3-item callout": 0.091,
+    "headline (X under $Y)": 0.355,
+    "single-product spotlight": 0.145,
+    "teaser (curiosity gap)": 0.19
+   },
+   "guide_share": {
+    "gifts-for-him-under-50": 0.08,
+    "stocking-stuffers-under-15": 0.08,
+    "white-elephant-gifts-under-25": 0.08,
+    "gifts-for-mom": 0.128,
+    "teacher-christmas-gifts": 0.132,
+    "gifts-for-dad-under-50": 0.08,
+    "gift-basket-ideas": 0.08,
+    "coworker-secret-santa-gifts-under-25": 0.114,
+    "gifts-for-her-under-50": 0.113,
+    "gifts-for-grandma-under-50": 0.111
+   },
+   "palette_share": {
+    "cream classic": 0.092,
+    "christmas red": 0.173,
+    "evergreen gold": 0.183,
+    "candy pink": 0.189,
+    "midnight navy": 0.173,
+    "bold white": 0.19
+   }
   }
  ],
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "mode": "learning (shifting toward winners)",
- "total_pins": 65,
- "total_impressions": 809,
+ "total_pins": 66,
+ "total_impressions": 911,
  "total_clicks": 1,
  "styles": {
   "canva photo pin": {
-   "pins": 0,
-   "impressions": 0,
+   "pins": 1,
+   "impressions": 1,
    "clicks": 0,
    "saves": 0,
-   "post_mean": 0.00498,
+   "post_mean": 0.00495,
    "post_lo": 0,
-   "post_hi": 0.01312
+   "post_hi": 0.01305
   },
   "numbered list": {
    "pins": 11,
-   "impressions": 501,
+   "impressions": 563,
    "clicks": 0,
-   "saves": 6,
-   "post_mean": 0.00142,
+   "saves": 8,
+   "post_mean": 0.00131,
    "post_lo": 0,
-   "post_hi": 0.00376
+   "post_hi": 0.00346
   },
   "dark quote": {
    "pins": 12,
-   "impressions": 62,
+   "impressions": 66,
    "clicks": 0,
    "saves": 3,
-   "post_mean": 0.0038,
+   "post_mean": 0.00375,
    "post_lo": 0,
-   "post_hi": 0.01003
+   "post_hi": 0.00988
   },
   "3-item callout": {
    "pins": 10,
-   "impressions": 100,
+   "impressions": 118,
    "clicks": 0,
    "saves": 6,
-   "post_mean": 0.00332,
+   "post_mean": 0.00313,
    "post_lo": 0,
-   "post_hi": 0.00877
+   "post_hi": 0.00828
   },
   "headline (X under $Y)": {
    "pins": 17,
-   "impressions": 89,
+   "impressions": 101,
    "clicks": 1,
    "saves": 12,
-   "post_mean": 0.0069,
+   "post_mean": 0.00662,
    "post_lo": 0,
-   "post_hi": 0.01488
+   "post_hi": 0.01429
   },
   "single-product spotlight": {
    "pins": 8,
@@ -535,50 +626,50 @@
   },
   "teaser (curiosity gap)": {
    "pins": 7,
-   "impressions": 4,
+   "impressions": 9,
    "clicks": 0,
-   "saves": 0,
-   "post_mean": 0.00488,
+   "saves": 1,
+   "post_mean": 0.00476,
    "post_lo": 0,
-   "post_hi": 0.01286
+   "post_hi": 0.01256
   }
  },
  "guides": {
   "gifts-for-him-under-50": {
    "pins": 8,
-   "impressions": 103,
+   "impressions": 108,
    "clicks": 0,
-   "saves": 1,
-   "post_mean": 0.00329,
+   "saves": 2,
+   "post_mean": 0.00324,
    "post_lo": 0,
-   "post_hi": 0.00868
+   "post_hi": 0.00854
   },
   "stocking-stuffers-under-15": {
    "pins": 25,
-   "impressions": 414,
+   "impressions": 434,
    "clicks": 1,
-   "saves": 13,
-   "post_mean": 0.00325,
+   "saves": 14,
+   "post_mean": 0.00315,
    "post_lo": 0,
-   "post_hi": 0.00703
+   "post_hi": 0.0068
   },
   "white-elephant-gifts-under-25": {
-   "pins": 9,
-   "impressions": 227,
+   "pins": 10,
+   "impressions": 299,
    "clicks": 0,
    "saves": 6,
-   "post_mean": 0.00234,
+   "post_mean": 0.002,
    "post_lo": 0,
-   "post_hi": 0.00617
+   "post_hi": 0.00528
   },
   "gifts-for-mom": {
    "pins": 10,
-   "impressions": 31,
+   "impressions": 33,
    "clicks": 0,
-   "saves": 8,
-   "post_mean": 0.00431,
+   "saves": 9,
+   "post_mean": 0.00427,
    "post_lo": 0,
-   "post_hi": 0.01137
+   "post_hi": 0.01127
   },
   "teacher-christmas-gifts": {
    "pins": 2,
@@ -591,12 +682,12 @@
   },
   "gifts-for-dad-under-50": {
    "pins": 5,
-   "impressions": 9,
+   "impressions": 12,
    "clicks": 0,
    "saves": 0,
-   "post_mean": 0.00476,
+   "post_mean": 0.00469,
    "post_lo": 0,
-   "post_hi": 0.01256
+   "post_hi": 0.01238
   },
   "gift-basket-ideas": {
    "pins": 2,
@@ -624,6 +715,15 @@
    "post_mean": 0.00498,
    "post_lo": 0,
    "post_hi": 0.01312
+  },
+  "gifts-for-grandma-under-50": {
+   "pins": 0,
+   "impressions": 0,
+   "clicks": 0,
+   "saves": 0,
+   "post_mean": 0.00498,
+   "post_lo": 0,
+   "post_hi": 0.01312
   }
  },
  "trend_weights": {
@@ -635,90 +735,150 @@
   "gifts-for-dad-under-50": 1.3,
   "gift-basket-ideas": 1.3,
   "coworker-secret-santa-gifts-under-25": 1.6,
-  "gifts-for-her-under-50": 1.6
+  "gifts-for-her-under-50": 1.6,
+  "gifts-for-grandma-under-50": 1.6
  },
  "style_share": {
-  "numbered list": 0.092,
-  "dark quote": 0.123,
-  "3-item callout": 0.1,
-  "headline (X under $Y)": 0.371,
-  "single-product spotlight": 0.135,
-  "teaser (curiosity gap)": 0.178
+  "numbered list": 0.091,
+  "dark quote": 0.128,
+  "3-item callout": 0.091,
+  "headline (X under $Y)": 0.355,
+  "single-product spotlight": 0.145,
+  "teaser (curiosity gap)": 0.19
  },
  "guide_share": {
-  "gifts-for-him-under-50": 0.086,
-  "stocking-stuffers-under-15": 0.086,
-  "white-elephant-gifts-under-25": 0.086,
-  "gifts-for-mom": 0.153,
-  "teacher-christmas-gifts": 0.157,
-  "gifts-for-dad-under-50": 0.086,
-  "gift-basket-ideas": 0.086,
-  "coworker-secret-santa-gifts-under-25": 0.125,
-  "gifts-for-her-under-50": 0.134
+  "gifts-for-him-under-50": 0.08,
+  "stocking-stuffers-under-15": 0.08,
+  "white-elephant-gifts-under-25": 0.08,
+  "gifts-for-mom": 0.128,
+  "teacher-christmas-gifts": 0.132,
+  "gifts-for-dad-under-50": 0.08,
+  "gift-basket-ideas": 0.08,
+  "coworker-secret-santa-gifts-under-25": 0.114,
+  "gifts-for-her-under-50": 0.113,
+  "gifts-for-grandma-under-50": 0.111
  },
- "today": [],
+ "today": [
+  {
+   "style": "dark quote",
+   "guide": "gifts-for-grandma-under-50",
+   "palette": "bold white",
+   "colors": {
+    "bg": "#FFFFFF",
+    "ink": "#111111",
+    "acc": "#E63946",
+    "card": "#F3F3F3"
+   },
+   "launch_boost": true
+  },
+  {
+   "style": "teaser (curiosity gap)",
+   "guide": "gifts-for-grandma-under-50",
+   "palette": "candy pink",
+   "colors": {
+    "bg": "#F7C6D4",
+    "ink": "#3A1020",
+    "acc": "#D6234A",
+    "card": "#FFE4EC"
+   },
+   "launch_boost": true
+  },
+  {
+   "style": "3-item callout",
+   "guide": "stocking-stuffers-under-15",
+   "palette": "bold white",
+   "colors": {
+    "bg": "#FFFFFF",
+    "ink": "#111111",
+    "acc": "#E63946",
+    "card": "#F3F3F3"
+   }
+  },
+  {
+   "style": "headline (X under $Y)",
+   "guide": "gifts-for-grandma-under-50",
+   "palette": "midnight navy",
+   "colors": {
+    "bg": "#14213D",
+    "ink": "#FFFFFF",
+    "acc": "#FCA311",
+    "card": "#1E2F55"
+   }
+  },
+  {
+   "style": "headline (X under $Y)",
+   "guide": "teacher-christmas-gifts",
+   "palette": "christmas red",
+   "colors": {
+    "bg": "#B3202A",
+    "ink": "#FFF7EE",
+    "acc": "#F2C14E",
+    "card": "#8E1820"
+   }
+  }
+ ],
  "palettes": {
   "cream classic": {
    "pins": 60,
-   "impressions": 803,
+   "impressions": 896,
    "clicks": 1,
-   "saves": 31,
-   "post_mean": 0.00199,
+   "saves": 32,
+   "post_mean": 0.00182,
    "post_lo": 0,
-   "post_hi": 0.00431
+   "post_hi": 0.00394
   },
   "christmas red": {
    "pins": 1,
-   "impressions": 0,
+   "impressions": 1,
    "clicks": 0,
    "saves": 0,
-   "post_mean": 0.00498,
+   "post_mean": 0.00495,
    "post_lo": 0,
-   "post_hi": 0.01312
+   "post_hi": 0.01305
   },
   "evergreen gold": {
-   "pins": 0,
-   "impressions": 0,
+   "pins": 1,
+   "impressions": 1,
    "clicks": 0,
    "saves": 0,
-   "post_mean": 0.00498,
+   "post_mean": 0.00495,
    "post_lo": 0,
-   "post_hi": 0.01312
+   "post_hi": 0.01305
   },
   "candy pink": {
    "pins": 2,
-   "impressions": 0,
+   "impressions": 3,
    "clicks": 0,
-   "saves": 0,
-   "post_mean": 0.00498,
+   "saves": 1,
+   "post_mean": 0.0049,
    "post_lo": 0,
-   "post_hi": 0.01312
+   "post_hi": 0.01293
   },
   "midnight navy": {
    "pins": 1,
-   "impressions": 0,
+   "impressions": 2,
    "clicks": 0,
    "saves": 0,
-   "post_mean": 0.00498,
+   "post_mean": 0.00493,
    "post_lo": 0,
-   "post_hi": 0.01312
+   "post_hi": 0.01299
   },
   "bold white": {
    "pins": 1,
-   "impressions": 0,
+   "impressions": 2,
    "clicks": 0,
-   "saves": 0,
-   "post_mean": 0.00498,
+   "saves": 1,
+   "post_mean": 0.00493,
    "post_lo": 0,
-   "post_hi": 0.01312
+   "post_hi": 0.01299
   }
  },
  "palette_share": {
   "cream classic": 0.092,
-  "christmas red": 0.175,
-  "evergreen gold": 0.19,
-  "candy pink": 0.183,
-  "midnight navy": 0.181,
-  "bold white": 0.179
+  "christmas red": 0.173,
+  "evergreen gold": 0.183,
+  "candy pink": 0.189,
+  "midnight navy": 0.173,
+  "bold white": 0.19
  }
 }
