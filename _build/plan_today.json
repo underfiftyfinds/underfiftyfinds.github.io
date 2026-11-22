@@ -1,22 +1,22 @@
 {
- "date": "2026-11-21",
+ "date": "2026-11-22",
  "mode": "learning (shifting toward winners)",
  "plan": [
   {
-   "style": "dark quote",
+   "style": "numbered list",
    "guide": "gifts-for-grandma-under-50",
-   "palette": "bold white",
+   "palette": "evergreen gold",
    "colors": {
-    "bg": "#FFFFFF",
-    "ink": "#111111",
-    "acc": "#E63946",
-    "card": "#F3F3F3"
+    "bg": "#1F4D3A",
+    "ink": "#FFF8EC",
+    "acc": "#E0B252",
+    "card": "#173B2C"
    },
-   "launch_boost": true
+   "format": "short"
   },
   {
    "style": "teaser (curiosity gap)",
-   "guide": "gifts-for-grandma-under-50",
+   "guide": "gift-basket-ideas",
    "palette": "candy pink",
    "colors": {
     "bg": "#F7C6D4",
@@ -24,40 +24,55 @@
     "acc": "#D6234A",
     "card": "#FFE4EC"
    },
-   "launch_boost": true
+   "format": "wordy"
   },
   {
-   "style": "3-item callout",
-   "guide": "stocking-stuffers-under-15",
+   "style": "numbered list",
+   "guide": "coworker-secret-santa-gifts-under-25",
    "palette": "bold white",
    "colors": {
     "bg": "#FFFFFF",
     "ink": "#111111",
     "acc": "#E63946",
     "card": "#F3F3F3"
-   }
+   },
+   "format": "short"
   },
   {
    "style": "headline (X under $Y)",
-   "guide": "gifts-for-grandma-under-50",
+   "guide": "gifts-for-dad-under-50",
+   "palette": "candy pink",
+   "colors": {
+    "bg": "#F7C6D4",
+    "ink": "#3A1020",
+    "acc": "#D6234A",
+    "card": "#FFE4EC"
+   },
+   "format": "wordy"
+  },
+  {
+   "style": "single-product spotlight",
+   "guide": "gifts-for-her-under-50",
    "palette": "midnight navy",
    "colors": {
     "bg": "#14213D",
     "ink": "#FFFFFF",
     "acc": "#FCA311",
     "card": "#1E2F55"
-   }
+   },
+   "format": "short"
   },
   {
    "style": "headline (X under $Y)",
-   "guide": "teacher-christmas-gifts",
-   "palette": "christmas red",
+   "guide": "gifts-for-mom",
+   "palette": "candy pink",
    "colors": {
-    "bg": "#B3202A",
-    "ink": "#FFF7EE",
-    "acc": "#F2C14E",
-    "card": "#8E1820"
-   }
+    "bg": "#F7C6D4",
+    "ink": "#3A1020",
+    "acc": "#D6234A",
+    "card": "#FFE4EC"
+   },
+   "format": "wordy"
   }
  ]
 }
