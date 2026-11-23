@@ -1278,6 +1278,22 @@
       "title_added": true,
       "posted_via": "PinResource/create API",
       "note": "breakout variation 2 (palette chosen manually); design v2"
+    },
+    {
+      "date": "2026-11-22",
+      "pin_id": "251709066671707898",
+      "board": "Teacher Christmas Gifts",
+      "image": "canva:DAHbsMtzlYQ",
+      "canva_url": "https://canva.link/ato2exrb3iem9kk",
+      "link": "/teacher-christmas-gifts/",
+      "style": "canva photo pin",
+      "palette": "christmas red",
+      "headline": "14 Teacher Christmas Gifts Under $25",
+      "search_phrase": "teacher christmas gifts",
+      "title_added": true,
+      "title": "Teacher Christmas Gifts Under $25: 14 Practical Picks Teachers Use (No Mugs)",
+      "posted_via": "pin/create/button + PinResource/update title",
+      "note": "canva photo pin test #3; 3 picks per click rules"
     }
   ]
 }
