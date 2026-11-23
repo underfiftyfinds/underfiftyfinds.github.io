@@ -1,10 +1,10 @@
 {
- "date": "2026-11-22",
- "mode": "learning (shifting toward winners)",
+ "date": "2026-11-23",
+ "mode": "exploring (not enough clicks yet)",
  "plan": [
   {
-   "style": "numbered list",
-   "guide": "gifts-for-grandma-under-50",
+   "style": "headline (X under $Y)",
+   "guide": "neighbor-christmas-gifts-under-15",
    "palette": "evergreen gold",
    "colors": {
     "bg": "#1F4D3A",
@@ -12,47 +12,25 @@
     "acc": "#E0B252",
     "card": "#173B2C"
    },
-   "format": "short"
+   "format": "short",
+   "launch_boost": true
   },
   {
    "style": "teaser (curiosity gap)",
-   "guide": "gift-basket-ideas",
-   "palette": "candy pink",
+   "guide": "neighbor-christmas-gifts-under-15",
+   "palette": "christmas red",
    "colors": {
-    "bg": "#F7C6D4",
-    "ink": "#3A1020",
-    "acc": "#D6234A",
-    "card": "#FFE4EC"
+    "bg": "#B3202A",
+    "ink": "#FFF7EE",
+    "acc": "#F2C14E",
+    "card": "#8E1820"
    },
-   "format": "wordy"
+   "format": "wordy",
+   "launch_boost": true
   },
   {
    "style": "numbered list",
-   "guide": "coworker-secret-santa-gifts-under-25",
-   "palette": "bold white",
-   "colors": {
-    "bg": "#FFFFFF",
-    "ink": "#111111",
-    "acc": "#E63946",
-    "card": "#F3F3F3"
-   },
-   "format": "short"
-  },
-  {
-   "style": "headline (X under $Y)",
-   "guide": "gifts-for-dad-under-50",
-   "palette": "candy pink",
-   "colors": {
-    "bg": "#F7C6D4",
-    "ink": "#3A1020",
-    "acc": "#D6234A",
-    "card": "#FFE4EC"
-   },
-   "format": "wordy"
-  },
-  {
-   "style": "single-product spotlight",
-   "guide": "gifts-for-her-under-50",
+   "guide": "gifts-for-him-under-50",
    "palette": "midnight navy",
    "colors": {
     "bg": "#14213D",
@@ -63,8 +41,32 @@
    "format": "short"
   },
   {
-   "style": "headline (X under $Y)",
-   "guide": "gifts-for-mom",
+   "style": "numbered list",
+   "guide": "white-elephant-gifts-under-25",
+   "palette": "cream classic",
+   "colors": {
+    "bg": "#F4EDE4",
+    "ink": "#2B2420",
+    "acc": "#B5634B",
+    "card": "#FFFDF9"
+   },
+   "format": "wordy"
+  },
+  {
+   "style": "minimal (big headline)",
+   "guide": "gifts-for-her-under-50",
+   "palette": "candy pink",
+   "colors": {
+    "bg": "#F7C6D4",
+    "ink": "#3A1020",
+    "acc": "#D6234A",
+    "card": "#FFE4EC"
+   },
+   "format": "short"
+  },
+  {
+   "style": "dark quote",
+   "guide": "teacher-christmas-gifts",
    "palette": "candy pink",
    "colors": {
     "bg": "#F7C6D4",
