@@ -1146,5 +1146,118 @@
     ]
    }
   ]
+ },
+ {
+  "slug": "neighbor-christmas-gifts-under-15",
+  "tag": "underfifty-gifts-20",
+  "title": "Neighbor Christmas Gifts Under $15: 14 Easy Ideas for the Whole Street",
+  "desc": "Neighbor Christmas gifts under $15: hot cocoa bombs, mini candles, cookie mix, festive dish towels, ornaments, gourmet popcorn and more cheap Christmas gift ideas for neighbors.",
+  "h1": "Neighbor Christmas Gifts Under $15",
+  "lede": "A small, cheerful gift on the doorstep goes a long way. Every pick here is usually under $15, easy to buy in multiples, and the kind of thing this season's neighbor gift guides keep recommending. Add a tag with a quick note and you're done.",
+  "card": "Cocoa bombs, mini candles, cookie mix and festive dish towels to hand out up and down the street.",
+  "sections": [
+   {
+    "name": "Sweet treats",
+    "note": "Edible gifts everyone can enjoy (check for allergies if you know them).",
+    "items": [
+     {
+      "name": "Hot cocoa bombs",
+      "tier": "Under $15",
+      "search": "hot cocoa bombs gift set",
+      "why": "Drop one in hot milk and watch it melt open. Fun for kids and grown-ups."
+     },
+     {
+      "name": "Peppermint bark tin",
+      "tier": "Under $15",
+      "search": "peppermint bark gift tin",
+      "why": "A classic holiday treat in a tin that looks like you tried hard."
+     },
+     {
+      "name": "Gourmet popcorn tin",
+      "tier": "Under $15",
+      "search": "gourmet popcorn gift tin christmas",
+      "why": "Easy to share on movie night, and the tin gets reused."
+     },
+     {
+      "name": "Christmas cookie mix",
+      "tier": "Under $15",
+      "search": "christmas cookie mix gift",
+      "why": "Just add butter and an egg. Pairs well with a wooden spoon."
+     },
+     {
+      "name": "Holiday coffee sampler",
+      "tier": "Under $15",
+      "search": "holiday coffee sampler single serve",
+      "why": "Peppermint mocha and gingerbread flavors for chilly mornings."
+     }
+    ]
+   },
+   {
+    "name": "Little home touches",
+    "note": "Small, useful things that look festive.",
+    "items": [
+     {
+      "name": "Mini scented candle tin",
+      "tier": "Under $12",
+      "search": "christmas scented candle tin small",
+      "why": "Balsam or cinnamon scent in a tin. The go-to neighbor gift."
+     },
+     {
+      "name": "Festive dish towels",
+      "tier": "Under $15",
+      "search": "christmas kitchen towels set",
+      "why": "Everyone uses dish towels, and these brighten the kitchen for the season."
+     },
+     {
+      "name": "Holiday hand soap",
+      "tier": "Under $12",
+      "search": "holiday foaming hand soap",
+      "why": "A pretty bottle by the sink that gets used every day."
+     },
+     {
+      "name": "Mini succulent",
+      "tier": "Under $15",
+      "search": "mini succulent plants live",
+      "why": "Low-care greenery that lasts long after the holidays."
+     },
+     {
+      "name": "Christmas tree ornament",
+      "tier": "Under $12",
+      "search": "christmas ornament neighbor gift",
+      "why": "A keepsake they'll unpack every December."
+     }
+    ]
+   },
+   {
+    "name": "Fun and practical",
+    "note": "Gifts that get pulled out all winter.",
+    "items": [
+     {
+      "name": "Ice scraper with mitt",
+      "tier": "Under $15",
+      "search": "ice scraper with mitt",
+      "why": "A lifesaver on frosty mornings, and nobody buys one for themselves."
+     },
+     {
+      "name": "Cozy holiday socks",
+      "tier": "Under $12",
+      "search": "christmas fuzzy socks",
+      "why": "Fuzzy, festive and one-size-fits-most."
+     },
+     {
+      "name": "Christmas card game",
+      "tier": "Under $15",
+      "search": "christmas family card game",
+      "why": "Something to play when the family comes over."
+     },
+     {
+      "name": "Hot cocoa mug",
+      "tier": "Under $15",
+      "search": "christmas mug hot cocoa",
+      "why": "Fill it with candy canes or cocoa packets and it's a whole gift."
+     }
+    ]
+   }
+  ]
  }
 ]
