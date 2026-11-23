@@ -36,7 +36,8 @@ PALETTE_CAP = 0.35              # no single palette takes more than ~1/3 of pins
 
 PRIOR_A, PRIOR_B = 1.0, 200.0   # prior belief: ~0.5% outbound click rate
 MIN_SHARE = 0.10                # never starve an arm completely (keeps exploring)
-MAX_SHARE_EXPLORING = 0.35      # while exploring (<500 impressions), one lucky click can't grab half the pins
+MAX_SHARE_EXPLORING = 0.35      # while exploring (<10 outbound clicks), one lucky click can't grab half the pins
+MIN_CLICKS_TO_LEARN = 10        # 2026-11-22 review: switched gate from 500 impressions to 10 outbound clicks (1 click in 1,050 impressions is noise)
 LAUNCH_PINS = 2                 # a newly launched guide gets its first 2 pins guaranteed (Micah approved 2026-11-17)
 
 
@@ -151,7 +152,9 @@ def main():
 
     style_t = arm_table(pins, stats, lambda p: canon_style(p.get("style")), list(STYLES))
     guide_t = arm_table(pins, stats, lambda p: (p.get("link") or "").strip("/"), guides)
-    cap = MAX_SHARE_EXPLORING if total_imp < 500 else None
+    total_clk = sum(int(v.get("outbound_clicks", 0) or 0) for v in stats.values())
+    exploring = total_clk < MIN_CLICKS_TO_LEARN
+    cap = MAX_SHARE_EXPLORING if exploring else None
     PLANNABLE = [k for k in STYLES if k != "canva photo pin"]
     style_p = win_probs({k: style_t[k] for k in PLANNABLE}, rng=rng, cap=cap)
     # guides are few (3-6) and carry deliberate seasonal weights, so they get a looser cap
@@ -159,6 +162,16 @@ def main():
 
     pal_t = arm_table(pins, stats, canon_palette, list(PALETTES))
     pal_p = win_probs(pal_t, rng=rng, cap=PALETTE_CAP)
+    if exploring:
+        # 2026-11-22 review: with under 10 outbound clicks the click data cannot tell arms apart, and Thompson
+        # sampling was punishing the arms that got the MOST reach (e.g. white elephant, 377 impressions, 0 clicks,
+        # fell to the 8% floor despite being the biggest search). Until 10 clicks: guides follow the seasonal
+        # trend weights, styles and palettes are split evenly.
+        tws = {g: tw.get(g, 1.0) for g in guides}
+        t = sum(tws.values()) or 1.0
+        guide_p = {g: v / t for g, v in tws.items()}
+        style_p = {k: 1.0 / len(PLANNABLE) for k in PLANNABLE}
+        pal_p = {k: 1.0 / len(PALETTES) for k in PALETTES}
     plan = [{"style": s, "guide": g, "palette": c, "colors": PALETTES[c]}
             for s, g, c in zip(allocate(style_p, a.pins, rng), allocate(guide_p, a.pins, rng), allocate(pal_p, a.pins, rng))]
     # FORMAT SPLIT (Micah 2026-11-21): half the pins "short" (3-second rule), half "wordy" (fuller list style).
@@ -173,7 +186,7 @@ def main():
             if slot < len(plan):
                 plan[slot]["guide"], plan[slot]["launch_boost"] = g, True
                 slot += 1
-    mode = "exploring (not enough data yet)" if total_imp < 500 else "learning (shifting toward winners)"
+    mode = "exploring (not enough clicks yet)" if exploring else "learning (shifting toward winners)"
     try:  # pin_log dates are Pacific dates
         from zoneinfo import ZoneInfo
         today = dt.datetime.now(ZoneInfo("America/Los_Angeles")).date().isoformat()
