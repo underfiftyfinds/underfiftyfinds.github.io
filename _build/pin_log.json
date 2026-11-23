@@ -1420,6 +1420,40 @@
    "title": "Secret Santa Gifts for Coworkers Under $25: 13 Desk-Friendly Picks They'll Use",
    "posted_via": "pin/create/button + PinResource/update title",
    "note": "canva photo pin test #4; 3 picks per click rules"
+  },
+  {
+   "date": "2026-11-23",
+   "pin_id": "251709066671722081",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin83_stocking_refresh_list_cream.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "numbered list",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "Stocking Stuffers People Actually Use",
+   "search_phrase": "stocking stuffers under $15",
+   "title": "Stocking Stuffers Under $15: 13 Small Gifts People Actually Use",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "refresh_of": "251709066671355968",
+   "note": "REFRESH of a top-reach pin (Micah approved 2026-11-23); extra to the 6 bandit pins today"
+  },
+  {
+   "date": "2026-11-23",
+   "pin_id": "251709066671722082",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin84_secretsanta_refresh_list_cream.png",
+   "link": "/coworker-secret-santa-gifts-under-25/",
+   "style": "numbered list",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "Secret Santa Gift Ideas Under $25",
+   "search_phrase": "secret santa gifts",
+   "title": "Secret Santa Gift Ideas Under $25: 13 Coworker Gifts Nobody Re-Gifts",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "refresh_of": "251709066671515317",
+   "note": "REFRESH of a top-reach pin (Micah approved 2026-11-23); extra to the 6 bandit pins today"
   }
  ]
 }
