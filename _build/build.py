@@ -16,6 +16,16 @@ FOOT = """</main><footer><div class="wrap">© 2026 Under Fifty Finds. As an Amaz
 
 SITE = "https://underfiftyfinds.github.io"
 
+# Visitor counter (GoatCounter, free, no cookies). Off until Micah creates an account and
+# puts its code in _build/site.json as {"goatcounter": "<code>"}. When on, every page counts
+# views and every "See it on Amazon" button counts clicks (event amazon/<guide>/<nn>).
+try:
+    GC = json.loads((pathlib.Path(__file__).resolve().parent / "site.json").read_text()).get("goatcounter", "").strip()
+except Exception:
+    GC = ""
+if GC:
+    FOOT = FOOT.replace("</body>", f'<script data-goatcounter="https://{GC}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script></body>')
+
 def og_tags(title, desc, path, kind="article"):
     """Open Graph tags: Pinterest uses these for rich pins (bold title + site name)."""
     img = ""
@@ -46,7 +56,7 @@ def build_guide(g):
             n += 1
             out.append(f"""<article class="card"><div class="num">{n:02d}</div><h3>{html.escape(it['name'])}</h3>
 <span class="tier">{html.escape(it['tier'])}</span><p>{html.escape(it['why'])}</p>
-<a class="btn" href="{html.escape(link(it, g['tag']))}" rel="sponsored nofollow noopener" target="_blank">See it on Amazon</a></article>""")
+<a class="btn" href="{html.escape(link(it, g['tag']))}"{(f' data-goatcounter-click="amazon/{g["slug"]}/{n:02d}" data-goatcounter-title="{html.escape(it["name"])}"' if GC else '')} rel="sponsored nofollow noopener" target="_blank">See it on Amazon</a></article>""")
     out.append(FOOT)
     d = ROOT / g["slug"]; d.mkdir(exist_ok=True)
     (d / "index.html").write_text("\n".join(out))
