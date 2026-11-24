@@ -1,1578 +1,1578 @@
 {
-  "notes": "Log of every pin posted. Scheduled runs read this to avoid repeats and append new entries.",
-  "plan": {
-    "start_date": "2026-11-05",
-    "pins_per_day_weeks_1_2": 3,
-    "pins_per_day_after_if_healthy": "5-8"
+ "notes": "Log of every pin posted. Scheduled runs read this to avoid repeats and append new entries.",
+ "plan": {
+  "start_date": "2026-11-05",
+  "pins_per_day_weeks_1_2": 3,
+  "pins_per_day_after_if_healthy": "5-8"
+ },
+ "pins": [
+  {
+   "date": "2026-11-05",
+   "pin_id": "251709066671355688",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin1_list.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "numbered list",
+   "title_added": true,
+   "title": "Gifts for Him Under $50: 12 Practical Gift Ideas He Will Actually Use"
   },
-  "pins": [
-    {
-      "date": "2026-11-05",
-      "pin_id": "251709066671355688",
-      "board": "Gifts for Him Under $50",
-      "image": "pins/pin1_list.png",
-      "link": "/gifts-for-him-under-50/",
-      "style": "numbered list",
-      "title_added": true,
-      "title": "Gifts for Him Under $50: 12 Practical Gift Ideas He Will Actually Use"
-    },
-    {
-      "date": "2026-11-05",
-      "pin_id": "251709066671355695",
-      "board": "Gifts for Him Under $50",
-      "image": "pins/pin2_quote.png",
-      "link": "/gifts-for-him-under-50/",
-      "style": "dark quote",
-      "title_added": true,
-      "title": "Gifts for Him Under $50 for the Guy Who Says He Doesn't Need Anything"
-    },
-    {
-      "date": "2026-11-05",
-      "pin_id": "251709066671355701",
-      "board": "Gifts for Him Under $50",
-      "image": "pins/pin3_grill.png",
-      "link": "/gifts-for-him-under-50/",
-      "style": "3-item callout",
-      "title_added": true,
-      "title": "Gifts for Him Under $50: 3 Grill Gifts for the BBQ Guy",
-      "also_saved_to": [
-        {
-          "board": "Kitchen Gifts Under $50",
-          "repin_id": "251709066671412031",
-          "date": "2026-11-07"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "pin_id": "251709066671355968",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin4_stocking_list.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "numbered list",
-      "headline": "Stocking Stuffers Under $15",
-      "title_added": true,
-      "title": "Stocking Stuffers Under $15 for Adults That Won't End Up in a Drawer"
-    },
-    {
-      "date": "2026-11-06",
-      "pin_id": "251709066671355984",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin5_stocking_under10.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "X under $Y headline",
-      "headline": "Stocking stuffers under $10",
-      "title_added": true,
-      "title": "Stocking Stuffers Under $10: Cheap Little Gifts Adults Actually Love",
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671412033",
-          "date": "2026-11-07"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "pin_id": "251709066671356023",
-      "board": "Gifts for Him Under $50",
-      "image": "pins/pin6_him_dock.png",
-      "link": "/gifts-for-him-under-50/",
-      "style": "single-product spotlight",
-      "headline": "The nightstand gift he didn't know he needed",
-      "title_added": true,
-      "title": "Gifts for Him Under $50: Wood Phone Docking Station for His Nightstand"
-    },
-    {
-      "date": "2026-11-07",
-      "pin_id": "251709066671383038",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin7_stocking_men_spotlight.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "single-product spotlight",
-      "headline": "Stocking stuffers for men: the tiny gift he'll use all year",
-      "search_phrase": "stocking stuffers for men",
-      "title": "Stocking Stuffers for Men: The Tiny Gift He Will Use All Year",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Gifts for Him Under $50",
-          "repin_id": "251709066671412036",
-          "date": "2026-11-07"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "pin_id": "251709066671383041",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin8_white_elephant_list.png",
-      "link": "/white-elephant-gifts-under-25/",
-      "style": "numbered list",
-      "headline": "White Elephant Gift Ideas Under $25",
-      "search_phrase": "white elephant gift ideas",
-      "title": "White Elephant Gift Ideas Under $25 That Get Stolen Twice",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671412023",
-          "date": "2026-11-07"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "pin_id": "251709066671383047",
-      "board": "Gifts for Him Under $50",
-      "image": "pins/pin9_him_everyday_callout.png",
-      "link": "/gifts-for-him-under-50/",
-      "style": "3-item callout",
-      "headline": "3 gifts he'll use every day",
-      "search_phrase": "gifts for him under $50",
-      "title": "Gifts for Him Under $50: 3 Everyday Gifts He Will Use Daily",
-      "title_added": true
-    },
-    {
-      "date": "2026-11-08",
-      "pin_id": "251709066671414682",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin10_stocking_men_list.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "numbered list",
-      "headline": "Stocking Stuffers for Men Under $15",
-      "search_phrase": "stocking stuffers for men",
-      "title": "Stocking Stuffers for Men Under $15: Little Gifts He Will Actually Keep",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Gifts for Him Under $50",
-          "repin_id": "251709066671414717",
-          "date": "2026-11-08"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "pin_id": "251709066671414692",
-      "board": "Gifts for Him Under $50",
-      "image": "pins/pin11_him_tech_callout.png",
-      "link": "/gifts-for-him-under-50/",
-      "style": "3-item callout",
-      "headline": "3 tech gifts he'll love",
-      "search_phrase": "gifts for him under $50",
-      "title": "Gifts for Him Under $50: 3 Tech Gifts That Feel Way More Expensive",
-      "title_added": true
-    },
-    {
-      "date": "2026-11-08",
-      "pin_id": "251709066671414702",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin12_white_elephant_funny_callout.png",
-      "link": "/white-elephant-gifts-under-25/",
-      "style": "3-item callout",
-      "headline": "3 funny gifts under $25",
-      "search_phrase": "white elephant gift ideas",
-      "title": "White Elephant Gift Ideas Under $25: 3 Funny Gifts That Get Stolen",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671414719",
-          "date": "2026-11-08"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-09",
-      "pin_id": "251709066671451155",
-      "board": "Gifts for Mom",
-      "image": "pins/pin13_mom_under25.png",
-      "link": "/gifts-for-mom/",
-      "style": "headline (X under $Y)",
-      "headline": "Gifts for Mom under $25",
-      "search_phrase": "gifts for mom",
-      "title": "Gifts for Mom Under $25: Cozy Christmas Gifts She Would Never Buy Herself",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Gifts for Her Under $50",
-          "repin_id": "251709066671451185",
-          "date": "2026-11-09"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-09",
-      "pin_id": "251709066671451160",
-      "board": "Gifts for Mom",
-      "image": "pins/pin14_mom_quote.png",
-      "link": "/gifts-for-mom/",
-      "style": "dark quote",
-      "headline": "Oh, honey, I don't want anything.",
-      "search_phrase": "gifts for mom",
-      "title": "Gifts for Mom Who Says She Wants Nothing: Cozy Christmas Ideas Under $50",
-      "title_added": true
-    },
-    {
-      "date": "2026-11-09",
-      "pin_id": "251709066671451169",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin15_stocking_quote.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "dark quote",
-      "headline": "Wait, there's more in the stocking?",
-      "search_phrase": "stocking stuffer ideas",
-      "title": "Stocking Stuffer Ideas for Adults: 13 Small Gifts Under $15 They Will Use",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671451186",
-          "date": "2026-11-09"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-10",
-      "pin_id": "251709066671486077",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin16_white_elephant_under20.png",
-      "link": "/white-elephant-gifts-under-25/",
-      "style": "headline (X under $Y)",
-      "headline": "White Elephant Gift Ideas under $20",
-      "search_phrase": "white elephant gift ideas",
-      "title_added": true,
-      "title": "White Elephant Gift Ideas Under $20: Funny, Useful Gifts People Actually Steal",
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671486111",
-          "date": "2026-11-10"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-10",
-      "pin_id": "251709066671486085",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin17_cheap_christmas_under10.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "headline (X under $Y)",
-      "headline": "Cheap Christmas Gifts under $10",
-      "search_phrase": "cheap christmas gifts",
-      "title_added": true,
-      "title": "Cheap Christmas Gifts Under $10: Small Stocking Stuffers That Still Feel Thoughtful",
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671486112",
-          "date": "2026-11-10"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-10",
-      "pin_id": "251709066671486102",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin18_stocking_booklight_spotlight.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "single-product spotlight",
-      "headline": "The stocking stuffer every reader wants",
-      "search_phrase": "stocking stuffer ideas",
-      "title_added": true,
-      "title": "Stocking Stuffer Ideas for Readers: Clip-On Book Light and 12 More Gifts Under $15"
-    },
-    {
-      "date": "2026-11-11",
-      "pin_id": "251709066671515312",
-      "board": "Teacher Christmas Gifts",
-      "image": "pins/pin19_teacher_quote.png",
-      "link": "/teacher-christmas-gifts/",
-      "style": "dark quote",
-      "headline": "Please, no more mugs. (Teacher Christmas gifts)",
-      "search_phrase": "teacher christmas gifts",
-      "title_added": true,
-      "title": "Teacher Christmas Gifts Under $25 Teachers Actually Want (No More Mugs!)"
-    },
-    {
-      "date": "2026-11-11",
-      "pin_id": "251709066671515315",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin20_stocking_men_under15.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "headline (X under $Y)",
-      "headline": "Stocking Stuffers for Men under $15",
-      "search_phrase": "stocking stuffers for men",
-      "title_added": true,
-      "title": "Stocking Stuffers for Men Under $15: Small Gifts He'll Actually Keep",
-      "also_saved_to": [
-        {
-          "board": "Gifts for Him Under $50",
-          "repin_id": "251709066671515321",
-          "date": "2026-11-11"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-11",
-      "pin_id": "251709066671515317",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin21_secret_santa_list.png",
-      "link": "/white-elephant-gifts-under-25/",
-      "style": "numbered list",
-      "headline": "Secret Santa Gifts Under $25",
-      "search_phrase": "secret santa gifts",
-      "title_added": true,
-      "title": "Secret Santa Gifts Under $25: Safe Gift Exchange Ideas for Coworkers",
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671515323",
-          "date": "2026-11-11"
-        }
-      ]
-    },
-    {
-      "pin_id": "251709066671535174",
-      "board": "Gifts for Him Under $50",
-      "image": "pins/pin22_men_socks_quote.png",
-      "link": "/gifts-for-him-under-50/",
-      "style": "dark quote",
-      "headline": "Just get me socks or something. (Gift ideas for men)",
-      "search_phrase": "gift ideas for men",
-      "title": "Gift Ideas for Men Under $50: 12 Practical Gifts He'll Actually Use (Not Socks)",
-      "title_added": true,
-      "date": "2026-11-12"
-    },
-    {
-      "pin_id": "251709066671535179",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin23_white_elephant_steal_list.png",
-      "link": "/white-elephant-gifts-under-25/",
-      "style": "numbered list",
-      "headline": "White Elephant Gift Ideas People Steal",
-      "search_phrase": "white elephant gift ideas",
-      "title": "White Elephant Gift Ideas People Actually Steal: Funny Gifts Under $25",
-      "title_added": true,
-      "date": "2026-11-12",
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671535189",
-          "date": "2026-11-12"
-        }
-      ]
-    },
-    {
-      "pin_id": "251709066671535182",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin24_stocking_nogifts_quote.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "dark quote",
-      "headline": "We said no gifts. Stockings don't count. (Stocking stuffer ideas)",
-      "search_phrase": "stocking stuffer ideas",
-      "title": "Stocking Stuffer Ideas for Adults Under $15: Small Gifts They'll Actually Use",
-      "title_added": true,
-      "date": "2026-11-12"
-    },
-    {
-      "date": "2026-11-13",
-      "pin_id": "251709066671551344",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin25_stocking_women_under15.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "headline (X under $Y)",
-      "headline": "Stocking Stuffers for Women under $15 (Little luxuries she'll use)",
-      "search_phrase": "stocking stuffers for women",
-      "title": "Stocking Stuffers for Women Under $15: Little Luxuries She'll Actually Use",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Gifts for Her Under $50",
-          "repin_id": "251709066671551352",
-          "date": "2026-11-13"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "pin_id": "251709066671551348",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin26_stocking_men_callout.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "3-item callout",
-      "headline": "Stocking stuffers for men: 3 he won't toss in a drawer",
-      "search_phrase": "stocking stuffers for men",
-      "title": "Stocking Stuffers for Men Under $15: 3 Useful Gifts He Won't Toss in a Drawer",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Gifts for Him Under $50",
-          "repin_id": "251709066671551353",
-          "date": "2026-11-13"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "pin_id": "251709066671551349",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin27_cheap_christmas_callout.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "3-item callout",
-      "headline": "Cheap Christmas gifts: 3 that don't look cheap",
-      "search_phrase": "cheap christmas gifts",
-      "title": "Cheap Christmas Gifts That Don't Look Cheap: Budget Gift Ideas Under $15",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671551356",
-          "date": "2026-11-13"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "pin_id": "251709066671562700",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin28_white_elephant_coworkers_list.png",
-      "link": "/white-elephant-gifts-under-25/",
-      "style": "numbered list",
-      "headline": "White Elephant Gifts for Coworkers",
-      "search_phrase": "white elephant gifts for coworkers",
-      "title": "White Elephant Gifts for Coworkers: Office-Safe Gift Exchange Ideas Under $25",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671562720",
-          "date": "2026-11-13"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "pin_id": "251709066671562707",
-      "board": "Gifts for Mom",
-      "image": "pins/pin29_mom_massager_spotlight.png",
-      "link": "/gifts-for-mom/",
-      "style": "single-product spotlight",
-      "headline": "Christmas gifts for mom: the gift she'll use every single night",
-      "search_phrase": "christmas gifts for mom",
-      "title": "Christmas Gifts for Mom: The Heated Neck Massager She'll Use Every Night (Under $50)",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Gifts for Her Under $50",
-          "repin_id": "251709066671562721",
-          "date": "2026-11-13"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "pin_id": "251709066671562714",
-      "board": "Gifts for Him Under $50",
-      "image": "pins/pin30_dad_callout.png",
-      "link": "/gifts-for-dad-under-50/",
-      "style": "3-item callout",
-      "headline": "Gifts for dad under $50: 3 he'll actually use this winter",
-      "search_phrase": "gifts for dad",
-      "title": "Gifts for Dad Under $50: 3 Christmas Gifts He'll Actually Use This Winter",
-      "title_added": true
-    },
-    {
-      "date": "2026-11-14",
-      "pin_id": "251709066671583760",
-      "board": "Teacher Christmas Gifts",
-      "image": "pins/pin31_teacher_flair_quote.png",
-      "link": "/teacher-christmas-gifts/",
-      "style": "dark quote",
-      "headline": "I ran out of good pens in October. (Teacher Christmas gifts)",
-      "search_phrase": "teacher christmas gifts",
-      "title": "Teacher Christmas Gifts Under $25 They'll Actually Use: Flair Pens, Tumblers and More",
-      "title_added": true
-    },
-    {
-      "date": "2026-11-14",
-      "pin_id": "251709066671583763",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin32_stocking_ideas_callout.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "3-item callout",
-      "headline": "Stocking stuffer ideas: 3 small gifts everyone opens first",
-      "search_phrase": "stocking stuffer ideas",
-      "title": "Stocking Stuffer Ideas Under $15: 3 Small Gifts Everyone Opens First",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671583775",
-          "date": "2026-11-15"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "pin_id": "251709066671583766",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin33_stocking_adults_under15.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "headline (X under $Y)",
-      "headline": "Stocking Stuffers for Adults under $15",
-      "search_phrase": "stocking stuffers for adults",
-      "title": "Stocking Stuffers for Adults Under $15: Little Gifts Grown-Ups Actually Use",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671583776",
-          "date": "2026-11-15"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "pin_id": "251709066671583768",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin34_stocking_family_list.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "numbered list",
-      "headline": "Stocking Stuffer Ideas for the Whole Family",
-      "search_phrase": "stocking stuffer ideas",
-      "title": "Stocking Stuffer Ideas for the Whole Family: 13 Small Gifts Under $15",
-      "title_added": true
-    },
-    {
-      "date": "2026-11-14",
-      "pin_id": "251709066671583772",
-      "board": "Gifts for Mom",
-      "image": "pins/pin35_mom_robe_quote.png",
-      "link": "/gifts-for-mom/",
-      "style": "dark quote",
-      "headline": "Don't get me anything. ...okay, maybe a cozy robe. (Christmas gifts for mom)",
-      "search_phrase": "christmas gifts for mom",
-      "title": "Christmas Gifts for Mom Under $50 She'd Never Buy Herself: Cozy Robe, Massager and More",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Gifts for Her Under $50",
-          "repin_id": "251709066671583777",
-          "date": "2026-11-15"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "pin_id": "251709066671593138",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin36_stocking_dutchblitz_spotlight.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "single-product spotlight",
-      "headline": "Stocking stuffer ideas: the one the whole family plays on Christmas morning",
-      "search_phrase": "stocking stuffer ideas",
-      "title": "Stocking Stuffer Ideas: The Card Game the Whole Family Plays on Christmas Morning (Under $15)",
-      "title_added": true
-    },
-    {
-      "date": "2026-11-15",
-      "pin_id": "251709066671593143",
-      "board": "Gifts for Mom",
-      "image": "pins/pin37_mom_quietnight_quote.png",
-      "link": "/gifts-for-mom/",
-      "style": "dark quote",
-      "headline": "All I want is one quiet night to myself. (Gifts for mom)",
-      "search_phrase": "gifts for mom",
-      "title": "Gifts for Mom Who Wants a Quiet Night In: Spa Robe, Shower Steamers and More Under $50",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Gifts for Her Under $50",
-          "repin_id": "251709066671593172",
-          "date": "2026-11-15"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "pin_id": "251709066671593152",
-      "board": "Gifts for Mom",
-      "image": "pins/pin38_christmas_mom_under50.png",
-      "link": "/gifts-for-mom/",
-      "style": "headline (X under $Y)",
-      "headline": "Christmas Gifts for Mom under $50",
-      "search_phrase": "christmas gifts for mom",
-      "title": "Christmas Gifts for Mom Under $50: Massager, LEGO Flowers, Tea Sampler and More",
-      "title_added": true,
-      "also_saved_to": [
-        {
-          "board": "Gifts for Her Under $50",
-          "repin_id": "251709066671593173",
-          "date": "2026-11-15"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "pin_id": "251709066671593159",
-      "board": "Gifts for Him Under $50",
-      "image": "pins/pin39_men_haseverything_callout.png",
-      "link": "/gifts-for-him-under-50/",
-      "style": "3-item callout",
-      "headline": "Gifts for men who have everything: 3 he still doesn't have",
-      "search_phrase": "gifts for men who have everything",
-      "title": "Gifts for Men Who Have Everything Under $50: Massager, Moon Lamp, Docking Station",
-      "title_added": true
-    },
-    {
-      "date": "2026-11-15",
-      "pin_id": "251709066671593166",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin40_stocking_teens_under15.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "headline (X under $Y)",
-      "headline": "Stocking Stuffers for Teens under $15",
-      "search_phrase": "stocking stuffers for teens",
-      "title": "Stocking Stuffers for Teens Under $15: Socks, Beanie, Book Light and More",
-      "title_added": true
-    },
-    {
-      "date": "2026-11-16",
-      "pin_id": "251709066671603090",
-      "board": "Gifts for Mom",
-      "image": "pins/pin41_mom_haseverything_under50.png",
-      "link": "/gifts-for-mom/",
-      "style": "headline (X under $Y)",
-      "headline": "Gifts for Mom Who Has Everything under $50",
-      "search_phrase": "gifts for mom who has everything",
-      "title": "Gifts for Mom Who Has Everything Under $50: LEGO Flowers, Massager, Spa Robe and More",
-      "title_added": true,
-      "posted_via": "PinResource/create API (pin-builder page would not load)",
-      "also_saved_to": [
-        {
-          "board": "Gifts for Her Under $50",
-          "repin_id": "251709066671603135",
-          "date": "2026-11-16"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-16",
-      "pin_id": "251709066671603094",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin42_whiteelephant_waffle_quote.png",
-      "link": "/white-elephant-gifts-under-25/",
-      "style": "dark quote",
-      "headline": "Wait, who stole the waffle maker? (White elephant gift ideas under $25)",
-      "search_phrase": "white elephant gift ideas",
-      "title": "White Elephant Gift Ideas Under $25: Mini Waffle Maker, Tortilla Blanket and More People Steal",
-      "title_added": true,
-      "posted_via": "PinResource/create API (pin-builder page would not load)"
-    },
-    {
-      "date": "2026-11-16",
-      "pin_id": "251709066671603097",
-      "board": "Gifts for Him Under $50",
-      "image": "pins/pin43_christmas_dad_under50.png",
-      "link": "/gifts-for-dad-under-50/",
-      "style": "headline (X under $Y)",
-      "headline": "Christmas Gifts for Dad under $50",
-      "search_phrase": "christmas gifts for dad",
-      "title": "Christmas Gifts for Dad Under $50: Putting Green, Smash Burger Kit, Heating Pad and More",
-      "title_added": true,
-      "posted_via": "PinResource/create API (pin-builder page would not load)"
-    },
-    {
-      "date": "2026-11-16",
-      "pin_id": "251709066671603130",
-      "board": "Gifts for Mom",
-      "image": "pins/pin44_stocking_mom_under25.png",
-      "link": "/gifts-for-mom/",
-      "style": "headline (X under $Y)",
-      "headline": "Stocking Stuffers for Mom under $25",
-      "search_phrase": "stocking stuffers for mom",
-      "title": "Stocking Stuffers for Mom Under $25: Satin Pillowcase, Shower Steamers, Lip Mask and More",
-      "title_added": true,
-      "posted_via": "PinResource/create API (pin-builder page would not load)",
-      "also_saved_to": [
-        {
-          "board": "Gifts for Her Under $50",
-          "repin_id": "251709066671603138",
-          "date": "2026-11-16"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-16",
-      "pin_id": "251709066671603133",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin45_funny_whiteelephant_under25.png",
-      "link": "/white-elephant-gifts-under-25/",
-      "style": "headline (X under $Y)",
-      "headline": "Funny White Elephant Gifts under $25",
-      "search_phrase": "funny white elephant gifts",
-      "title": "Funny White Elephant Gifts Under $25: Tortilla Blanket, Pickle Light, Magic 8 Ball and More",
-      "title_added": true,
-      "posted_via": "PinResource/create API (pin-builder page would not load)"
-    },
-    {
-      "date": "2026-11-17",
-      "pin_id": "251709066671612088",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin46_stocking_teaser_no7.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "teaser (curiosity gap)",
-      "headline": "13 stocking stuffers. #7 is the one everyone asks about.",
-      "search_phrase": "stocking stuffers under $15",
-      "title": "Stocking Stuffers Under $15: 13 Small Gifts (and the #7 Pick Everyone Asks About)",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "breakout variation (strategy 2026-11-16)"
-    },
-    {
-      "date": "2026-11-17",
-      "pin_id": "251709066671612089",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin47_cheap_stocking_3under10.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "3-item callout",
-      "headline": "Cheap stocking stuffers: 3 under $10 nobody will guess were cheap",
-      "search_phrase": "cheap stocking stuffers",
-      "title": "Cheap Stocking Stuffers Under $10 That Nobody Will Guess Were Cheap",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671612094",
-          "date": "2026-11-17"
-        }
-      ],
-      "note": "breakout variation (strategy 2026-11-16)"
-    },
-    {
-      "date": "2026-11-17",
-      "pin_id": "251709066671612090",
-      "board": "Gifts for Him Under $50",
-      "image": "pins/pin48_dad_putting_spotlight.png",
-      "link": "/gifts-for-dad-under-50/",
-      "style": "single-product spotlight",
-      "headline": "Christmas gifts for dad: the gift he'll play with all Christmas Day",
-      "search_phrase": "christmas gifts for dad",
-      "title": "Christmas Gifts for Dad: Indoor Putting Green Mat He’ll Play With All Day",
-      "title_added": true,
-      "posted_via": "PinResource/create API"
-    },
-    {
-      "date": "2026-11-17",
-      "pin_id": "251709066671612091",
-      "board": "Gifts for Mom",
-      "image": "pins/pin49_mom_pillowcase_spotlight.png",
-      "link": "/gifts-for-mom/",
-      "style": "single-product spotlight",
-      "headline": "Gifts for mom: she'll thank you every morning",
-      "search_phrase": "gifts for mom",
-      "title": "Gifts for Mom: The Satin Pillowcase She’ll Thank You for Every Morning",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "also_saved_to": [
-        {
-          "board": "Gifts for Her Under $50",
-          "repin_id": "251709066671612096",
-          "date": "2026-11-17"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-17",
-      "pin_id": "251709066671612092",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin50_useful_whiteelephant_list.png",
-      "link": "/white-elephant-gifts-under-25/",
-      "style": "numbered list",
-      "headline": "White elephant gift ideas: useful gifts they'll be glad to take home",
-      "search_phrase": "white elephant gift ideas",
-      "title": "White Elephant Gift Ideas Under $25: Useful Gifts People Are Glad to Take Home",
-      "title_added": true,
-      "posted_via": "PinResource/create API"
-    },
-    {
-      "date": "2026-11-18",
-      "pin_id": "251709066671631420",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin51_stocking_teaser_nobody_buys.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "teaser (curiosity gap)",
-      "headline": "The stocking stuffer nobody thinks to buy (but everyone ends up needing)",
-      "search_phrase": "stocking stuffer ideas",
-      "title": "Stocking Stuffer Ideas: The One Nobody Thinks to Buy (But Everyone Needs)",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "breakout variation (strategy 2026-11-16); hidden pick is the password logbook"
-    },
-    {
-      "date": "2026-11-18",
-      "pin_id": "251709066671631423",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin52_stocking_whos_who.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "headline (X under $Y)",
-      "headline": "Stocking stuffers under $15: one for everyone on your list",
-      "search_phrase": "stocking stuffers under $15",
-      "title": "Stocking Stuffers Under $15: One Small Gift for Everyone on Your List",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671631433",
-          "date": "2026-11-18"
-        }
-      ],
-      "note": "breakout variation (strategy 2026-11-16)"
-    },
-    {
-      "date": "2026-11-18",
-      "pin_id": "251709066671631424",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin53_secretsanta_frother_spotlight.png",
-      "link": "/coworker-secret-santa-gifts-under-25/",
-      "style": "single-product spotlight",
-      "headline": "Secret Santa gifts for coworkers: the one everyone tries to steal",
-      "search_phrase": "secret santa gifts for coworkers",
-      "title": "Secret Santa Gifts for Coworkers: The Under-$15 Pick Everyone Tries to Steal",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671631434",
-          "date": "2026-11-18"
-        }
-      ],
-      "note": "launch boost"
-    },
-    {
-      "date": "2026-11-18",
-      "pin_id": "251709066671631426",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin54_coworker_quote.png",
-      "link": "/coworker-secret-santa-gifts-under-25/",
-      "style": "dark quote",
-      "headline": "You drew the new guy from accounting. (Christmas gifts for coworkers)",
-      "search_phrase": "christmas gifts for coworkers",
-      "title": "Christmas Gifts for Coworkers You Barely Know: Safe Bets Under $25",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "launch boost"
-    },
-    {
-      "date": "2026-11-18",
-      "pin_id": "251709066671631427",
-      "board": "Gifts for Her Under $50",
-      "image": "pins/pin55_giftbasket_headline.png",
-      "link": "/gift-basket-ideas/",
-      "style": "headline (X under $Y)",
-      "headline": "Christmas gift basket ideas: 4 DIY baskets under $50",
-      "search_phrase": "christmas gift basket ideas",
-      "title": "Christmas Gift Basket Ideas: 4 DIY Baskets Under $50 (With Filler Lists)",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "also_saved_to": [
-        {
-          "board": "Gifts for Mom",
-          "repin_id": "251709066671631436",
-          "date": "2026-11-18"
-        }
-      ],
-      "note": "launch boost (first gift basket pin)"
-    },
-    {
-      "date": "2026-11-19",
-      "pin_id": "251709066671647860",
-      "board": "Gifts for Her Under $50",
-      "image": "pins/pin56_her_headline.png",
-      "link": "/gifts-for-her-under-50/",
-      "style": "headline (X under $Y)",
-      "headline": "Gifts for Her under $50 (Gifts for girlfriend)",
-      "search_phrase": "gifts for girlfriend",
-      "title": "Gifts for Girlfriend Under $50: Little Luxuries She'd Never Buy Herself",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "launch boost"
-    },
-    {
-      "date": "2026-11-19",
-      "pin_id": "251709066671647862",
-      "board": "Gifts for Her Under $50",
-      "image": "pins/pin57_her_teaser.png",
-      "link": "/gifts-for-her-under-50/",
-      "style": "teaser (curiosity gap)",
-      "headline": "14 gifts for her under $50. #6 is the one she'll wear every day until March.",
-      "search_phrase": "gift ideas for women",
-      "title": "Gift Ideas for Women Under $50: 14 Picks (#6 Is the One She'll Wear All Winter)",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "launch boost"
-    },
-    {
-      "date": "2026-11-19",
-      "pin_id": "251709066671647863",
-      "board": "Gifts for Her Under $50",
-      "image": "pins/pin58_giftbasket_list.png",
-      "link": "/gift-basket-ideas/",
-      "style": "numbered list",
-      "headline": "Fill a gift basket for under $50",
-      "search_phrase": "christmas gift basket ideas",
-      "title": "Christmas Gift Basket Ideas Under $50: The Fillers That Make It Look Expensive",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "launch boost",
-      "also_saved_to": [
-        {
-          "board": "Gifts for Mom",
-          "repin_id": "251709066671647868",
-          "date": "2026-11-19"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "pin_id": "251709066671647865",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin59_stocking_teaser_stolen.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "teaser (curiosity gap)",
-      "headline": "The stocking stuffer that gets \"borrowed\" by noon",
-      "search_phrase": "cheap stocking stuffers",
-      "title": "Cheap Stocking Stuffers: The One That Gets \"Borrowed\" by Noon (Under $15)",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "breakout variation"
-    },
-    {
-      "date": "2026-11-19",
-      "pin_id": "251709066671647866",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin60_stocking_zero_filler.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "headline (X under $Y)",
-      "headline": "Under $15. Zero filler. (Stocking stuffer ideas)",
-      "search_phrase": "stocking stuffer ideas",
-      "title": "Stocking Stuffer Ideas Under $15: 13 Small Gifts With Zero Filler",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "breakout variation"
-    },
-    {
-      "date": "2026-11-20",
-      "pin_id": "251709066671666938",
-      "board": "Gifts for Him Under $50",
-      "image": "pins/pin61_dad_quote_red.png",
-      "link": "/gifts-for-dad-under-50/",
-      "style": "dark quote",
-      "palette": "christmas red",
-      "headline": "Don't spend money on me. (Christmas gifts for dad)",
-      "search_phrase": "christmas gifts for dad",
-      "title": "Christmas Gifts for Dad Under $50: 13 He'll Actually Use (Not Return)",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 1; click rules"
-    },
-    {
-      "date": "2026-11-20",
-      "pin_id": "251709066671666940",
-      "board": "Gifts for Mom",
-      "image": "pins/pin62_mom_teaser_pink.png",
-      "link": "/gifts-for-mom/",
-      "style": "teaser (curiosity gap)",
-      "palette": "candy pink",
-      "headline": "14 gifts for mom under $50. #3 is the one she'll live in all winter.",
-      "search_phrase": "gifts for mom",
-      "title": "Gifts for Mom Under $50: 14 Ideas, and #3 Is the One She'll Live In",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 2; click rules",
-      "also_saved_to": [
-        {
-          "board": "Gifts for Her Under $50",
-          "repin_id": "251709066671666954",
-          "date": "2026-11-20"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-20",
-      "pin_id": "251709066671666942",
-      "board": "Gifts for Him Under $50",
-      "image": "pins/pin63_dad_teaser_pink.png",
-      "link": "/gifts-for-dad-under-50/",
-      "style": "teaser (curiosity gap)",
-      "palette": "candy pink",
-      "headline": "13 gifts for dad. The #1 pick keeps him busy all winter (indoors).",
-      "search_phrase": "gifts for dad",
-      "title": "Gifts for Dad Under $50: 13 Ideas, and #1 Keeps Him Busy All Winter",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 3; click rules"
-    },
-    {
-      "date": "2026-11-20",
-      "pin_id": "251709066671666947",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin64_stocking_teaser_navy.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "teaser (curiosity gap)",
-      "palette": "midnight navy",
-      "headline": "13 stocking stuffers under $15. #9 sounds silly. They'll use it every week.",
-      "search_phrase": "stocking stuffers under $15",
-      "title": "Stocking Stuffers Under $15: 13 Ideas, and #9 Gets Used Every Week",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "breakout variation; click rules"
-    },
-    {
-      "date": "2026-11-20",
-      "pin_id": "251709066671666949",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin65_stocking_cheap_white.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "numbered list",
-      "palette": "bold white",
-      "headline": "13 Cheap Stocking Stuffers (that won't end up in a drawer)",
-      "search_phrase": "cheap stocking stuffers",
-      "title": "Cheap Stocking Stuffers: 13 Under $15 That Won't End Up in a Drawer",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "breakout variation; click rules",
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671666957",
-          "date": "2026-11-20"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-20",
-      "pin_id": "251709066671668882",
-      "board": "White Elephant Gift Ideas",
-      "image": "canva:DAHbfE3o5xY",
-      "canva_url": "https://canva.link/hbqd9893pin68gw",
-      "link": "/white-elephant-gifts-under-25/",
-      "style": "canva photo pin",
-      "palette": "evergreen gold",
-      "headline": "15 White Elephant Gifts Under $25",
-      "search_phrase": "white elephant gift ideas",
-      "title_added": true,
-      "title": "White Elephant Gift Ideas Under $25: 15 Gifts Everyone Will Try to Steal",
-      "posted_via": "pin/create/button + PinResource/update title",
-      "note": "canva photo pin test #1"
-    },
-    {
-      "date": "2026-11-21",
-      "pin_id": "251709066671686590",
-      "board": "Gifts for Mom",
-      "image": "pins/pin66_grandma_quote_white.png",
-      "link": "/gifts-for-grandma-under-50/",
-      "style": "dark quote",
-      "palette": "bold white",
-      "headline": "Oh honey, you didn't have to. (14 gifts for grandma under $50)",
-      "search_phrase": "gifts for grandma",
-      "title": "Gifts for Grandma Under $50: 14 Cozy, Useful Ideas She'll Actually Use",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 1; launch boost; click rules"
-    },
-    {
-      "date": "2026-11-21",
-      "pin_id": "251709066671686593",
-      "board": "Gifts for Mom",
-      "image": "pins/pin67_grandma_teaser_pink.png",
-      "link": "/gifts-for-grandma-under-50/",
-      "style": "teaser (curiosity gap)",
-      "palette": "candy pink",
-      "headline": "14 gifts for grandma under $50. #1 is the one she'll use every single night.",
-      "search_phrase": "christmas gifts for grandma",
-      "title": "Christmas Gifts for Grandma Under $50: 14 Ideas (#1 She'll Use Every Night)",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 2; launch boost; click rules"
-    },
-    {
-      "date": "2026-11-21",
-      "pin_id": "251709066671686594",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin68_stocking_callout_white.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "3-item callout",
-      "palette": "bold white",
-      "headline": "3 stocking stuffers they'll actually keep",
-      "search_phrase": "stocking stuffer ideas",
-      "title": "Stocking Stuffer Ideas: 3 Tiny Gifts They'll Actually Keep (13 Under $15)",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 3; counts as breakout variation 1; click rules",
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671686604",
-          "date": "2026-11-21"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-21",
-      "pin_id": "251709066671686598",
-      "board": "Gifts for Mom",
-      "image": "pins/pin69_grandma_headline_navy.png",
-      "link": "/gifts-for-grandma-under-50/",
-      "style": "headline (X under $Y)",
-      "palette": "midnight navy",
-      "headline": "14 Christmas Gifts for Grandma under $50",
-      "search_phrase": "christmas gifts for grandma",
-      "title": "Christmas Gifts for Grandma: 14 Cozy, Useful Picks Under $50",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 4; click rules"
-    },
-    {
-      "date": "2026-11-21",
-      "pin_id": "251709066671686601",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin70_stocking_teaser_green.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "teaser (curiosity gap)",
-      "palette": "evergreen gold",
-      "headline": "13 stocking stuffers under $15. Save the last one for the end. It wins Christmas morning.",
-      "search_phrase": "cheap stocking stuffers",
-      "title": "Cheap Stocking Stuffers: 13 Under $15 (Save the Last One for the End)",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "breakout variation 2 (teaser); click rules"
-    },
-    {
-      "date": "2026-11-21",
-      "pin_id": "251709066671688525",
-      "board": "Gifts for Mom",
-      "image": "canva:DAHblAY21Ss",
-      "canva_url": "https://canva.link/lb61wpylz2bcgcv",
-      "link": "/gifts-for-mom/",
-      "style": "canva photo pin",
-      "palette": "candy pink",
-      "headline": "14 Gifts for Mom Under $50",
-      "search_phrase": "gifts for mom",
-      "title_added": true,
-      "title": "Gifts for Mom Under $50: 14 Cozy Christmas Ideas She'll Actually Use",
-      "posted_via": "pin/create/button + PinResource/update title",
-      "note": "canva photo pin test #2; 3 picks per click rules"
-    },
-    {
-      "date": "2026-11-22",
-      "pin_id": "251709066671705926",
-      "board": "Gifts for Mom",
-      "image": "pins/pin71_grandma_list_green.png",
-      "link": "/gifts-for-grandma-under-50/",
-      "style": "numbered list",
-      "palette": "evergreen gold",
-      "format": "short",
-      "headline": "14 gifts for grandma under $50",
-      "search_phrase": "gifts for grandma",
-      "title": "Gifts for Grandma Under $50: 14 Cozy Christmas Ideas She Will Actually Use",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 1; design v2"
-    },
-    {
-      "date": "2026-11-22",
-      "pin_id": "251709066671705930",
-      "board": "Gifts for Her Under $50",
-      "image": "pins/pin72_basket_teaser_pink.png",
-      "link": "/gift-basket-ideas/",
-      "style": "teaser (curiosity gap)",
-      "palette": "candy pink",
-      "format": "wordy",
-      "headline": "4 DIY gift baskets. The movie night one wins.",
-      "search_phrase": "christmas gift basket ideas",
-      "title": "Christmas Gift Basket Ideas: 4 DIY Baskets Under $50 (Movie Night, Cozy, Spa, Coffee)",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 2; design v2",
-      "also_saved_to": [
-        {
-          "board": "Gifts for Mom",
-          "repin_id": "251709066671705937",
-          "date": "2026-11-22"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "pin_id": "251709066671705931",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin73_coworker_list_white.png",
-      "link": "/coworker-secret-santa-gifts-under-25/",
-      "style": "numbered list",
-      "palette": "bold white",
-      "format": "short",
-      "headline": "Secret Santa gifts under $25",
-      "search_phrase": "secret santa gifts",
-      "title": "Secret Santa Gifts Under $25: 13 Coworker Gift Ideas That Don't Feel Generic",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 3; design v2"
-    },
-    {
-      "date": "2026-11-22",
-      "pin_id": "251709066671705932",
-      "board": "Gifts for Her Under $50",
-      "image": "pins/pin74_her_spotlight_navy.png",
-      "link": "/gifts-for-her-under-50/",
-      "style": "single-product spotlight",
-      "palette": "midnight navy",
-      "format": "short",
-      "headline": "The satin pillowcase she'll love",
-      "search_phrase": "gifts for her",
-      "title": "Gifts for Her Under $50: The Satin Pillowcase She'll Love + 13 More Ideas",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 5 (slots 4 dad + 6 mom replaced by the 2 breakout stocking variations, last breakout day); design v2"
-    },
-    {
-      "date": "2026-11-22",
-      "pin_id": "251709066671705934",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin75_stocking_teaser_red.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "teaser (curiosity gap)",
-      "palette": "christmas red",
-      "format": "wordy",
-      "headline": "13 stocking stuffers under $15. The last one gets the biggest laugh.",
-      "search_phrase": "stocking stuffers under $15",
-      "title": "Stocking Stuffers Under $15: 13 Cheap Ideas (The Last One Gets the Biggest Laugh)",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "breakout variation 1 (palette chosen manually); design v2",
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671705938",
-          "date": "2026-11-22"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "pin_id": "251709066671705935",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin76_stocking_headline_cream.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "headline (X under $Y)",
-      "palette": "cream classic",
-      "format": "wordy",
-      "headline": "Stocking stuffer ideas under $15",
-      "search_phrase": "stocking stuffer ideas",
-      "title": "Stocking Stuffer Ideas Under $15: 13 Small Gifts They'll Keep All Year",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "breakout variation 2 (palette chosen manually); design v2"
-    },
-    {
-      "date": "2026-11-22",
-      "pin_id": "251709066671707898",
-      "board": "Teacher Christmas Gifts",
-      "image": "canva:DAHbsMtzlYQ",
-      "canva_url": "https://canva.link/ato2exrb3iem9kk",
-      "link": "/teacher-christmas-gifts/",
-      "style": "canva photo pin",
-      "palette": "christmas red",
-      "headline": "14 Teacher Christmas Gifts Under $25",
-      "search_phrase": "teacher christmas gifts",
-      "title_added": true,
-      "title": "Teacher Christmas Gifts Under $25: 14 Practical Picks Teachers Use (No Mugs)",
-      "posted_via": "pin/create/button + PinResource/update title",
-      "note": "canva photo pin test #3; 3 picks per click rules"
-    },
-    {
-      "date": "2026-11-23",
-      "pin_id": "251709066671718629",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin77_neighbor_headline_green.png",
-      "link": "/neighbor-christmas-gifts-under-15/",
-      "style": "headline (X under $Y)",
-      "palette": "evergreen gold",
-      "format": "short",
-      "headline": "Neighbor Christmas gifts under $15",
-      "search_phrase": "neighbor christmas gifts",
-      "title": "Neighbor Christmas Gifts Under $15: 14 Easy Ideas for the Whole Street",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 1 (launch boost); design v2"
-    },
-    {
-      "date": "2026-11-23",
-      "pin_id": "251709066671718632",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin78_neighbor_teaser_red.png",
-      "link": "/neighbor-christmas-gifts-under-15/",
-      "style": "teaser (curiosity gap)",
-      "palette": "christmas red",
-      "format": "wordy",
-      "headline": "14 neighbor gifts under $15. #6 is the crowd favorite.",
-      "search_phrase": "christmas gifts for neighbors",
-      "title": "Christmas Gifts for Neighbors: 14 Under $15 (#6 Is the Crowd Favorite)",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 2 (launch boost); design v2",
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671718647",
-          "date": "2026-11-23"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-23",
-      "pin_id": "251709066671718634",
-      "board": "Gifts for Him Under $50",
-      "image": "pins/pin79_him_list_navy.png",
-      "link": "/gifts-for-him-under-50/",
-      "style": "numbered list",
-      "palette": "midnight navy",
-      "format": "short",
-      "headline": "Gifts for boyfriend under $50",
-      "search_phrase": "gifts for boyfriend",
-      "title": "Gifts for Boyfriend Under $50: 12 Christmas Ideas He Will Actually Use",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 3; design v2"
-    },
-    {
-      "date": "2026-11-23",
-      "pin_id": "251709066671718638",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin80_elephant_list_cream.png",
-      "link": "/white-elephant-gifts-under-25/",
-      "style": "numbered list",
-      "palette": "cream classic",
-      "format": "wordy",
-      "headline": "15 white elephant gift ideas under $25",
-      "search_phrase": "white elephant gift ideas",
-      "title": "White Elephant Gift Ideas Under $25: 15 Funny + Useful Picks People Steal",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 4; design v2",
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671718648",
-          "date": "2026-11-23"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-23",
-      "pin_id": "251709066671718640",
-      "board": "Gifts for Her Under $50",
-      "image": "pins/pin81_her_minimal_pink.png",
-      "link": "/gifts-for-her-under-50/",
-      "style": "minimal (big headline)",
-      "palette": "candy pink",
-      "format": "short",
-      "headline": "Gifts for her she'll actually use",
-      "search_phrase": "gifts for her",
-      "title": "Gifts for Her Under $50: 14 Christmas Ideas She Will Actually Use",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 5; design v2"
-    },
-    {
-      "date": "2026-11-23",
-      "pin_id": "251709066671718642",
-      "board": "Teacher Christmas Gifts",
-      "image": "pins/pin82_teacher_quote_pink.png",
-      "link": "/teacher-christmas-gifts/",
-      "style": "dark quote",
-      "palette": "candy pink",
-      "format": "wordy",
-      "headline": "Teachers don't need another mug.",
-      "search_phrase": "teacher christmas gifts",
-      "title": "Teacher Christmas Gifts Under $25: 14 Ideas Teachers Use (Not Another Mug)",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "note": "bandit slot 6; design v2"
-    },
-    {
-      "date": "2026-11-23",
-      "pin_id": "251709066671720360",
-      "board": "White Elephant Gift Ideas",
-      "image": "canva:DAHbxLlhjTs",
-      "canva_url": "https://canva.link/8tfmvgj992ss2m0",
-      "link": "/coworker-secret-santa-gifts-under-25/",
-      "style": "canva photo pin",
-      "palette": "midnight navy",
-      "headline": "13 Secret Santa Gifts Under $25",
-      "search_phrase": "secret santa gifts",
-      "title_added": true,
-      "title": "Secret Santa Gifts for Coworkers Under $25: 13 Desk-Friendly Picks They'll Use",
-      "posted_via": "pin/create/button + PinResource/update title",
-      "note": "canva photo pin test #4; 3 picks per click rules"
-    },
-    {
-      "date": "2026-11-23",
-      "pin_id": "251709066671722081",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin83_stocking_refresh_list_cream.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "numbered list",
-      "palette": "cream classic",
-      "format": "wordy",
-      "headline": "Stocking Stuffers People Actually Use",
-      "search_phrase": "stocking stuffers under $15",
-      "title": "Stocking Stuffers Under $15: 13 Small Gifts People Actually Use",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "refresh_of": "251709066671355968",
-      "note": "REFRESH of a top-reach pin (Micah approved 2026-11-23); extra to the 6 bandit pins today"
-    },
-    {
-      "date": "2026-11-23",
-      "pin_id": "251709066671722082",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin84_secretsanta_refresh_list_cream.png",
-      "link": "/coworker-secret-santa-gifts-under-25/",
-      "style": "numbered list",
-      "palette": "cream classic",
-      "format": "wordy",
-      "headline": "Secret Santa Gift Ideas Under $25",
-      "search_phrase": "secret santa gifts",
-      "title": "Secret Santa Gift Ideas Under $25: 13 Coworker Gifts Nobody Re-Gifts",
-      "title_added": true,
-      "posted_via": "PinResource/create API",
-      "refresh_of": "251709066671515317",
-      "note": "REFRESH of a top-reach pin (Micah approved 2026-11-23); extra to the 6 bandit pins today"
-    },
-    {
-      "date": "2026-11-24",
-      "pin_id": "251709066671734748",
-      "board": "Gifts for Her Under $50",
-      "image": "pins/pin85_her_spotlight_green.png",
-      "link": "/gifts-for-her-under-50/",
-      "style": "single-product spotlight",
-      "palette": "evergreen gold",
-      "format": "short",
-      "headline": "Gifts for her: the candle she'll love",
-      "search_phrase": "gifts for her",
-      "title": "Gifts for Her Under $50: The Cozy Candle She'll Love + 13 More Ideas",
-      "note": "bandit slot 1; design v2",
-      "title_added": true,
-      "posted_via": "PinResource/create API"
-    },
-    {
-      "date": "2026-11-24",
-      "pin_id": "251709066671734750",
-      "board": "Gifts for Mom",
-      "image": "pins/pin86_mom_teaser_green.png",
-      "link": "/gifts-for-mom/",
-      "style": "teaser (curiosity gap)",
-      "palette": "evergreen gold",
-      "format": "wordy",
-      "headline": "14 Christmas gifts for mom. #9 is the one she'd never buy herself.",
-      "search_phrase": "christmas gifts for mom",
-      "title": "Christmas Gifts for Mom: 14 Ideas Under $50 (#9 She'd Never Buy Herself)",
-      "note": "bandit slot 2",
-      "also_saved_to": [
-        {
-          "board": "Gifts for Her Under $50",
-          "repin_id": "251709066671734759",
-          "date": "2026-11-24"
-        }
-      ],
-      "title_added": true,
-      "posted_via": "PinResource/create API"
-    },
-    {
-      "date": "2026-11-24",
-      "pin_id": "251709066671734752",
-      "board": "Teacher Christmas Gifts",
-      "image": "pins/pin87_teacher_callout_white.png",
-      "link": "/teacher-christmas-gifts/",
-      "style": "3-item callout",
-      "palette": "bold white",
-      "format": "short",
-      "headline": "Teacher Christmas gifts they'll use",
-      "search_phrase": "teacher christmas gifts",
-      "title": "Teacher Christmas Gifts Under $25: 14 Ideas They'll Actually Use",
-      "note": "bandit slot 3 (style/palette/format kept; guide swapped gifts-for-mom -> teacher because mom already had slot 2 and strategy asks for 1 teacher pin/day); design v2",
-      "title_added": true,
-      "posted_via": "PinResource/create API"
-    },
-    {
-      "date": "2026-11-24",
-      "pin_id": "251709066671734754",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin88_elephant_headline_navy.png",
-      "link": "/white-elephant-gifts-under-25/",
-      "style": "headline (X under $Y)",
-      "palette": "midnight navy",
-      "format": "wordy",
-      "headline": "Funny White Elephant Gifts Under $25",
-      "search_phrase": "funny white elephant gifts",
-      "title": "Funny White Elephant Gifts Under $25: 15 Picks Worth Stealing",
-      "note": "bandit slot 4",
-      "title_added": true,
-      "posted_via": "PinResource/create API"
-    },
-    {
-      "date": "2026-11-24",
-      "pin_id": "251709066671734756",
-      "board": "Stocking Stuffers Under $15",
-      "image": "pins/pin89_men_refresh_list_cream.png",
-      "link": "/stocking-stuffers-under-15/",
-      "style": "numbered list",
-      "palette": "cream classic",
-      "format": "wordy",
-      "headline": "Stocking Stuffers for Men He'll Use",
-      "search_phrase": "stocking stuffers for men",
-      "title": "Stocking Stuffers for Men Under $15: 13 Small Gifts He'll Actually Use",
-      "refresh_of": "251709066671414682",
-      "note": "REFRESH (replaces bandit slot 5)",
-      "also_saved_to": [
-        {
-          "board": "Gifts for Him Under $50",
-          "repin_id": "251709066671734762",
-          "date": "2026-11-24"
-        }
-      ],
-      "title_added": true,
-      "posted_via": "PinResource/create API"
-    },
-    {
-      "date": "2026-11-24",
-      "pin_id": "251709066671734757",
-      "board": "White Elephant Gift Ideas",
-      "image": "pins/pin90_elephant_refresh_list_cream.png",
-      "link": "/white-elephant-gifts-under-25/",
-      "style": "numbered list",
-      "palette": "cream classic",
-      "format": "wordy",
-      "headline": "White Elephant Gift Ideas People Fight Over",
-      "search_phrase": "white elephant gift ideas",
-      "title": "White Elephant Gift Ideas Under $25: 15 Gifts People Fight Over",
-      "refresh_of": "251709066671383041",
-      "note": "REFRESH (replaces bandit slot 6)",
-      "also_saved_to": [
-        {
-          "board": "Amazon Finds Under $25",
-          "repin_id": "251709066671734763",
-          "date": "2026-11-24"
-        }
-      ],
-      "title_added": true,
-      "posted_via": "PinResource/create API"
+  {
+   "date": "2026-11-05",
+   "pin_id": "251709066671355695",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin2_quote.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "dark quote",
+   "title_added": true,
+   "title": "Gifts for Him Under $50 for the Guy Who Says He Doesn't Need Anything"
+  },
+  {
+   "date": "2026-11-05",
+   "pin_id": "251709066671355701",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin3_grill.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "3-item callout",
+   "title_added": true,
+   "title": "Gifts for Him Under $50: 3 Grill Gifts for the BBQ Guy",
+   "also_saved_to": [
+    {
+     "board": "Kitchen Gifts Under $50",
+     "repin_id": "251709066671412031",
+     "date": "2026-11-07"
     }
-  ]
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "pin_id": "251709066671355968",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin4_stocking_list.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "numbered list",
+   "headline": "Stocking Stuffers Under $15",
+   "title_added": true,
+   "title": "Stocking Stuffers Under $15 for Adults That Won't End Up in a Drawer"
+  },
+  {
+   "date": "2026-11-06",
+   "pin_id": "251709066671355984",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin5_stocking_under10.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "X under $Y headline",
+   "headline": "Stocking stuffers under $10",
+   "title_added": true,
+   "title": "Stocking Stuffers Under $10: Cheap Little Gifts Adults Actually Love",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671412033",
+     "date": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "pin_id": "251709066671356023",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin6_him_dock.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "single-product spotlight",
+   "headline": "The nightstand gift he didn't know he needed",
+   "title_added": true,
+   "title": "Gifts for Him Under $50: Wood Phone Docking Station for His Nightstand"
+  },
+  {
+   "date": "2026-11-07",
+   "pin_id": "251709066671383038",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin7_stocking_men_spotlight.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "single-product spotlight",
+   "headline": "Stocking stuffers for men: the tiny gift he'll use all year",
+   "search_phrase": "stocking stuffers for men",
+   "title": "Stocking Stuffers for Men: The Tiny Gift He Will Use All Year",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Him Under $50",
+     "repin_id": "251709066671412036",
+     "date": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "pin_id": "251709066671383041",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin8_white_elephant_list.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "headline": "White Elephant Gift Ideas Under $25",
+   "search_phrase": "white elephant gift ideas",
+   "title": "White Elephant Gift Ideas Under $25 That Get Stolen Twice",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671412023",
+     "date": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "pin_id": "251709066671383047",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin9_him_everyday_callout.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "3-item callout",
+   "headline": "3 gifts he'll use every day",
+   "search_phrase": "gifts for him under $50",
+   "title": "Gifts for Him Under $50: 3 Everyday Gifts He Will Use Daily",
+   "title_added": true
+  },
+  {
+   "date": "2026-11-08",
+   "pin_id": "251709066671414682",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin10_stocking_men_list.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "numbered list",
+   "headline": "Stocking Stuffers for Men Under $15",
+   "search_phrase": "stocking stuffers for men",
+   "title": "Stocking Stuffers for Men Under $15: Little Gifts He Will Actually Keep",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Him Under $50",
+     "repin_id": "251709066671414717",
+     "date": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "pin_id": "251709066671414692",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin11_him_tech_callout.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "3-item callout",
+   "headline": "3 tech gifts he'll love",
+   "search_phrase": "gifts for him under $50",
+   "title": "Gifts for Him Under $50: 3 Tech Gifts That Feel Way More Expensive",
+   "title_added": true
+  },
+  {
+   "date": "2026-11-08",
+   "pin_id": "251709066671414702",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin12_white_elephant_funny_callout.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "3-item callout",
+   "headline": "3 funny gifts under $25",
+   "search_phrase": "white elephant gift ideas",
+   "title": "White Elephant Gift Ideas Under $25: 3 Funny Gifts That Get Stolen",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671414719",
+     "date": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-09",
+   "pin_id": "251709066671451155",
+   "board": "Gifts for Mom",
+   "image": "pins/pin13_mom_under25.png",
+   "link": "/gifts-for-mom/",
+   "style": "headline (X under $Y)",
+   "headline": "Gifts for Mom under $25",
+   "search_phrase": "gifts for mom",
+   "title": "Gifts for Mom Under $25: Cozy Christmas Gifts She Would Never Buy Herself",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671451185",
+     "date": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-09",
+   "pin_id": "251709066671451160",
+   "board": "Gifts for Mom",
+   "image": "pins/pin14_mom_quote.png",
+   "link": "/gifts-for-mom/",
+   "style": "dark quote",
+   "headline": "Oh, honey, I don't want anything.",
+   "search_phrase": "gifts for mom",
+   "title": "Gifts for Mom Who Says She Wants Nothing: Cozy Christmas Ideas Under $50",
+   "title_added": true
+  },
+  {
+   "date": "2026-11-09",
+   "pin_id": "251709066671451169",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin15_stocking_quote.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "dark quote",
+   "headline": "Wait, there's more in the stocking?",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas for Adults: 13 Small Gifts Under $15 They Will Use",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671451186",
+     "date": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "pin_id": "251709066671486077",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin16_white_elephant_under20.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "headline (X under $Y)",
+   "headline": "White Elephant Gift Ideas under $20",
+   "search_phrase": "white elephant gift ideas",
+   "title_added": true,
+   "title": "White Elephant Gift Ideas Under $20: Funny, Useful Gifts People Actually Steal",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671486111",
+     "date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "pin_id": "251709066671486085",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin17_cheap_christmas_under10.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "headline (X under $Y)",
+   "headline": "Cheap Christmas Gifts under $10",
+   "search_phrase": "cheap christmas gifts",
+   "title_added": true,
+   "title": "Cheap Christmas Gifts Under $10: Small Stocking Stuffers That Still Feel Thoughtful",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671486112",
+     "date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "pin_id": "251709066671486102",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin18_stocking_booklight_spotlight.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "single-product spotlight",
+   "headline": "The stocking stuffer every reader wants",
+   "search_phrase": "stocking stuffer ideas",
+   "title_added": true,
+   "title": "Stocking Stuffer Ideas for Readers: Clip-On Book Light and 12 More Gifts Under $15"
+  },
+  {
+   "date": "2026-11-11",
+   "pin_id": "251709066671515312",
+   "board": "Teacher Christmas Gifts",
+   "image": "pins/pin19_teacher_quote.png",
+   "link": "/teacher-christmas-gifts/",
+   "style": "dark quote",
+   "headline": "Please, no more mugs. (Teacher Christmas gifts)",
+   "search_phrase": "teacher christmas gifts",
+   "title_added": true,
+   "title": "Teacher Christmas Gifts Under $25 Teachers Actually Want (No More Mugs!)"
+  },
+  {
+   "date": "2026-11-11",
+   "pin_id": "251709066671515315",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin20_stocking_men_under15.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "headline (X under $Y)",
+   "headline": "Stocking Stuffers for Men under $15",
+   "search_phrase": "stocking stuffers for men",
+   "title_added": true,
+   "title": "Stocking Stuffers for Men Under $15: Small Gifts He'll Actually Keep",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Him Under $50",
+     "repin_id": "251709066671515321",
+     "date": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "pin_id": "251709066671515317",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin21_secret_santa_list.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "headline": "Secret Santa Gifts Under $25",
+   "search_phrase": "secret santa gifts",
+   "title_added": true,
+   "title": "Secret Santa Gifts Under $25: Safe Gift Exchange Ideas for Coworkers",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671515323",
+     "date": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "pin_id": "251709066671535174",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin22_men_socks_quote.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "dark quote",
+   "headline": "Just get me socks or something. (Gift ideas for men)",
+   "search_phrase": "gift ideas for men",
+   "title": "Gift Ideas for Men Under $50: 12 Practical Gifts He'll Actually Use (Not Socks)",
+   "title_added": true,
+   "date": "2026-11-12"
+  },
+  {
+   "pin_id": "251709066671535179",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin23_white_elephant_steal_list.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "headline": "White Elephant Gift Ideas People Steal",
+   "search_phrase": "white elephant gift ideas",
+   "title": "White Elephant Gift Ideas People Actually Steal: Funny Gifts Under $25",
+   "title_added": true,
+   "date": "2026-11-12",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671535189",
+     "date": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "pin_id": "251709066671535182",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin24_stocking_nogifts_quote.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "dark quote",
+   "headline": "We said no gifts. Stockings don't count. (Stocking stuffer ideas)",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas for Adults Under $15: Small Gifts They'll Actually Use",
+   "title_added": true,
+   "date": "2026-11-12"
+  },
+  {
+   "date": "2026-11-13",
+   "pin_id": "251709066671551344",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin25_stocking_women_under15.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "headline (X under $Y)",
+   "headline": "Stocking Stuffers for Women under $15 (Little luxuries she'll use)",
+   "search_phrase": "stocking stuffers for women",
+   "title": "Stocking Stuffers for Women Under $15: Little Luxuries She'll Actually Use",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671551352",
+     "date": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "pin_id": "251709066671551348",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin26_stocking_men_callout.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "3-item callout",
+   "headline": "Stocking stuffers for men: 3 he won't toss in a drawer",
+   "search_phrase": "stocking stuffers for men",
+   "title": "Stocking Stuffers for Men Under $15: 3 Useful Gifts He Won't Toss in a Drawer",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Him Under $50",
+     "repin_id": "251709066671551353",
+     "date": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "pin_id": "251709066671551349",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin27_cheap_christmas_callout.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "3-item callout",
+   "headline": "Cheap Christmas gifts: 3 that don't look cheap",
+   "search_phrase": "cheap christmas gifts",
+   "title": "Cheap Christmas Gifts That Don't Look Cheap: Budget Gift Ideas Under $15",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671551356",
+     "date": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "pin_id": "251709066671562700",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin28_white_elephant_coworkers_list.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "headline": "White Elephant Gifts for Coworkers",
+   "search_phrase": "white elephant gifts for coworkers",
+   "title": "White Elephant Gifts for Coworkers: Office-Safe Gift Exchange Ideas Under $25",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671562720",
+     "date": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "pin_id": "251709066671562707",
+   "board": "Gifts for Mom",
+   "image": "pins/pin29_mom_massager_spotlight.png",
+   "link": "/gifts-for-mom/",
+   "style": "single-product spotlight",
+   "headline": "Christmas gifts for mom: the gift she'll use every single night",
+   "search_phrase": "christmas gifts for mom",
+   "title": "Christmas Gifts for Mom: The Heated Neck Massager She'll Use Every Night (Under $50)",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671562721",
+     "date": "2026-11-13"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "pin_id": "251709066671562714",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin30_dad_callout.png",
+   "link": "/gifts-for-dad-under-50/",
+   "style": "3-item callout",
+   "headline": "Gifts for dad under $50: 3 he'll actually use this winter",
+   "search_phrase": "gifts for dad",
+   "title": "Gifts for Dad Under $50: 3 Christmas Gifts He'll Actually Use This Winter",
+   "title_added": true
+  },
+  {
+   "date": "2026-11-14",
+   "pin_id": "251709066671583760",
+   "board": "Teacher Christmas Gifts",
+   "image": "pins/pin31_teacher_flair_quote.png",
+   "link": "/teacher-christmas-gifts/",
+   "style": "dark quote",
+   "headline": "I ran out of good pens in October. (Teacher Christmas gifts)",
+   "search_phrase": "teacher christmas gifts",
+   "title": "Teacher Christmas Gifts Under $25 They'll Actually Use: Flair Pens, Tumblers and More",
+   "title_added": true
+  },
+  {
+   "date": "2026-11-14",
+   "pin_id": "251709066671583763",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin32_stocking_ideas_callout.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "3-item callout",
+   "headline": "Stocking stuffer ideas: 3 small gifts everyone opens first",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas Under $15: 3 Small Gifts Everyone Opens First",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671583775",
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "pin_id": "251709066671583766",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin33_stocking_adults_under15.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "headline (X under $Y)",
+   "headline": "Stocking Stuffers for Adults under $15",
+   "search_phrase": "stocking stuffers for adults",
+   "title": "Stocking Stuffers for Adults Under $15: Little Gifts Grown-Ups Actually Use",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671583776",
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "pin_id": "251709066671583768",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin34_stocking_family_list.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "numbered list",
+   "headline": "Stocking Stuffer Ideas for the Whole Family",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas for the Whole Family: 13 Small Gifts Under $15",
+   "title_added": true
+  },
+  {
+   "date": "2026-11-14",
+   "pin_id": "251709066671583772",
+   "board": "Gifts for Mom",
+   "image": "pins/pin35_mom_robe_quote.png",
+   "link": "/gifts-for-mom/",
+   "style": "dark quote",
+   "headline": "Don't get me anything. ...okay, maybe a cozy robe. (Christmas gifts for mom)",
+   "search_phrase": "christmas gifts for mom",
+   "title": "Christmas Gifts for Mom Under $50 She'd Never Buy Herself: Cozy Robe, Massager and More",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671583777",
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "pin_id": "251709066671593138",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin36_stocking_dutchblitz_spotlight.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "single-product spotlight",
+   "headline": "Stocking stuffer ideas: the one the whole family plays on Christmas morning",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas: The Card Game the Whole Family Plays on Christmas Morning (Under $15)",
+   "title_added": true
+  },
+  {
+   "date": "2026-11-15",
+   "pin_id": "251709066671593143",
+   "board": "Gifts for Mom",
+   "image": "pins/pin37_mom_quietnight_quote.png",
+   "link": "/gifts-for-mom/",
+   "style": "dark quote",
+   "headline": "All I want is one quiet night to myself. (Gifts for mom)",
+   "search_phrase": "gifts for mom",
+   "title": "Gifts for Mom Who Wants a Quiet Night In: Spa Robe, Shower Steamers and More Under $50",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671593172",
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "pin_id": "251709066671593152",
+   "board": "Gifts for Mom",
+   "image": "pins/pin38_christmas_mom_under50.png",
+   "link": "/gifts-for-mom/",
+   "style": "headline (X under $Y)",
+   "headline": "Christmas Gifts for Mom under $50",
+   "search_phrase": "christmas gifts for mom",
+   "title": "Christmas Gifts for Mom Under $50: Massager, LEGO Flowers, Tea Sampler and More",
+   "title_added": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671593173",
+     "date": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "pin_id": "251709066671593159",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin39_men_haseverything_callout.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "3-item callout",
+   "headline": "Gifts for men who have everything: 3 he still doesn't have",
+   "search_phrase": "gifts for men who have everything",
+   "title": "Gifts for Men Who Have Everything Under $50: Massager, Moon Lamp, Docking Station",
+   "title_added": true
+  },
+  {
+   "date": "2026-11-15",
+   "pin_id": "251709066671593166",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin40_stocking_teens_under15.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "headline (X under $Y)",
+   "headline": "Stocking Stuffers for Teens under $15",
+   "search_phrase": "stocking stuffers for teens",
+   "title": "Stocking Stuffers for Teens Under $15: Socks, Beanie, Book Light and More",
+   "title_added": true
+  },
+  {
+   "date": "2026-11-16",
+   "pin_id": "251709066671603090",
+   "board": "Gifts for Mom",
+   "image": "pins/pin41_mom_haseverything_under50.png",
+   "link": "/gifts-for-mom/",
+   "style": "headline (X under $Y)",
+   "headline": "Gifts for Mom Who Has Everything under $50",
+   "search_phrase": "gifts for mom who has everything",
+   "title": "Gifts for Mom Who Has Everything Under $50: LEGO Flowers, Massager, Spa Robe and More",
+   "title_added": true,
+   "posted_via": "PinResource/create API (pin-builder page would not load)",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671603135",
+     "date": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "pin_id": "251709066671603094",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin42_whiteelephant_waffle_quote.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "dark quote",
+   "headline": "Wait, who stole the waffle maker? (White elephant gift ideas under $25)",
+   "search_phrase": "white elephant gift ideas",
+   "title": "White Elephant Gift Ideas Under $25: Mini Waffle Maker, Tortilla Blanket and More People Steal",
+   "title_added": true,
+   "posted_via": "PinResource/create API (pin-builder page would not load)"
+  },
+  {
+   "date": "2026-11-16",
+   "pin_id": "251709066671603097",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin43_christmas_dad_under50.png",
+   "link": "/gifts-for-dad-under-50/",
+   "style": "headline (X under $Y)",
+   "headline": "Christmas Gifts for Dad under $50",
+   "search_phrase": "christmas gifts for dad",
+   "title": "Christmas Gifts for Dad Under $50: Putting Green, Smash Burger Kit, Heating Pad and More",
+   "title_added": true,
+   "posted_via": "PinResource/create API (pin-builder page would not load)"
+  },
+  {
+   "date": "2026-11-16",
+   "pin_id": "251709066671603130",
+   "board": "Gifts for Mom",
+   "image": "pins/pin44_stocking_mom_under25.png",
+   "link": "/gifts-for-mom/",
+   "style": "headline (X under $Y)",
+   "headline": "Stocking Stuffers for Mom under $25",
+   "search_phrase": "stocking stuffers for mom",
+   "title": "Stocking Stuffers for Mom Under $25: Satin Pillowcase, Shower Steamers, Lip Mask and More",
+   "title_added": true,
+   "posted_via": "PinResource/create API (pin-builder page would not load)",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671603138",
+     "date": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "pin_id": "251709066671603133",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin45_funny_whiteelephant_under25.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "headline (X under $Y)",
+   "headline": "Funny White Elephant Gifts under $25",
+   "search_phrase": "funny white elephant gifts",
+   "title": "Funny White Elephant Gifts Under $25: Tortilla Blanket, Pickle Light, Magic 8 Ball and More",
+   "title_added": true,
+   "posted_via": "PinResource/create API (pin-builder page would not load)"
+  },
+  {
+   "date": "2026-11-17",
+   "pin_id": "251709066671612088",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin46_stocking_teaser_no7.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "teaser (curiosity gap)",
+   "headline": "13 stocking stuffers. #7 is the one everyone asks about.",
+   "search_phrase": "stocking stuffers under $15",
+   "title": "Stocking Stuffers Under $15: 13 Small Gifts (and the #7 Pick Everyone Asks About)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation (strategy 2026-11-16)"
+  },
+  {
+   "date": "2026-11-17",
+   "pin_id": "251709066671612089",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin47_cheap_stocking_3under10.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "3-item callout",
+   "headline": "Cheap stocking stuffers: 3 under $10 nobody will guess were cheap",
+   "search_phrase": "cheap stocking stuffers",
+   "title": "Cheap Stocking Stuffers Under $10 That Nobody Will Guess Were Cheap",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671612094",
+     "date": "2026-11-17"
+    }
+   ],
+   "note": "breakout variation (strategy 2026-11-16)"
+  },
+  {
+   "date": "2026-11-17",
+   "pin_id": "251709066671612090",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin48_dad_putting_spotlight.png",
+   "link": "/gifts-for-dad-under-50/",
+   "style": "single-product spotlight",
+   "headline": "Christmas gifts for dad: the gift he'll play with all Christmas Day",
+   "search_phrase": "christmas gifts for dad",
+   "title": "Christmas Gifts for Dad: Indoor Putting Green Mat He’ll Play With All Day",
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-17",
+   "pin_id": "251709066671612091",
+   "board": "Gifts for Mom",
+   "image": "pins/pin49_mom_pillowcase_spotlight.png",
+   "link": "/gifts-for-mom/",
+   "style": "single-product spotlight",
+   "headline": "Gifts for mom: she'll thank you every morning",
+   "search_phrase": "gifts for mom",
+   "title": "Gifts for Mom: The Satin Pillowcase She’ll Thank You for Every Morning",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671612096",
+     "date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "pin_id": "251709066671612092",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin50_useful_whiteelephant_list.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "headline": "White elephant gift ideas: useful gifts they'll be glad to take home",
+   "search_phrase": "white elephant gift ideas",
+   "title": "White Elephant Gift Ideas Under $25: Useful Gifts People Are Glad to Take Home",
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-18",
+   "pin_id": "251709066671631420",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin51_stocking_teaser_nobody_buys.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "teaser (curiosity gap)",
+   "headline": "The stocking stuffer nobody thinks to buy (but everyone ends up needing)",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas: The One Nobody Thinks to Buy (But Everyone Needs)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation (strategy 2026-11-16); hidden pick is the password logbook"
+  },
+  {
+   "date": "2026-11-18",
+   "pin_id": "251709066671631423",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin52_stocking_whos_who.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "headline (X under $Y)",
+   "headline": "Stocking stuffers under $15: one for everyone on your list",
+   "search_phrase": "stocking stuffers under $15",
+   "title": "Stocking Stuffers Under $15: One Small Gift for Everyone on Your List",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671631433",
+     "date": "2026-11-18"
+    }
+   ],
+   "note": "breakout variation (strategy 2026-11-16)"
+  },
+  {
+   "date": "2026-11-18",
+   "pin_id": "251709066671631424",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin53_secretsanta_frother_spotlight.png",
+   "link": "/coworker-secret-santa-gifts-under-25/",
+   "style": "single-product spotlight",
+   "headline": "Secret Santa gifts for coworkers: the one everyone tries to steal",
+   "search_phrase": "secret santa gifts for coworkers",
+   "title": "Secret Santa Gifts for Coworkers: The Under-$15 Pick Everyone Tries to Steal",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671631434",
+     "date": "2026-11-18"
+    }
+   ],
+   "note": "launch boost"
+  },
+  {
+   "date": "2026-11-18",
+   "pin_id": "251709066671631426",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin54_coworker_quote.png",
+   "link": "/coworker-secret-santa-gifts-under-25/",
+   "style": "dark quote",
+   "headline": "You drew the new guy from accounting. (Christmas gifts for coworkers)",
+   "search_phrase": "christmas gifts for coworkers",
+   "title": "Christmas Gifts for Coworkers You Barely Know: Safe Bets Under $25",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "launch boost"
+  },
+  {
+   "date": "2026-11-18",
+   "pin_id": "251709066671631427",
+   "board": "Gifts for Her Under $50",
+   "image": "pins/pin55_giftbasket_headline.png",
+   "link": "/gift-basket-ideas/",
+   "style": "headline (X under $Y)",
+   "headline": "Christmas gift basket ideas: 4 DIY baskets under $50",
+   "search_phrase": "christmas gift basket ideas",
+   "title": "Christmas Gift Basket Ideas: 4 DIY Baskets Under $50 (With Filler Lists)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Mom",
+     "repin_id": "251709066671631436",
+     "date": "2026-11-18"
+    }
+   ],
+   "note": "launch boost (first gift basket pin)"
+  },
+  {
+   "date": "2026-11-19",
+   "pin_id": "251709066671647860",
+   "board": "Gifts for Her Under $50",
+   "image": "pins/pin56_her_headline.png",
+   "link": "/gifts-for-her-under-50/",
+   "style": "headline (X under $Y)",
+   "headline": "Gifts for Her under $50 (Gifts for girlfriend)",
+   "search_phrase": "gifts for girlfriend",
+   "title": "Gifts for Girlfriend Under $50: Little Luxuries She'd Never Buy Herself",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "launch boost"
+  },
+  {
+   "date": "2026-11-19",
+   "pin_id": "251709066671647862",
+   "board": "Gifts for Her Under $50",
+   "image": "pins/pin57_her_teaser.png",
+   "link": "/gifts-for-her-under-50/",
+   "style": "teaser (curiosity gap)",
+   "headline": "14 gifts for her under $50. #6 is the one she'll wear every day until March.",
+   "search_phrase": "gift ideas for women",
+   "title": "Gift Ideas for Women Under $50: 14 Picks (#6 Is the One She'll Wear All Winter)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "launch boost"
+  },
+  {
+   "date": "2026-11-19",
+   "pin_id": "251709066671647863",
+   "board": "Gifts for Her Under $50",
+   "image": "pins/pin58_giftbasket_list.png",
+   "link": "/gift-basket-ideas/",
+   "style": "numbered list",
+   "headline": "Fill a gift basket for under $50",
+   "search_phrase": "christmas gift basket ideas",
+   "title": "Christmas Gift Basket Ideas Under $50: The Fillers That Make It Look Expensive",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "launch boost",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Mom",
+     "repin_id": "251709066671647868",
+     "date": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "pin_id": "251709066671647865",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin59_stocking_teaser_stolen.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "teaser (curiosity gap)",
+   "headline": "The stocking stuffer that gets \"borrowed\" by noon",
+   "search_phrase": "cheap stocking stuffers",
+   "title": "Cheap Stocking Stuffers: The One That Gets \"Borrowed\" by Noon (Under $15)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation"
+  },
+  {
+   "date": "2026-11-19",
+   "pin_id": "251709066671647866",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin60_stocking_zero_filler.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "headline (X under $Y)",
+   "headline": "Under $15. Zero filler. (Stocking stuffer ideas)",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas Under $15: 13 Small Gifts With Zero Filler",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation"
+  },
+  {
+   "date": "2026-11-20",
+   "pin_id": "251709066671666938",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin61_dad_quote_red.png",
+   "link": "/gifts-for-dad-under-50/",
+   "style": "dark quote",
+   "palette": "christmas red",
+   "headline": "Don't spend money on me. (Christmas gifts for dad)",
+   "search_phrase": "christmas gifts for dad",
+   "title": "Christmas Gifts for Dad Under $50: 13 He'll Actually Use (Not Return)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 1; click rules"
+  },
+  {
+   "date": "2026-11-20",
+   "pin_id": "251709066671666940",
+   "board": "Gifts for Mom",
+   "image": "pins/pin62_mom_teaser_pink.png",
+   "link": "/gifts-for-mom/",
+   "style": "teaser (curiosity gap)",
+   "palette": "candy pink",
+   "headline": "14 gifts for mom under $50. #3 is the one she'll live in all winter.",
+   "search_phrase": "gifts for mom",
+   "title": "Gifts for Mom Under $50: 14 Ideas, and #3 Is the One She'll Live In",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 2; click rules",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671666954",
+     "date": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "pin_id": "251709066671666942",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin63_dad_teaser_pink.png",
+   "link": "/gifts-for-dad-under-50/",
+   "style": "teaser (curiosity gap)",
+   "palette": "candy pink",
+   "headline": "13 gifts for dad. The #1 pick keeps him busy all winter (indoors).",
+   "search_phrase": "gifts for dad",
+   "title": "Gifts for Dad Under $50: 13 Ideas, and #1 Keeps Him Busy All Winter",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 3; click rules"
+  },
+  {
+   "date": "2026-11-20",
+   "pin_id": "251709066671666947",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin64_stocking_teaser_navy.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "teaser (curiosity gap)",
+   "palette": "midnight navy",
+   "headline": "13 stocking stuffers under $15. #9 sounds silly. They'll use it every week.",
+   "search_phrase": "stocking stuffers under $15",
+   "title": "Stocking Stuffers Under $15: 13 Ideas, and #9 Gets Used Every Week",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation; click rules"
+  },
+  {
+   "date": "2026-11-20",
+   "pin_id": "251709066671666949",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin65_stocking_cheap_white.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "numbered list",
+   "palette": "bold white",
+   "headline": "13 Cheap Stocking Stuffers (that won't end up in a drawer)",
+   "search_phrase": "cheap stocking stuffers",
+   "title": "Cheap Stocking Stuffers: 13 Under $15 That Won't End Up in a Drawer",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation; click rules",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671666957",
+     "date": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "pin_id": "251709066671668882",
+   "board": "White Elephant Gift Ideas",
+   "image": "canva:DAHbfE3o5xY",
+   "canva_url": "https://canva.link/hbqd9893pin68gw",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "canva photo pin",
+   "palette": "evergreen gold",
+   "headline": "15 White Elephant Gifts Under $25",
+   "search_phrase": "white elephant gift ideas",
+   "title_added": true,
+   "title": "White Elephant Gift Ideas Under $25: 15 Gifts Everyone Will Try to Steal",
+   "posted_via": "pin/create/button + PinResource/update title",
+   "note": "canva photo pin test #1"
+  },
+  {
+   "date": "2026-11-21",
+   "pin_id": "251709066671686590",
+   "board": "Gifts for Mom",
+   "image": "pins/pin66_grandma_quote_white.png",
+   "link": "/gifts-for-grandma-under-50/",
+   "style": "dark quote",
+   "palette": "bold white",
+   "headline": "Oh honey, you didn't have to. (14 gifts for grandma under $50)",
+   "search_phrase": "gifts for grandma",
+   "title": "Gifts for Grandma Under $50: 14 Cozy, Useful Ideas She'll Actually Use",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 1; launch boost; click rules"
+  },
+  {
+   "date": "2026-11-21",
+   "pin_id": "251709066671686593",
+   "board": "Gifts for Mom",
+   "image": "pins/pin67_grandma_teaser_pink.png",
+   "link": "/gifts-for-grandma-under-50/",
+   "style": "teaser (curiosity gap)",
+   "palette": "candy pink",
+   "headline": "14 gifts for grandma under $50. #1 is the one she'll use every single night.",
+   "search_phrase": "christmas gifts for grandma",
+   "title": "Christmas Gifts for Grandma Under $50: 14 Ideas (#1 She'll Use Every Night)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 2; launch boost; click rules"
+  },
+  {
+   "date": "2026-11-21",
+   "pin_id": "251709066671686594",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin68_stocking_callout_white.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "3-item callout",
+   "palette": "bold white",
+   "headline": "3 stocking stuffers they'll actually keep",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas: 3 Tiny Gifts They'll Actually Keep (13 Under $15)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 3; counts as breakout variation 1; click rules",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671686604",
+     "date": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "pin_id": "251709066671686598",
+   "board": "Gifts for Mom",
+   "image": "pins/pin69_grandma_headline_navy.png",
+   "link": "/gifts-for-grandma-under-50/",
+   "style": "headline (X under $Y)",
+   "palette": "midnight navy",
+   "headline": "14 Christmas Gifts for Grandma under $50",
+   "search_phrase": "christmas gifts for grandma",
+   "title": "Christmas Gifts for Grandma: 14 Cozy, Useful Picks Under $50",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 4; click rules"
+  },
+  {
+   "date": "2026-11-21",
+   "pin_id": "251709066671686601",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin70_stocking_teaser_green.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "teaser (curiosity gap)",
+   "palette": "evergreen gold",
+   "headline": "13 stocking stuffers under $15. Save the last one for the end. It wins Christmas morning.",
+   "search_phrase": "cheap stocking stuffers",
+   "title": "Cheap Stocking Stuffers: 13 Under $15 (Save the Last One for the End)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation 2 (teaser); click rules"
+  },
+  {
+   "date": "2026-11-21",
+   "pin_id": "251709066671688525",
+   "board": "Gifts for Mom",
+   "image": "canva:DAHblAY21Ss",
+   "canva_url": "https://canva.link/lb61wpylz2bcgcv",
+   "link": "/gifts-for-mom/",
+   "style": "canva photo pin",
+   "palette": "candy pink",
+   "headline": "14 Gifts for Mom Under $50",
+   "search_phrase": "gifts for mom",
+   "title_added": true,
+   "title": "Gifts for Mom Under $50: 14 Cozy Christmas Ideas She'll Actually Use",
+   "posted_via": "pin/create/button + PinResource/update title",
+   "note": "canva photo pin test #2; 3 picks per click rules"
+  },
+  {
+   "date": "2026-11-22",
+   "pin_id": "251709066671705926",
+   "board": "Gifts for Mom",
+   "image": "pins/pin71_grandma_list_green.png",
+   "link": "/gifts-for-grandma-under-50/",
+   "style": "numbered list",
+   "palette": "evergreen gold",
+   "format": "short",
+   "headline": "14 gifts for grandma under $50",
+   "search_phrase": "gifts for grandma",
+   "title": "Gifts for Grandma Under $50: 14 Cozy Christmas Ideas She Will Actually Use",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 1; design v2"
+  },
+  {
+   "date": "2026-11-22",
+   "pin_id": "251709066671705930",
+   "board": "Gifts for Her Under $50",
+   "image": "pins/pin72_basket_teaser_pink.png",
+   "link": "/gift-basket-ideas/",
+   "style": "teaser (curiosity gap)",
+   "palette": "candy pink",
+   "format": "wordy",
+   "headline": "4 DIY gift baskets. The movie night one wins.",
+   "search_phrase": "christmas gift basket ideas",
+   "title": "Christmas Gift Basket Ideas: 4 DIY Baskets Under $50 (Movie Night, Cozy, Spa, Coffee)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 2; design v2",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Mom",
+     "repin_id": "251709066671705937",
+     "date": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "pin_id": "251709066671705931",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin73_coworker_list_white.png",
+   "link": "/coworker-secret-santa-gifts-under-25/",
+   "style": "numbered list",
+   "palette": "bold white",
+   "format": "short",
+   "headline": "Secret Santa gifts under $25",
+   "search_phrase": "secret santa gifts",
+   "title": "Secret Santa Gifts Under $25: 13 Coworker Gift Ideas That Don't Feel Generic",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 3; design v2"
+  },
+  {
+   "date": "2026-11-22",
+   "pin_id": "251709066671705932",
+   "board": "Gifts for Her Under $50",
+   "image": "pins/pin74_her_spotlight_navy.png",
+   "link": "/gifts-for-her-under-50/",
+   "style": "single-product spotlight",
+   "palette": "midnight navy",
+   "format": "short",
+   "headline": "The satin pillowcase she'll love",
+   "search_phrase": "gifts for her",
+   "title": "Gifts for Her Under $50: The Satin Pillowcase She'll Love + 13 More Ideas",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 5 (slots 4 dad + 6 mom replaced by the 2 breakout stocking variations, last breakout day); design v2"
+  },
+  {
+   "date": "2026-11-22",
+   "pin_id": "251709066671705934",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin75_stocking_teaser_red.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "teaser (curiosity gap)",
+   "palette": "christmas red",
+   "format": "wordy",
+   "headline": "13 stocking stuffers under $15. The last one gets the biggest laugh.",
+   "search_phrase": "stocking stuffers under $15",
+   "title": "Stocking Stuffers Under $15: 13 Cheap Ideas (The Last One Gets the Biggest Laugh)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation 1 (palette chosen manually); design v2",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671705938",
+     "date": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "pin_id": "251709066671705935",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin76_stocking_headline_cream.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "headline (X under $Y)",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "Stocking stuffer ideas under $15",
+   "search_phrase": "stocking stuffer ideas",
+   "title": "Stocking Stuffer Ideas Under $15: 13 Small Gifts They'll Keep All Year",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "breakout variation 2 (palette chosen manually); design v2"
+  },
+  {
+   "date": "2026-11-22",
+   "pin_id": "251709066671707898",
+   "board": "Teacher Christmas Gifts",
+   "image": "canva:DAHbsMtzlYQ",
+   "canva_url": "https://canva.link/ato2exrb3iem9kk",
+   "link": "/teacher-christmas-gifts/",
+   "style": "canva photo pin",
+   "palette": "christmas red",
+   "headline": "14 Teacher Christmas Gifts Under $25",
+   "search_phrase": "teacher christmas gifts",
+   "title_added": true,
+   "title": "Teacher Christmas Gifts Under $25: 14 Practical Picks Teachers Use (No Mugs)",
+   "posted_via": "pin/create/button + PinResource/update title",
+   "note": "canva photo pin test #3; 3 picks per click rules"
+  },
+  {
+   "date": "2026-11-23",
+   "pin_id": "251709066671718629",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin77_neighbor_headline_green.png",
+   "link": "/neighbor-christmas-gifts-under-15/",
+   "style": "headline (X under $Y)",
+   "palette": "evergreen gold",
+   "format": "short",
+   "headline": "Neighbor Christmas gifts under $15",
+   "search_phrase": "neighbor christmas gifts",
+   "title": "Neighbor Christmas Gifts Under $15: 14 Easy Ideas for the Whole Street",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 1 (launch boost); design v2"
+  },
+  {
+   "date": "2026-11-23",
+   "pin_id": "251709066671718632",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin78_neighbor_teaser_red.png",
+   "link": "/neighbor-christmas-gifts-under-15/",
+   "style": "teaser (curiosity gap)",
+   "palette": "christmas red",
+   "format": "wordy",
+   "headline": "14 neighbor gifts under $15. #6 is the crowd favorite.",
+   "search_phrase": "christmas gifts for neighbors",
+   "title": "Christmas Gifts for Neighbors: 14 Under $15 (#6 Is the Crowd Favorite)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 2 (launch boost); design v2",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671718647",
+     "date": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "pin_id": "251709066671718634",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin79_him_list_navy.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "numbered list",
+   "palette": "midnight navy",
+   "format": "short",
+   "headline": "Gifts for boyfriend under $50",
+   "search_phrase": "gifts for boyfriend",
+   "title": "Gifts for Boyfriend Under $50: 12 Christmas Ideas He Will Actually Use",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 3; design v2"
+  },
+  {
+   "date": "2026-11-23",
+   "pin_id": "251709066671718638",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin80_elephant_list_cream.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "15 white elephant gift ideas under $25",
+   "search_phrase": "white elephant gift ideas",
+   "title": "White Elephant Gift Ideas Under $25: 15 Funny + Useful Picks People Steal",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 4; design v2",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671718648",
+     "date": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "pin_id": "251709066671718640",
+   "board": "Gifts for Her Under $50",
+   "image": "pins/pin81_her_minimal_pink.png",
+   "link": "/gifts-for-her-under-50/",
+   "style": "minimal (big headline)",
+   "palette": "candy pink",
+   "format": "short",
+   "headline": "Gifts for her she'll actually use",
+   "search_phrase": "gifts for her",
+   "title": "Gifts for Her Under $50: 14 Christmas Ideas She Will Actually Use",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 5; design v2"
+  },
+  {
+   "date": "2026-11-23",
+   "pin_id": "251709066671718642",
+   "board": "Teacher Christmas Gifts",
+   "image": "pins/pin82_teacher_quote_pink.png",
+   "link": "/teacher-christmas-gifts/",
+   "style": "dark quote",
+   "palette": "candy pink",
+   "format": "wordy",
+   "headline": "Teachers don't need another mug.",
+   "search_phrase": "teacher christmas gifts",
+   "title": "Teacher Christmas Gifts Under $25: 14 Ideas Teachers Use (Not Another Mug)",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "note": "bandit slot 6; design v2"
+  },
+  {
+   "date": "2026-11-23",
+   "pin_id": "251709066671720360",
+   "board": "White Elephant Gift Ideas",
+   "image": "canva:DAHbxLlhjTs",
+   "canva_url": "https://canva.link/8tfmvgj992ss2m0",
+   "link": "/coworker-secret-santa-gifts-under-25/",
+   "style": "canva photo pin",
+   "palette": "midnight navy",
+   "headline": "13 Secret Santa Gifts Under $25",
+   "search_phrase": "secret santa gifts",
+   "title_added": true,
+   "title": "Secret Santa Gifts for Coworkers Under $25: 13 Desk-Friendly Picks They'll Use",
+   "posted_via": "pin/create/button + PinResource/update title",
+   "note": "canva photo pin test #4; 3 picks per click rules"
+  },
+  {
+   "date": "2026-11-23",
+   "pin_id": "251709066671722081",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin83_stocking_refresh_list_cream.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "numbered list",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "Stocking Stuffers People Actually Use",
+   "search_phrase": "stocking stuffers under $15",
+   "title": "Stocking Stuffers Under $15: 13 Small Gifts People Actually Use",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "refresh_of": "251709066671355968",
+   "note": "REFRESH of a top-reach pin (Micah approved 2026-11-23); extra to the 6 bandit pins today"
+  },
+  {
+   "date": "2026-11-23",
+   "pin_id": "251709066671722082",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin84_secretsanta_refresh_list_cream.png",
+   "link": "/coworker-secret-santa-gifts-under-25/",
+   "style": "numbered list",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "Secret Santa Gift Ideas Under $25",
+   "search_phrase": "secret santa gifts",
+   "title": "Secret Santa Gift Ideas Under $25: 13 Coworker Gifts Nobody Re-Gifts",
+   "title_added": true,
+   "posted_via": "PinResource/create API",
+   "refresh_of": "251709066671515317",
+   "note": "REFRESH of a top-reach pin (Micah approved 2026-11-23); extra to the 6 bandit pins today"
+  },
+  {
+   "date": "2026-11-24",
+   "pin_id": "251709066671734748",
+   "board": "Gifts for Her Under $50",
+   "image": "pins/pin85_her_spotlight_green.png",
+   "link": "/gifts-for-her-under-50/",
+   "style": "single-product spotlight",
+   "palette": "evergreen gold",
+   "format": "short",
+   "headline": "Gifts for her: the candle she'll love",
+   "search_phrase": "gifts for her",
+   "title": "Gifts for Her Under $50: The Cozy Candle She'll Love + 13 More Ideas",
+   "note": "bandit slot 1; design v2",
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-24",
+   "pin_id": "251709066671734750",
+   "board": "Gifts for Mom",
+   "image": "pins/pin86_mom_teaser_green.png",
+   "link": "/gifts-for-mom/",
+   "style": "teaser (curiosity gap)",
+   "palette": "evergreen gold",
+   "format": "wordy",
+   "headline": "14 Christmas gifts for mom. #9 is the one she'd never buy herself.",
+   "search_phrase": "christmas gifts for mom",
+   "title": "Christmas Gifts for Mom: 14 Ideas Under $50 (#9 She'd Never Buy Herself)",
+   "note": "bandit slot 2",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671734759",
+     "date": "2026-11-24"
+    }
+   ],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-24",
+   "pin_id": "251709066671734752",
+   "board": "Teacher Christmas Gifts",
+   "image": "pins/pin87_teacher_callout_white.png",
+   "link": "/teacher-christmas-gifts/",
+   "style": "3-item callout",
+   "palette": "bold white",
+   "format": "short",
+   "headline": "Teacher Christmas gifts they'll use",
+   "search_phrase": "teacher christmas gifts",
+   "title": "Teacher Christmas Gifts Under $25: 14 Ideas They'll Actually Use",
+   "note": "bandit slot 3 (style/palette/format kept; guide swapped gifts-for-mom -> teacher because mom already had slot 2 and strategy asks for 1 teacher pin/day); design v2",
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-24",
+   "pin_id": "251709066671734754",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin88_elephant_headline_navy.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "headline (X under $Y)",
+   "palette": "midnight navy",
+   "format": "wordy",
+   "headline": "Funny White Elephant Gifts Under $25",
+   "search_phrase": "funny white elephant gifts",
+   "title": "Funny White Elephant Gifts Under $25: 15 Picks Worth Stealing",
+   "note": "bandit slot 4",
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-24",
+   "pin_id": "251709066671734756",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin89_men_refresh_list_cream.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "numbered list",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "Stocking Stuffers for Men He'll Use",
+   "search_phrase": "stocking stuffers for men",
+   "title": "Stocking Stuffers for Men Under $15: 13 Small Gifts He'll Actually Use",
+   "refresh_of": "251709066671414682",
+   "note": "REFRESH (replaces bandit slot 5)",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Him Under $50",
+     "repin_id": "251709066671734762",
+     "date": "2026-11-24"
+    }
+   ],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-24",
+   "pin_id": "251709066671734757",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin90_elephant_refresh_list_cream.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "White Elephant Gift Ideas People Fight Over",
+   "search_phrase": "white elephant gift ideas",
+   "title": "White Elephant Gift Ideas Under $25: 15 Gifts People Fight Over",
+   "refresh_of": "251709066671383041",
+   "note": "REFRESH (replaces bandit slot 6)",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671734763",
+     "date": "2026-11-24"
+    }
+   ],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  }
+ ]
 }
