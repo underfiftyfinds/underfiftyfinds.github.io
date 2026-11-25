@@ -1589,6 +1589,133 @@
    "title": "White Elephant Gift Ideas Under $25: 15 Funny, Useful Gifts Worth Stealing",
    "posted_via": "pin/create/button + PinResource/update title",
    "note": "canva photo pin test #5; 3 picks per click rules"
+  },
+  {
+   "date": "2026-11-25",
+   "pin_id": "251709066671750517",
+   "board": "Gifts for Her Under $50",
+   "image": "pins/pin91_sibling_minimal_green.png",
+   "link": "/gifts-for-sister-brother-under-30/",
+   "style": "minimal (big headline)",
+   "palette": "evergreen gold",
+   "format": "short",
+   "headline": "Gifts for sister & brother under $30",
+   "search_phrase": "gifts for sister",
+   "title": "Gifts for Sister and Brother Under $30: 14 Christmas Gift Ideas They Will Actually Use",
+   "launch_boost": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Him Under $50",
+     "repin_id": "251709066671750530",
+     "date": "2026-11-25"
+    }
+   ],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-25",
+   "pin_id": "251709066671750520",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin92_sibling_spotlight_cream.png",
+   "link": "/gifts-for-sister-brother-under-30/",
+   "style": "single-product spotlight",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "Sister & Brother Gifts Under $30 (start with the slim wallet)",
+   "search_phrase": "gifts for brother",
+   "title": "Gifts for Brother Under $30: Slim Wallet, Pocket Charger and 12 More Sibling Gifts",
+   "launch_boost": true,
+   "also_saved_to": [
+    {
+     "board": "Gifts for Her Under $50",
+     "repin_id": "251709066671750534",
+     "date": "2026-11-25"
+    }
+   ],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-25",
+   "pin_id": "251709066671750522",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin93_santa_minimal_green.png",
+   "link": "/coworker-secret-santa-gifts-under-25/",
+   "style": "minimal (big headline)",
+   "palette": "evergreen gold",
+   "format": "short",
+   "headline": "Secret Santa gifts they'll actually keep",
+   "search_phrase": "secret santa gifts",
+   "title": "Secret Santa Gifts Under $25 They Will Actually Keep: 13 Coworker Gift Ideas",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671750537",
+     "date": "2026-11-25"
+    }
+   ],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-25",
+   "pin_id": "251709066671750523",
+   "board": "Teacher Christmas Gifts",
+   "image": "pins/pin94_teacher_quote_cream.png",
+   "link": "/teacher-christmas-gifts/",
+   "style": "dark quote",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "“I'll use this every single day.”",
+   "search_phrase": "teacher christmas gifts",
+   "title": "Teacher Christmas Gifts Under $25 They Will Use Every Day: Pens, Name Stamp and More",
+   "note": "bandit slot 4 guide swapped stocking -> teacher (teacher gets 1/day per strategy)",
+   "also_saved_to": [],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-25",
+   "pin_id": "251709066671750526",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin95_elephant_funny_refresh_cream.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "Funny White Elephant Gifts (Secretly Useful)",
+   "search_phrase": "funny white elephant gifts",
+   "title": "Funny White Elephant Gift Ideas Under $25 That Are Secretly Useful",
+   "refresh_of": "251709066671414702",
+   "note": "REFRESH (replaces bandit slot 5)",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671750538",
+     "date": "2026-11-25"
+    }
+   ],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-25",
+   "pin_id": "251709066671750527",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin96_elephant_under20_refresh_cream.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "White Elephant Gift Ideas Under $20 That Win",
+   "search_phrase": "white elephant gift ideas under $20",
+   "title": "White Elephant Gift Ideas Under $20 That Win the Swap",
+   "refresh_of": "251709066671486077",
+   "note": "REFRESH (replaces bandit slot 6)",
+   "also_saved_to": [],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
   }
  ]
 }

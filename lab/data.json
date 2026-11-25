@@ -833,82 +833,7 @@
   {
    "date": "2026-11-25",
    "mode": "exploring (not enough clicks yet)",
-   "plan": [
-    {
-     "style": "minimal (big headline)",
-     "guide": "gifts-for-sister-brother-under-30",
-     "palette": "evergreen gold",
-     "colors": {
-      "bg": "#1F4D3A",
-      "ink": "#FFF8EC",
-      "acc": "#E0B252",
-      "card": "#173B2C"
-     },
-     "format": "short",
-     "launch_boost": true
-    },
-    {
-     "style": "single-product spotlight",
-     "guide": "gifts-for-sister-brother-under-30",
-     "palette": "cream classic",
-     "colors": {
-      "bg": "#F4EDE4",
-      "ink": "#2B2420",
-      "acc": "#B5634B",
-      "card": "#FFFDF9"
-     },
-     "format": "wordy",
-     "launch_boost": true
-    },
-    {
-     "style": "minimal (big headline)",
-     "guide": "coworker-secret-santa-gifts-under-25",
-     "palette": "evergreen gold",
-     "colors": {
-      "bg": "#1F4D3A",
-      "ink": "#FFF8EC",
-      "acc": "#E0B252",
-      "card": "#173B2C"
-     },
-     "format": "short"
-    },
-    {
-     "style": "dark quote",
-     "guide": "stocking-stuffers-under-15",
-     "palette": "cream classic",
-     "colors": {
-      "bg": "#F4EDE4",
-      "ink": "#2B2420",
-      "acc": "#B5634B",
-      "card": "#FFFDF9"
-     },
-     "format": "wordy"
-    },
-    {
-     "style": "headline (X under $Y)",
-     "guide": "gifts-for-mom",
-     "palette": "evergreen gold",
-     "colors": {
-      "bg": "#1F4D3A",
-      "ink": "#FFF8EC",
-      "acc": "#E0B252",
-      "card": "#173B2C"
-     },
-     "format": "short"
-    },
-    {
-     "style": "minimal (big headline)",
-     "guide": "gifts-for-her-under-50",
-     "palette": "midnight navy",
-     "colors": {
-      "bg": "#14213D",
-      "ink": "#FFFFFF",
-      "acc": "#FCA311",
-      "card": "#1E2F55"
-     },
-     "format": "wordy"
-    }
-   ],
+   "plan": [],
    "style_share": {
     "numbered list": 0.143,
     "dark quote": 0.143,
@@ -944,7 +869,7 @@
  ],
  "updated": "2026-11-25",
  "mode": "exploring (not enough clicks yet)",
- "total_pins": 95,
+ "total_pins": 101,
  "total_impressions": 1677,
  "total_clicks": 3,
  "styles": {
@@ -958,7 +883,7 @@
    "post_hi": 0.0125
   },
   "numbered list": {
-   "pins": 19,
+   "pins": 21,
    "impressions": 918,
    "clicks": 0,
    "saves": 12,
@@ -967,7 +892,7 @@
    "post_hi": 0.00236
   },
   "dark quote": {
-   "pins": 14,
+   "pins": 15,
    "impressions": 95,
    "clicks": 1,
    "saves": 3,
@@ -985,7 +910,7 @@
    "post_hi": 0.00665
   },
   "headline (X under $Y)": {
-   "pins": 22,
+   "pins": 24,
    "impressions": 350,
    "clicks": 2,
    "saves": 12,
@@ -994,7 +919,7 @@
    "post_hi": 0.0106
   },
   "single-product spotlight": {
-   "pins": 10,
+   "pins": 11,
    "impressions": 53,
    "clicks": 0,
    "saves": 4,
@@ -1041,7 +966,7 @@
    "post_hi": 0.00639
   },
   "white-elephant-gifts-under-25": {
-   "pins": 14,
+   "pins": 16,
    "impressions": 703,
    "clicks": 0,
    "saves": 10,
@@ -1059,7 +984,7 @@
    "post_hi": 0.01086
   },
   "teacher-christmas-gifts": {
-   "pins": 5,
+   "pins": 6,
    "impressions": 16,
    "clicks": 0,
    "saves": 0,
@@ -1086,7 +1011,7 @@
    "post_hi": 0.0128
   },
   "coworker-secret-santa-gifts-under-25": {
-   "pins": 5,
+   "pins": 6,
    "impressions": 9,
    "clicks": 0,
    "saves": 1,
@@ -1122,7 +1047,7 @@
    "post_hi": 0.01305
   },
   "gifts-for-sister-brother-under-30": {
-   "pins": 0,
+   "pins": 2,
    "impressions": 0,
    "clicks": 0,
    "saves": 0,
@@ -1168,85 +1093,10 @@
   "neighbor-christmas-gifts-under-15": 0.078,
   "gifts-for-sister-brother-under-30": 0.067
  },
- "today": [
-  {
-   "style": "minimal (big headline)",
-   "guide": "gifts-for-sister-brother-under-30",
-   "palette": "evergreen gold",
-   "colors": {
-    "bg": "#1F4D3A",
-    "ink": "#FFF8EC",
-    "acc": "#E0B252",
-    "card": "#173B2C"
-   },
-   "format": "short",
-   "launch_boost": true
-  },
-  {
-   "style": "single-product spotlight",
-   "guide": "gifts-for-sister-brother-under-30",
-   "palette": "cream classic",
-   "colors": {
-    "bg": "#F4EDE4",
-    "ink": "#2B2420",
-    "acc": "#B5634B",
-    "card": "#FFFDF9"
-   },
-   "format": "wordy",
-   "launch_boost": true
-  },
-  {
-   "style": "minimal (big headline)",
-   "guide": "coworker-secret-santa-gifts-under-25",
-   "palette": "evergreen gold",
-   "colors": {
-    "bg": "#1F4D3A",
-    "ink": "#FFF8EC",
-    "acc": "#E0B252",
-    "card": "#173B2C"
-   },
-   "format": "short"
-  },
-  {
-   "style": "dark quote",
-   "guide": "stocking-stuffers-under-15",
-   "palette": "cream classic",
-   "colors": {
-    "bg": "#F4EDE4",
-    "ink": "#2B2420",
-    "acc": "#B5634B",
-    "card": "#FFFDF9"
-   },
-   "format": "wordy"
-  },
-  {
-   "style": "headline (X under $Y)",
-   "guide": "gifts-for-mom",
-   "palette": "evergreen gold",
-   "colors": {
-    "bg": "#1F4D3A",
-    "ink": "#FFF8EC",
-    "acc": "#E0B252",
-    "card": "#173B2C"
-   },
-   "format": "short"
-  },
-  {
-   "style": "minimal (big headline)",
-   "guide": "gifts-for-her-under-50",
-   "palette": "midnight navy",
-   "colors": {
-    "bg": "#14213D",
-    "ink": "#FFFFFF",
-    "acc": "#FCA311",
-    "card": "#1E2F55"
-   },
-   "format": "wordy"
-  }
- ],
+ "today": [],
  "palettes": {
   "cream classic": {
-   "pins": 66,
+   "pins": 70,
    "impressions": 1608,
    "clicks": 3,
    "saves": 36,
@@ -1264,7 +1114,7 @@
    "post_hi": 0.01244
   },
   "evergreen gold": {
-   "pins": 6,
+   "pins": 8,
    "impressions": 8,
    "clicks": 0,
    "saves": 1,
@@ -1310,7 +1160,7 @@
  },
  "formats": {
   "short": {
-   "pins": 8,
+   "pins": 10,
    "impressions": 6,
    "clicks": 0,
    "saves": 0,
@@ -1319,7 +1169,7 @@
    "post_hi": 0.01274
   },
   "wordy": {
-   "pins": 12,
+   "pins": 16,
    "impressions": 12,
    "clicks": 0,
    "saves": 7,
