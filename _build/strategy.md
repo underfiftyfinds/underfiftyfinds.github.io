@@ -14,7 +14,7 @@ NEXT (UPDATED 2026-11-15 weekly review, see _build/trends/2026-11-08.md). Build 
 8. [LIVE 2026-11-21, /gifts-for-grandma-under-50/, 14 picks] Gifts for Grandma Under $50 (0.51x, Dec 21) -> board "Gifts for Mom". Optional if time: Neighbor Christmas Gifts Under $15 (0.51x, Dec 21; fits stocking stuffer picks).
 NEXT (UPDATED 2026-11-22 weekly review, see _build/trends/2026-11-15.md):
 9. [LIVE 2026-11-23, /neighbor-christmas-gifts-under-15/, 14 picks, board Stocking Stuffers Under $15] Neighbor Christmas Gifts Under $15 (slug neighbor-christmas-gifts-under-15, trend weight 1.5) -> board "Stocking Stuffers Under $15" (or a new "Neighbor Christmas Gifts" board). "neighbor christmas gifts" peaks Dec 21 at 0.47x anchor, +200% MoM. Build by ~Nov 25.
-10. Gifts for Sister & Brother Under $30 (one guide, two halves; "gifts for sister" and "gifts for brother" each 0.30x, Dec 21, +90-100% MoM, YoY up). Build by ~Nov 29.
+10. [LIVE 2026-11-25, /gifts-for-sister-brother-under-30/, 14 picks (7+7), trend weight 1.3; boards: sister pins -> Gifts for Her Under $50, brother pins -> Gifts for Him Under $50] Gifts for Sister & Brother Under $30 (one guide, two halves; "gifts for sister" and "gifts for brother" each 0.30x, Dec 21, +90-100% MoM, YoY up). Build by ~Nov 29.
 11. Last-Minute Amazon Gifts Under $25 (fast-shipping angle; "last minute christmas gifts" +400% MoM, peaks the week of Dec 21-28; also fits "amazon finds" +70% YoY). Build by ~Dec 10 so pins have time to index.
 12. New Year's Eve Party Finds Under $25 (NEW 2026-11-22: "new years eve party" peaks Dec 28 at 1.07x anchor, +200% YoY). Build ~Dec 12-15; first post-Christmas-season guide.
 Deprioritized (small or shrinking searches): Kitchen Gifts, Cozy Home, housewarming. Build only after the above.
