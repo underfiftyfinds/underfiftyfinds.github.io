@@ -1716,6 +1716,22 @@
    "also_saved_to": [],
    "title_added": true,
    "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-25",
+   "pin_id": "251709066671751968",
+   "board": "Stocking Stuffers Under $15",
+   "image": "canva:DAHb9LKN_iI",
+   "canva_url": "https://canva.link/0zkmq34eiya521p",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "canva photo pin",
+   "palette": "christmas red",
+   "headline": "13 Stocking Stuffers Under $15",
+   "search_phrase": "stocking stuffers under $15",
+   "title_added": true,
+   "title": "Stocking Stuffers Under $15: 13 Cheap Stocking Stuffer Ideas People Actually Use",
+   "posted_via": "pin/create/button + PinResource/update title",
+   "note": "canva photo pin test #6; 3 picks per click rules"
   }
  ]
 }
