@@ -829,16 +829,127 @@
     "midnight navy": 0.167,
     "bold white": 0.167
    }
+  },
+  {
+   "date": "2026-11-25",
+   "mode": "exploring (not enough clicks yet)",
+   "plan": [
+    {
+     "style": "minimal (big headline)",
+     "guide": "gifts-for-sister-brother-under-30",
+     "palette": "evergreen gold",
+     "colors": {
+      "bg": "#1F4D3A",
+      "ink": "#FFF8EC",
+      "acc": "#E0B252",
+      "card": "#173B2C"
+     },
+     "format": "short",
+     "launch_boost": true
+    },
+    {
+     "style": "single-product spotlight",
+     "guide": "gifts-for-sister-brother-under-30",
+     "palette": "cream classic",
+     "colors": {
+      "bg": "#F4EDE4",
+      "ink": "#2B2420",
+      "acc": "#B5634B",
+      "card": "#FFFDF9"
+     },
+     "format": "wordy",
+     "launch_boost": true
+    },
+    {
+     "style": "minimal (big headline)",
+     "guide": "coworker-secret-santa-gifts-under-25",
+     "palette": "evergreen gold",
+     "colors": {
+      "bg": "#1F4D3A",
+      "ink": "#FFF8EC",
+      "acc": "#E0B252",
+      "card": "#173B2C"
+     },
+     "format": "short"
+    },
+    {
+     "style": "dark quote",
+     "guide": "stocking-stuffers-under-15",
+     "palette": "cream classic",
+     "colors": {
+      "bg": "#F4EDE4",
+      "ink": "#2B2420",
+      "acc": "#B5634B",
+      "card": "#FFFDF9"
+     },
+     "format": "wordy"
+    },
+    {
+     "style": "headline (X under $Y)",
+     "guide": "gifts-for-mom",
+     "palette": "evergreen gold",
+     "colors": {
+      "bg": "#1F4D3A",
+      "ink": "#FFF8EC",
+      "acc": "#E0B252",
+      "card": "#173B2C"
+     },
+     "format": "short"
+    },
+    {
+     "style": "minimal (big headline)",
+     "guide": "gifts-for-her-under-50",
+     "palette": "midnight navy",
+     "colors": {
+      "bg": "#14213D",
+      "ink": "#FFFFFF",
+      "acc": "#FCA311",
+      "card": "#1E2F55"
+     },
+     "format": "wordy"
+    }
+   ],
+   "style_share": {
+    "numbered list": 0.143,
+    "dark quote": 0.143,
+    "3-item callout": 0.143,
+    "headline (X under $Y)": 0.143,
+    "single-product spotlight": 0.143,
+    "teaser (curiosity gap)": 0.143,
+    "minimal (big headline)": 0.143
+   },
+   "guide_share": {
+    "gifts-for-him-under-50": 0.083,
+    "stocking-stuffers-under-15": 0.135,
+    "white-elephant-gifts-under-25": 0.155,
+    "gifts-for-mom": 0.073,
+    "teacher-christmas-gifts": 0.104,
+    "gifts-for-dad-under-50": 0.057,
+    "gift-basket-ideas": 0.047,
+    "coworker-secret-santa-gifts-under-25": 0.098,
+    "gifts-for-her-under-50": 0.057,
+    "gifts-for-grandma-under-50": 0.047,
+    "neighbor-christmas-gifts-under-15": 0.078,
+    "gifts-for-sister-brother-under-30": 0.067
+   },
+   "palette_share": {
+    "cream classic": 0.167,
+    "christmas red": 0.167,
+    "evergreen gold": 0.167,
+    "candy pink": 0.167,
+    "midnight navy": 0.167,
+    "bold white": 0.167
+   }
   }
  ],
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "mode": "exploring (not enough clicks yet)",
- "total_pins": 88,
- "total_impressions": 1394,
+ "total_pins": 95,
+ "total_impressions": 1677,
  "total_clicks": 3,
  "styles": {
   "canva photo pin": {
-   "pins": 4,
+   "pins": 5,
    "impressions": 10,
    "clicks": 0,
    "saves": 0,
@@ -847,58 +958,58 @@
    "post_hi": 0.0125
   },
   "numbered list": {
-   "pins": 17,
-   "impressions": 794,
+   "pins": 19,
+   "impressions": 918,
    "clicks": 0,
-   "saves": 10,
-   "post_mean": 0.00101,
+   "saves": 12,
+   "post_mean": 0.00089,
    "post_lo": 0,
-   "post_hi": 0.00266
+   "post_hi": 0.00236
   },
   "dark quote": {
    "pins": 14,
-   "impressions": 85,
+   "impressions": 95,
    "clicks": 1,
    "saves": 3,
-   "post_mean": 0.00699,
+   "post_mean": 0.00676,
    "post_lo": 0,
-   "post_hi": 0.01508
+   "post_hi": 0.01458
   },
   "3-item callout": {
-   "pins": 11,
-   "impressions": 180,
+   "pins": 12,
+   "impressions": 196,
    "clicks": 0,
    "saves": 7,
-   "post_mean": 0.00262,
+   "post_mean": 0.00252,
    "post_lo": 0,
-   "post_hi": 0.00693
+   "post_hi": 0.00665
   },
   "headline (X under $Y)": {
-   "pins": 21,
-   "impressions": 236,
+   "pins": 22,
+   "impressions": 350,
    "clicks": 2,
    "saves": 12,
-   "post_mean": 0.00686,
-   "post_lo": 0.00037,
-   "post_hi": 0.01336
+   "post_mean": 0.00544,
+   "post_lo": 0.00029,
+   "post_hi": 0.0106
   },
   "single-product spotlight": {
-   "pins": 9,
-   "impressions": 52,
+   "pins": 10,
+   "impressions": 53,
    "clicks": 0,
    "saves": 4,
-   "post_mean": 0.00395,
+   "post_mean": 0.00394,
    "post_lo": 0,
-   "post_hi": 0.01043
+   "post_hi": 0.01039
   },
   "teaser (curiosity gap)": {
-   "pins": 12,
-   "impressions": 31,
+   "pins": 13,
+   "impressions": 49,
    "clicks": 0,
-   "saves": 4,
-   "post_mean": 0.00431,
+   "saves": 5,
+   "post_mean": 0.004,
    "post_lo": 0,
-   "post_hi": 0.01137
+   "post_hi": 0.01055
   },
   "minimal (big headline)": {
    "pins": 0,
@@ -913,57 +1024,57 @@
  "guides": {
   "gifts-for-him-under-50": {
    "pins": 9,
-   "impressions": 132,
+   "impressions": 146,
    "clicks": 1,
    "saves": 1,
-   "post_mean": 0.00601,
+   "post_mean": 0.00576,
    "post_lo": 0,
-   "post_hi": 0.01296
+   "post_hi": 0.01244
   },
   "stocking-stuffers-under-15": {
-   "pins": 30,
-   "impressions": 598,
+   "pins": 31,
+   "impressions": 714,
    "clicks": 2,
-   "saves": 16,
-   "post_mean": 0.00375,
-   "post_lo": 0.0002,
-   "post_hi": 0.00731
+   "saves": 17,
+   "post_mean": 0.00328,
+   "post_lo": 0.00017,
+   "post_hi": 0.00639
   },
   "white-elephant-gifts-under-25": {
-   "pins": 11,
-   "impressions": 558,
+   "pins": 14,
+   "impressions": 703,
    "clicks": 0,
-   "saves": 9,
-   "post_mean": 0.00132,
+   "saves": 10,
+   "post_mean": 0.00111,
    "post_lo": 0,
-   "post_hi": 0.00348
+   "post_hi": 0.00292
   },
   "gifts-for-mom": {
-   "pins": 11,
-   "impressions": 39,
+   "pins": 12,
+   "impressions": 42,
    "clicks": 0,
-   "saves": 9,
-   "post_mean": 0.00417,
+   "saves": 10,
+   "post_mean": 0.00412,
    "post_lo": 0,
-   "post_hi": 0.01099
+   "post_hi": 0.01086
   },
   "teacher-christmas-gifts": {
-   "pins": 4,
-   "impressions": 15,
+   "pins": 5,
+   "impressions": 16,
    "clicks": 0,
    "saves": 0,
-   "post_mean": 0.00463,
+   "post_mean": 0.00461,
    "post_lo": 0,
-   "post_hi": 0.01221
+   "post_hi": 0.01215
   },
   "gifts-for-dad-under-50": {
    "pins": 5,
-   "impressions": 20,
+   "impressions": 23,
    "clicks": 0,
    "saves": 0,
-   "post_mean": 0.00452,
+   "post_mean": 0.00446,
    "post_lo": 0,
-   "post_hi": 0.01193
+   "post_hi": 0.01178
   },
   "gift-basket-ideas": {
    "pins": 3,
@@ -976,15 +1087,15 @@
   },
   "coworker-secret-santa-gifts-under-25": {
    "pins": 5,
-   "impressions": 8,
+   "impressions": 9,
    "clicks": 0,
    "saves": 1,
-   "post_mean": 0.00478,
+   "post_mean": 0.00476,
    "post_lo": 0,
-   "post_hi": 0.01262
+   "post_hi": 0.01256
   },
   "gifts-for-her-under-50": {
-   "pins": 4,
+   "pins": 5,
    "impressions": 2,
    "clicks": 0,
    "saves": 0,
@@ -1009,20 +1120,30 @@
    "post_mean": 0.00495,
    "post_lo": 0,
    "post_hi": 0.01305
+  },
+  "gifts-for-sister-brother-under-30": {
+   "pins": 0,
+   "impressions": 0,
+   "clicks": 0,
+   "saves": 0,
+   "post_mean": 0.00498,
+   "post_lo": 0,
+   "post_hi": 0.01312
   }
  },
  "trend_weights": {
-  "gifts-for-him-under-50": 1.4,
-  "stocking-stuffers-under-15": 1.8,
-  "white-elephant-gifts-under-25": 2.5,
-  "gifts-for-mom": 2.1,
+  "gifts-for-him-under-50": 1.6,
+  "stocking-stuffers-under-15": 2.6,
+  "white-elephant-gifts-under-25": 3.0,
+  "gifts-for-mom": 1.4,
   "teacher-christmas-gifts": 2.0,
-  "gifts-for-dad-under-50": 1.4,
-  "gift-basket-ideas": 1.3,
+  "gifts-for-dad-under-50": 1.1,
+  "gift-basket-ideas": 0.9,
   "coworker-secret-santa-gifts-under-25": 1.9,
-  "gifts-for-her-under-50": 1.5,
-  "gifts-for-grandma-under-50": 1.3,
-  "neighbor-christmas-gifts-under-15": 1.5
+  "gifts-for-her-under-50": 1.1,
+  "gifts-for-grandma-under-50": 0.9,
+  "neighbor-christmas-gifts-under-15": 1.5,
+  "gifts-for-sister-brother-under-30": 1.3
  },
  "style_share": {
   "numbered list": 0.143,
@@ -1034,22 +1155,23 @@
   "minimal (big headline)": 0.143
  },
  "guide_share": {
-  "gifts-for-him-under-50": 0.075,
-  "stocking-stuffers-under-15": 0.096,
-  "white-elephant-gifts-under-25": 0.134,
-  "gifts-for-mom": 0.112,
-  "teacher-christmas-gifts": 0.107,
-  "gifts-for-dad-under-50": 0.075,
-  "gift-basket-ideas": 0.07,
-  "coworker-secret-santa-gifts-under-25": 0.102,
-  "gifts-for-her-under-50": 0.08,
-  "gifts-for-grandma-under-50": 0.07,
-  "neighbor-christmas-gifts-under-15": 0.08
+  "gifts-for-him-under-50": 0.083,
+  "stocking-stuffers-under-15": 0.135,
+  "white-elephant-gifts-under-25": 0.155,
+  "gifts-for-mom": 0.073,
+  "teacher-christmas-gifts": 0.104,
+  "gifts-for-dad-under-50": 0.057,
+  "gift-basket-ideas": 0.047,
+  "coworker-secret-santa-gifts-under-25": 0.098,
+  "gifts-for-her-under-50": 0.057,
+  "gifts-for-grandma-under-50": 0.047,
+  "neighbor-christmas-gifts-under-15": 0.078,
+  "gifts-for-sister-brother-under-30": 0.067
  },
  "today": [
   {
-   "style": "single-product spotlight",
-   "guide": "gifts-for-her-under-50",
+   "style": "minimal (big headline)",
+   "guide": "gifts-for-sister-brother-under-30",
    "palette": "evergreen gold",
    "colors": {
     "bg": "#1F4D3A",
@@ -1057,47 +1179,25 @@
     "acc": "#E0B252",
     "card": "#173B2C"
    },
-   "format": "short"
-  },
-  {
-   "style": "teaser (curiosity gap)",
-   "guide": "gifts-for-mom",
-   "palette": "evergreen gold",
-   "colors": {
-    "bg": "#1F4D3A",
-    "ink": "#FFF8EC",
-    "acc": "#E0B252",
-    "card": "#173B2C"
-   },
-   "format": "wordy"
-  },
-  {
-   "style": "3-item callout",
-   "guide": "gifts-for-mom",
-   "palette": "bold white",
-   "colors": {
-    "bg": "#FFFFFF",
-    "ink": "#111111",
-    "acc": "#E63946",
-    "card": "#F3F3F3"
-   },
-   "format": "short"
-  },
-  {
-   "style": "headline (X under $Y)",
-   "guide": "white-elephant-gifts-under-25",
-   "palette": "midnight navy",
-   "colors": {
-    "bg": "#14213D",
-    "ink": "#FFFFFF",
-    "acc": "#FCA311",
-    "card": "#1E2F55"
-   },
-   "format": "wordy"
+   "format": "short",
+   "launch_boost": true
   },
   {
    "style": "single-product spotlight",
-   "guide": "gifts-for-her-under-50",
+   "guide": "gifts-for-sister-brother-under-30",
+   "palette": "cream classic",
+   "colors": {
+    "bg": "#F4EDE4",
+    "ink": "#2B2420",
+    "acc": "#B5634B",
+    "card": "#FFFDF9"
+   },
+   "format": "wordy",
+   "launch_boost": true
+  },
+  {
+   "style": "minimal (big headline)",
+   "guide": "coworker-secret-santa-gifts-under-25",
    "palette": "evergreen gold",
    "colors": {
     "bg": "#1F4D3A",
@@ -1109,7 +1209,19 @@
   },
   {
    "style": "dark quote",
-   "guide": "coworker-secret-santa-gifts-under-25",
+   "guide": "stocking-stuffers-under-15",
+   "palette": "cream classic",
+   "colors": {
+    "bg": "#F4EDE4",
+    "ink": "#2B2420",
+    "acc": "#B5634B",
+    "card": "#FFFDF9"
+   },
+   "format": "wordy"
+  },
+  {
+   "style": "headline (X under $Y)",
+   "guide": "gifts-for-mom",
    "palette": "evergreen gold",
    "colors": {
     "bg": "#1F4D3A",
@@ -1117,18 +1229,30 @@
     "acc": "#E0B252",
     "card": "#173B2C"
    },
+   "format": "short"
+  },
+  {
+   "style": "minimal (big headline)",
+   "guide": "gifts-for-her-under-50",
+   "palette": "midnight navy",
+   "colors": {
+    "bg": "#14213D",
+    "ink": "#FFFFFF",
+    "acc": "#FCA311",
+    "card": "#1E2F55"
+   },
    "format": "wordy"
   }
  ],
  "palettes": {
   "cream classic": {
-   "pins": 64,
-   "impressions": 1327,
+   "pins": 66,
+   "impressions": 1608,
    "clicks": 3,
-   "saves": 34,
-   "post_mean": 0.00262,
-   "post_lo": 0.00047,
-   "post_hi": 0.00477
+   "saves": 36,
+   "post_mean": 0.00221,
+   "post_lo": 0.00039,
+   "post_hi": 0.00403
   },
   "christmas red": {
    "pins": 4,
@@ -1140,10 +1264,10 @@
    "post_hi": 0.01244
   },
   "evergreen gold": {
-   "pins": 4,
+   "pins": 6,
    "impressions": 8,
    "clicks": 0,
-   "saves": 0,
+   "saves": 1,
    "post_mean": 0.00478,
    "post_lo": 0,
    "post_hi": 0.01262
@@ -1158,22 +1282,22 @@
    "post_hi": 0.01204
   },
   "midnight navy": {
-   "pins": 5,
-   "impressions": 11,
+   "pins": 6,
+   "impressions": 12,
    "clicks": 0,
    "saves": 0,
-   "post_mean": 0.00472,
+   "post_mean": 0.00469,
    "post_lo": 0,
-   "post_hi": 0.01244
+   "post_hi": 0.01238
   },
   "bold white": {
-   "pins": 4,
-   "impressions": 13,
+   "pins": 6,
+   "impressions": 14,
    "clicks": 0,
    "saves": 2,
-   "post_mean": 0.00467,
+   "post_mean": 0.00465,
    "post_lo": 0,
-   "post_hi": 0.01232
+   "post_hi": 0.01227
   }
  },
  "palette_share": {
@@ -1186,22 +1310,22 @@
  },
  "formats": {
   "short": {
-   "pins": 6,
-   "impressions": 5,
+   "pins": 8,
+   "impressions": 6,
    "clicks": 0,
    "saves": 0,
-   "post_mean": 0.00485,
+   "post_mean": 0.00483,
    "post_lo": 0,
-   "post_hi": 0.0128
+   "post_hi": 0.01274
   },
   "wordy": {
-   "pins": 8,
-   "impressions": 9,
+   "pins": 12,
+   "impressions": 12,
    "clicks": 0,
-   "saves": 4,
-   "post_mean": 0.00476,
+   "saves": 7,
+   "post_mean": 0.00469,
    "post_lo": 0,
-   "post_hi": 0.01256
+   "post_hi": 0.01238
   }
  }
 }

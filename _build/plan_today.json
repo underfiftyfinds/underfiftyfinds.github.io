@@ -1,10 +1,10 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "mode": "exploring (not enough clicks yet)",
  "plan": [
   {
-   "style": "single-product spotlight",
-   "guide": "gifts-for-her-under-50",
+   "style": "minimal (big headline)",
+   "guide": "gifts-for-sister-brother-under-30",
    "palette": "evergreen gold",
    "colors": {
     "bg": "#1F4D3A",
@@ -12,47 +12,25 @@
     "acc": "#E0B252",
     "card": "#173B2C"
    },
-   "format": "short"
-  },
-  {
-   "style": "teaser (curiosity gap)",
-   "guide": "gifts-for-mom",
-   "palette": "evergreen gold",
-   "colors": {
-    "bg": "#1F4D3A",
-    "ink": "#FFF8EC",
-    "acc": "#E0B252",
-    "card": "#173B2C"
-   },
-   "format": "wordy"
-  },
-  {
-   "style": "3-item callout",
-   "guide": "gifts-for-mom",
-   "palette": "bold white",
-   "colors": {
-    "bg": "#FFFFFF",
-    "ink": "#111111",
-    "acc": "#E63946",
-    "card": "#F3F3F3"
-   },
-   "format": "short"
-  },
-  {
-   "style": "headline (X under $Y)",
-   "guide": "white-elephant-gifts-under-25",
-   "palette": "midnight navy",
-   "colors": {
-    "bg": "#14213D",
-    "ink": "#FFFFFF",
-    "acc": "#FCA311",
-    "card": "#1E2F55"
-   },
-   "format": "wordy"
+   "format": "short",
+   "launch_boost": true
   },
   {
    "style": "single-product spotlight",
-   "guide": "gifts-for-her-under-50",
+   "guide": "gifts-for-sister-brother-under-30",
+   "palette": "cream classic",
+   "colors": {
+    "bg": "#F4EDE4",
+    "ink": "#2B2420",
+    "acc": "#B5634B",
+    "card": "#FFFDF9"
+   },
+   "format": "wordy",
+   "launch_boost": true
+  },
+  {
+   "style": "minimal (big headline)",
+   "guide": "coworker-secret-santa-gifts-under-25",
    "palette": "evergreen gold",
    "colors": {
     "bg": "#1F4D3A",
@@ -64,13 +42,37 @@
   },
   {
    "style": "dark quote",
-   "guide": "coworker-secret-santa-gifts-under-25",
+   "guide": "stocking-stuffers-under-15",
+   "palette": "cream classic",
+   "colors": {
+    "bg": "#F4EDE4",
+    "ink": "#2B2420",
+    "acc": "#B5634B",
+    "card": "#FFFDF9"
+   },
+   "format": "wordy"
+  },
+  {
+   "style": "headline (X under $Y)",
+   "guide": "gifts-for-mom",
    "palette": "evergreen gold",
    "colors": {
     "bg": "#1F4D3A",
     "ink": "#FFF8EC",
     "acc": "#E0B252",
     "card": "#173B2C"
+   },
+   "format": "short"
+  },
+  {
+   "style": "minimal (big headline)",
+   "guide": "gifts-for-her-under-50",
+   "palette": "midnight navy",
+   "colors": {
+    "bg": "#14213D",
+    "ink": "#FFFFFF",
+    "acc": "#FCA311",
+    "card": "#1E2F55"
    },
    "format": "wordy"
   }
