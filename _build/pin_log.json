@@ -1732,6 +1732,119 @@
    "title": "Stocking Stuffers Under $15: 13 Cheap Stocking Stuffer Ideas People Actually Use",
    "posted_via": "pin/create/button + PinResource/update title",
    "note": "canva photo pin test #6; 3 picks per click rules"
+  },
+  {
+   "date": "2026-11-26",
+   "pin_id": "251709066671765773",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin97_neighbor_minimal_green.png",
+   "link": "/neighbor-christmas-gifts-under-15/",
+   "style": "minimal (big headline)",
+   "palette": "evergreen gold",
+   "format": "short",
+   "headline": "Easy neighbor gifts under $15",
+   "search_phrase": "neighbor christmas gifts",
+   "title": "Neighbor Christmas Gifts Under $15: 14 Easy Ideas for the Whole Street",
+   "also_saved_to": [],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-26",
+   "pin_id": "251709066671765778",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin98_santa_spotlight_navy.png",
+   "link": "/coworker-secret-santa-gifts-under-25/",
+   "style": "single-product spotlight",
+   "palette": "midnight navy",
+   "format": "wordy",
+   "headline": "The Secret Santa Gift Everyone Steals",
+   "search_phrase": "secret santa gifts",
+   "title": "Secret Santa Gifts Under $25: The Heated Neck Wrap Everyone Steals + 12 More",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671765789",
+     "date": "2026-11-26"
+    }
+   ],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-26",
+   "pin_id": "251709066671765779",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin99_him_spotlight_green.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "single-product spotlight",
+   "palette": "evergreen gold",
+   "format": "short",
+   "headline": "Gifts for boyfriend: start with the wallet",
+   "search_phrase": "gifts for boyfriend",
+   "title": "Gifts for Boyfriend Under $50: Start With the Slim Wallet (12 Ideas He Will Use)",
+   "also_saved_to": [],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-26",
+   "pin_id": "251709066671765781",
+   "board": "Teacher Christmas Gifts",
+   "image": "pins/pin100_teacher_spotlight_navy.png",
+   "link": "/teacher-christmas-gifts/",
+   "style": "single-product spotlight",
+   "palette": "midnight navy",
+   "format": "wordy",
+   "headline": "Teacher Christmas Gifts: Start With the Pens",
+   "search_phrase": "teacher christmas gifts",
+   "title": "Teacher Christmas Gifts Under $25: Start With the Flair Pens (14 Ideas)",
+   "note": "bandit slot 6 used in place of slot 4 (neighbor already had slot 1; teacher gets 1/day per strategy)",
+   "also_saved_to": [],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-26",
+   "pin_id": "251709066671765784",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin101_stocking_refresh_cream.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "numbered list",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "Stocking Stuffers Under $15 Nobody Re-Gifts",
+   "search_phrase": "stocking stuffers under $15",
+   "title": "Stocking Stuffers Under $15 Nobody Re-Gifts: 13 Small Gifts That Get Used",
+   "refresh_of": "251709066671355968",
+   "note": "REFRESH (replaces bandit slot 5)",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671765791",
+     "date": "2026-11-26"
+    }
+   ],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-26",
+   "pin_id": "251709066671765786",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin102_secretsanta_refresh_cream.png",
+   "link": "/coworker-secret-santa-gifts-under-25/",
+   "style": "numbered list",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "Secret Santa Gifts Under $25 That Feel Personal",
+   "search_phrase": "secret santa gifts",
+   "title": "Secret Santa Gifts Under $25 That Feel Personal: 13 Coworker Gift Ideas",
+   "refresh_of": "251709066671515317",
+   "note": "REFRESH (replaces bandit slot 6)",
+   "also_saved_to": [],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
   }
  ]
 }
