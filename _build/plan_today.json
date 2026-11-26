@@ -1,36 +1,10 @@
 {
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "mode": "exploring (not enough clicks yet)",
  "plan": [
   {
    "style": "minimal (big headline)",
-   "guide": "gifts-for-sister-brother-under-30",
-   "palette": "evergreen gold",
-   "colors": {
-    "bg": "#1F4D3A",
-    "ink": "#FFF8EC",
-    "acc": "#E0B252",
-    "card": "#173B2C"
-   },
-   "format": "short",
-   "launch_boost": true
-  },
-  {
-   "style": "single-product spotlight",
-   "guide": "gifts-for-sister-brother-under-30",
-   "palette": "cream classic",
-   "colors": {
-    "bg": "#F4EDE4",
-    "ink": "#2B2420",
-    "acc": "#B5634B",
-    "card": "#FFFDF9"
-   },
-   "format": "wordy",
-   "launch_boost": true
-  },
-  {
-   "style": "minimal (big headline)",
-   "guide": "coworker-secret-santa-gifts-under-25",
+   "guide": "neighbor-christmas-gifts-under-15",
    "palette": "evergreen gold",
    "colors": {
     "bg": "#1F4D3A",
@@ -41,20 +15,44 @@
    "format": "short"
   },
   {
-   "style": "dark quote",
-   "guide": "stocking-stuffers-under-15",
-   "palette": "cream classic",
+   "style": "single-product spotlight",
+   "guide": "coworker-secret-santa-gifts-under-25",
+   "palette": "midnight navy",
    "colors": {
-    "bg": "#F4EDE4",
-    "ink": "#2B2420",
-    "acc": "#B5634B",
-    "card": "#FFFDF9"
+    "bg": "#14213D",
+    "ink": "#FFFFFF",
+    "acc": "#FCA311",
+    "card": "#1E2F55"
+   },
+   "format": "wordy"
+  },
+  {
+   "style": "single-product spotlight",
+   "guide": "gifts-for-him-under-50",
+   "palette": "evergreen gold",
+   "colors": {
+    "bg": "#1F4D3A",
+    "ink": "#FFF8EC",
+    "acc": "#E0B252",
+    "card": "#173B2C"
+   },
+   "format": "short"
+  },
+  {
+   "style": "single-product spotlight",
+   "guide": "neighbor-christmas-gifts-under-15",
+   "palette": "evergreen gold",
+   "colors": {
+    "bg": "#1F4D3A",
+    "ink": "#FFF8EC",
+    "acc": "#E0B252",
+    "card": "#173B2C"
    },
    "format": "wordy"
   },
   {
    "style": "headline (X under $Y)",
-   "guide": "gifts-for-mom",
+   "guide": "stocking-stuffers-under-15",
    "palette": "evergreen gold",
    "colors": {
     "bg": "#1F4D3A",
@@ -65,8 +63,8 @@
    "format": "short"
   },
   {
-   "style": "minimal (big headline)",
-   "guide": "gifts-for-her-under-50",
+   "style": "single-product spotlight",
+   "guide": "teacher-christmas-gifts",
    "palette": "midnight navy",
    "colors": {
     "bg": "#14213D",
