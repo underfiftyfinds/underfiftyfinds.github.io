@@ -1845,6 +1845,118 @@
    "also_saved_to": [],
    "title_added": true,
    "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-27",
+   "pin_id": "251709066671779692",
+   "board": "Gifts for Mom",
+   "image": "pins/pin103_grandma_callout_red.png",
+   "link": "/gifts-for-grandma-under-50/",
+   "style": "3-item callout",
+   "palette": "christmas red",
+   "format": "short",
+   "headline": "14 Christmas gifts for grandma",
+   "search_phrase": "christmas gifts for grandma",
+   "title": "Christmas Gifts for Grandma Under $50: 14 Cozy, Useful Gifts She Will Love",
+   "note": "bandit slot 1",
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-27",
+   "pin_id": "251709066671779694",
+   "board": "Gifts for Him Under $50",
+   "image": "pins/pin104_boyfriend_list_cream.png",
+   "link": "/gifts-for-him-under-50/",
+   "style": "numbered list",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "Gifts for Boyfriend He'll Actually Use",
+   "search_phrase": "gifts for boyfriend",
+   "title": "Gifts for Boyfriend Under $50: 12 Gifts He Will Actually Use",
+   "note": "bandit slot 2",
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-27",
+   "pin_id": "251709066671779697",
+   "board": "Gifts for Her Under $50",
+   "image": "pins/pin105_her_spotlight_navy.png",
+   "link": "/gifts-for-her-under-50/",
+   "style": "single-product spotlight",
+   "palette": "midnight navy",
+   "format": "short",
+   "headline": "Gift ideas for women: start with hand cream",
+   "search_phrase": "gift ideas for women",
+   "title": "Gift Ideas for Women Under $50: Start With a Luxury Hand Cream Set",
+   "note": "bandit slot 3",
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-27",
+   "pin_id": "251709066671779700",
+   "board": "Teacher Christmas Gifts",
+   "image": "pins/pin106_teacher_minimal_green.png",
+   "link": "/teacher-christmas-gifts/",
+   "style": "minimal (big headline)",
+   "palette": "evergreen gold",
+   "format": "wordy",
+   "headline": "Teacher Christmas Gifts That Get Used Up",
+   "search_phrase": "teacher christmas gifts",
+   "title": "Teacher Christmas Gifts Under $25 That Get Used Up: 14 Practical Picks",
+   "note": "bandit slot 4 (guide swapped stocking -> teacher: teacher gets 1/day, stocking already has the refresh pin)",
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-27",
+   "pin_id": "251709066671779702",
+   "board": "Stocking Stuffers Under $15",
+   "image": "pins/pin107_men_refresh_cream.png",
+   "link": "/stocking-stuffers-under-15/",
+   "style": "numbered list",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "Stocking Stuffers for Men Who Say \"Nothing\"",
+   "search_phrase": "stocking stuffers for men",
+   "title": "Stocking Stuffers for Men Under $15: 13 Gifts for the Guy Who Says \"Nothing\"",
+   "refresh_of": "251709066671414682",
+   "note": "REFRESH (replaces bandit slot 5)",
+   "also_saved_to": [
+    {
+     "board": "Gifts for Him Under $50",
+     "repin_id": "251709066671779710",
+     "date": "2026-11-27"
+    }
+   ],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
+  },
+  {
+   "date": "2026-11-27",
+   "pin_id": "251709066671779703",
+   "board": "White Elephant Gift Ideas",
+   "image": "pins/pin108_elephant_refresh_cream.png",
+   "link": "/white-elephant-gifts-under-25/",
+   "style": "numbered list",
+   "palette": "cream classic",
+   "format": "wordy",
+   "headline": "White Elephant Gift Ideas Worth Stealing",
+   "search_phrase": "white elephant gift ideas",
+   "title": "White Elephant Gift Ideas Under $25: 15 Gifts Worth Stealing",
+   "refresh_of": "251709066671383041",
+   "note": "REFRESH (replaces bandit slot 6)",
+   "also_saved_to": [
+    {
+     "board": "Amazon Finds Under $25",
+     "repin_id": "251709066671779712",
+     "date": "2026-11-27"
+    }
+   ],
+   "title_added": true,
+   "posted_via": "PinResource/create API"
   }
  ]
 }
