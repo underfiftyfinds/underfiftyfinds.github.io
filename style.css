@@ -32,3 +32,16 @@ h2{font-size:26px;margin:40px 0 6px}
 .guide .tag{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--acc-dk);font-weight:600}
 footer{border-top:1px solid var(--line);margin-top:50px;padding:24px 0 40px;font-size:13.5px;color:var(--muted)}
 @media (max-width:480px){nav a{margin-left:10px;font-size:14px}.card{padding:18px 16px}}
+
+/* Gift Finder (2026-11-27) */
+.finder-tip{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;font-size:15px}
+.finder-tip a{color:var(--acc);font-weight:600}
+.finder-cta{display:block;background:var(--acc);color:#fff;border-radius:14px;padding:18px 22px;margin:18px 0 24px;text-decoration:none}
+.finder-cta strong{display:block;font-size:20px}.finder-cta span{opacity:.9}
+.filters{position:sticky;top:0;background:var(--bg);padding:10px 0 6px;z-index:5;border-bottom:1px solid var(--line);margin-bottom:16px}
+.flabel{font-size:12px;letter-spacing:.12em;text-transform:uppercase;margin:8px 0 6px;opacity:.7}
+.chips{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px}
+.chip{flex:0 0 auto;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:8px 14px;font:600 14px Inter,sans-serif;cursor:pointer}
+.chip.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.count{font-size:14px;margin:8px 0 0;opacity:.75}
+.from{font-size:13px;color:var(--acc);margin-left:6px}
